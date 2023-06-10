@@ -42,7 +42,7 @@ I don't have a lot to say about OPPO.<br/>
 The most annoying part about them is that you *can* unlock your bootloader, but only if you can enter fastboot. And guess what? They locked fastboot with an RSA key!<br/>
 https://forum.xda-developers.com/t/discussion-a-thread-to-collate-and-share-what-is-known-about-unlocking-fastboot-on-oppo-devices.4490041/
 
-As per Realme, they decieded that segregating people by ~~race~~ their phone's region is cool. If you didn't buy your phone in China or India, chances are you won't be unlocking anything anytime soon.
+As per Realme, they decided that segregating people by ~~race~~ their phone's region is cool. If you didn't buy your phone in China or India, chances are you won't be unlocking anything anytime soon.
 
 In April-May 2023 you could unlock any Realme phone using this script https://github.com/turistu/rmx3474-rooting, but on May 26th Realme posted this joke of an announcement on their forum https://c.realme.com/in/post-details/1661960232244367360 <br/>
 The script *might* still work on some models. (Not a lot of info is available) <br/>
