@@ -10,7 +10,7 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 # The list:
 
-## Avoid at all cost!
+## Avoid at all costs!
 
 ### 1. Huawei/Honor
 In the past, Huawei allowed you to unlock with a special code you get by submitting some information to emui.com (IMEI, serial, model, and product ID), but in 2018 "corporate values have changed" and the site went down. <br/>
