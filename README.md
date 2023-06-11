@@ -60,7 +60,7 @@ In April-May 2023 you could unlock any Realme phone using this script https://gi
 The script *might* still work on some models. (Not a lot of info is available) <br/>
 If you need DeepTesting, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721
 
-Older MTK-based models can use the mtkclient method. There *might* be a Unisoc method, but I've never seen it.
+Older MTK-based models can use the [mtkclient method](https://github.com/melontini/bootloader-unlock-wall-of-shame#mediatek). There *might* be a Unisoc method, but I've never seen it.
 
 ## Proceed with caution!
 
