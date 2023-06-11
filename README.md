@@ -36,20 +36,18 @@ It's not possible. (I think)
 In the flaming pile of HMD's "great" decisions to improve Nokia, one stands out more than others: They decided to follow the fresh "lock the bootloader" trend.<br/>
 Why was this necessary? I don't know...
 
-Well, anyway. On some models, hikari_calyx leaked the prototype ABL.
+Well, anyway. On some models, hikari_calyx found the prototype ABL.
 
-Nokia 8.3 5G:
-https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/
-
-Nokia 5.3:
-https://forum.xda-developers.com/t/guide-heres-how-to-unlock-the-bootloader-of-nokia-5-3.4568619/
+Nokia 8.3 5G: https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/ <br/>
+Nokia 5.3: https://forum.xda-developers.com/t/guide-heres-how-to-unlock-the-bootloader-of-nokia-5-3.4568619/
 
 ### 4. Vivo/IQOO
 The BBK family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
 
 Well, that is if https://forum.xda-developers.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/ doesn't apply to you.
 
-On pre-May 2020 firmware. I believe these methods *were* ~universal, but proceed with caution: <br/>
+On pre-May 2020 firmware. I believe these methods *were* ~universal, but proceed with caution:
+
 Vivo x70 Pro+: https://forum.xda-developers.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/ <br/>
 Vivo Y31 2021: https://forum.xda-developers.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/
 
