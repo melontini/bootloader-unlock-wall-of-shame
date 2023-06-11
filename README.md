@@ -32,12 +32,24 @@ Through HCU-client (Not everything is supported + incredible prices https://hcu-
 ### 2. Samsung (Qualcomm)
 It's not possible. (I think)
 
-### 3. Vivo/IQOO
+### 3. HMD Global/Nokia
+In the flaming pile of HMD's "great" decisions to improve Nokia, one stands out more than others: They decided to follow the fresh "lock the bootloader" trend.<br/>
+Why was this necessary? I don't know...
+
+Well, anyway. On some models, hikari_calyx leaked the prototype ABL.
+
+Nokia 8.3 5G:
+https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/
+
+Nokia 5.3:
+https://forum.xda-developers.com/t/guide-heres-how-to-unlock-the-bootloader-of-nokia-5-3.4568619/
+
+### 4. Vivo/IQOO
 The BBK family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
 
 Well, that is if https://forum.xda-developers.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/ doesn't apply to you.
 
-### 4. OPPO/Realme (Non CN/IN)
+### 5. OPPO/Realme (Non CN/IN)
 I don't have a lot to say about OPPO.<br/>
 The most annoying part about them is that you *can* unlock your bootloader, but only if you can enter fastboot. And guess what? They locked fastboot with an RSA key!<br/>
 https://forum.xda-developers.com/t/discussion-a-thread-to-collate-and-share-what-is-known-about-unlocking-fastboot-on-oppo-devices.4490041/
