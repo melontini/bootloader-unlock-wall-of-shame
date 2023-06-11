@@ -76,4 +76,8 @@ If you have an Exynos-based Samsung, you can unlock your phone, but this will pe
 
 Some of those features can be fixed with this LsPosed module https://github.com/BlackMesa123/KnoxPatch and this Magisk Module https://github.com/BlackMesa123/KnoxPatch#knoxpatch-enhancer.
 
+# Additional Info
 
+## MediaTek
+If you own a MediaTek device exploitable by https://github.com/bkerler/mtkclient you can unlock the bootloader using that.<br/>
+If it also happens to be an OPPO/Realme device and you need to access fastboot: https://github.com/R0rt1z2/oplus-unlock
