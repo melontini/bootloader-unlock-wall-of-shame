@@ -46,7 +46,7 @@ The BBK family has an unlocking problem. If in case of OPPO/Realme they at least
 
 Well, that is if https://forum.xda-developers.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/ doesn't apply to you.
 
-On pre-May 2020 firmware. I believe these methods *were* ~universal, but proceed with caution:
+On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed with caution:
 
 Vivo x70 Pro+: https://forum.xda-developers.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/ <br/>
 Vivo Y31 2021: https://forum.xda-developers.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/
