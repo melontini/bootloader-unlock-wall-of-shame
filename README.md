@@ -78,6 +78,16 @@ If you have an Exynos-based Samsung, you can unlock your phone, but this will pe
 
 Some of those features can be fixed with this LsPosed module https://github.com/BlackMesa123/KnoxPatch and this Magisk Module https://github.com/BlackMesa123/KnoxPatch#knoxpatch-enhancer.
 
+### 3. OnePlus
+What? OnePlus? Aren't their phones super easy to unlock? - yes, but... <br/>
+You probably heard about the OnePlus X OPPO os merger and while it did get called off, both companies started sharing a "unified codebase". You can probably see where I'm going.
+
+If one day OnePlus decides to practice racism like Realme or go nuclear like OPPO/Vivo, they'll have those "unified" tools at their disposal.
+
+### 4. Xiaomi/Redmi/POCO
+Currently, Xiaomi allows everyone to unlock, well, that is, if you have a SIM card, internet connection, a MI account, can set up their unlock tool and have 7 days (or more) at your disposal. <br/>
+The problem is that their unlock process is similar to that of OPPO, where you have accounts, verifications, RSA keys and more. And while it doesn't seem like they're going to change their policy anytime soon, but if they do, they can just break the unlock tool/block you with that MI account.
+
 # Additional Info
 
 ## MediaTek
