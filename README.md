@@ -59,7 +59,13 @@ https://forum.xda-developers.com/t/discussion-a-thread-to-collate-and-share-what
 As per Realme, they decided that segregating people by ~~race~~ their phone's region is cool. If you didn't buy your phone in China or India, chances are you won't be unlocking anything anytime soon.
 
 In April-May 2023 you could unlock any Realme phone using this script https://github.com/turistu/rmx3474-rooting, but on May 26th Realme posted this joke of an announcement on their forum https://c.realme.com/in/post-details/1661960232244367360 <br/>
-The script *might* still work on some models. (Not a lot of info is available) <br/>
+~The script *might* still work on some models. (Not a lot of info is available)~ <br/>
+
+June 21st update:
+The unlock server has been shut down once more. <br/>
+This time they posted the same message for the second time! https://c.realme.com/in/post-details/1671137365285982208 🤡🤡🤡 <br/>
+They also sneakily deleted their old announcement, even though the server has never been open since then.
+
 If you need DeepTesting, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721
 
 Older MTK-based models can use the [mtkclient method](https://github.com/melontini/bootloader-unlock-wall-of-shame#mediatek). There *might* be a Unisoc method, but I've never seen it.
