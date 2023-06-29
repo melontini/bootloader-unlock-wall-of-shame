@@ -6,7 +6,7 @@ Over the past few years, a suspicious number of companies have started to "take 
 
 While this may not affect you directly, it sets a bad precedent and it might be a good idea to keep track of companies and workarounds.
 
-If you know of specific details/unlocking methods, please PR them or drop them in the issues.
+If you know of specific details/unlocking methods, please PR them or drop them in the [discussions](https://github.com/melontini/bootloader-unlock-wall-of-shame/discussions)
 
 # The list:
 
