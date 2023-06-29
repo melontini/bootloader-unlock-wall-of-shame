@@ -2,6 +2,9 @@
 # Bootloader Unlock: Wall of Shame
 Keeping track of companies that "care about your data 🥺"
 
+![GitHub](https://img.shields.io/github/license/melontini/bootloader-unlock-wall-of-shame)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelontini%2Fbootloader-unlock-wall-of-shame&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Why?
 Over the past few years, a suspicious number of companies have started to "take care of your data", aka block/strictly limit your ability to unlock the bootloader on your *own* devices.
 
