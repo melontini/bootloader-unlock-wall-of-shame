@@ -103,3 +103,7 @@ The problem is that their unlock process is similar to that of OPPO, where you h
 ## MediaTek
 If you own a MediaTek device exploitable by https://github.com/bkerler/mtkclient you can unlock the bootloader using that.<br/>
 If it also happens to be an OPPO/Realme device and you need to access fastboot: https://github.com/R0rt1z2/oplus-unlock
+
+## Unisoc
+
+If you own a phone with the Unisoc ud710 or ums512 SOCs you can look into this exploit: https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader
