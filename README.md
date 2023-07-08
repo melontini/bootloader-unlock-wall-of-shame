@@ -93,6 +93,8 @@ If one day OnePlus decides to practice racism like Realme or go nuclear like OPP
 Currently, Xiaomi allows everyone to unlock, well, that is, if you have a SIM card, internet connection, a MI account, can set up their unlock tool and have 7 days (or more) at your disposal. <br/>
 The problem is that their unlock process is similar to that of OPPO, where you have accounts, verifications, RSA keys and more. And while it doesn't seem like they're going to change their policy anytime soon, but if they do, they can just break the unlock tool/block you with that MI account.
 
+Read more here: https://github.com/lrh2000/Xiaomi-bootloader
+
 # SOC based
 Universal methods for different SOCs.
 
