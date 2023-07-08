@@ -112,7 +112,7 @@ If you own a phone with the Unisoc ud710 or ums512 SOCs you can look into this e
 ## Qualcomm 
 There's no Universal Qualcomm method, unfortunately.
 
-Although some of those might work for you:
+Although some of these might work for you:
 
 The general exploit:<br/>
 https://alephsecurity.com/2018/01/22/qualcomm-edl-2/ the bootloader unlock section.
