@@ -108,3 +108,17 @@ If it also happens to be an OPPO/Realme device and you need to access fastboot: 
 
 ## Unisoc
 If you own a phone with the Unisoc ud710 or ums512 SOCs you can look into this exploit: https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader
+
+## Qualcomm 
+There's no Universal Qualcomm method, unfortunately.
+
+Although some of those might work for you:
+
+The general exploit:<br/>
+https://alephsecurity.com/2018/01/22/qualcomm-edl-2/ the bootloader unlock section.
+
+Old ZTE devices:<br/>
+https://forum.xda-developers.com/t/bootloader-unlocking-on-older-qualcomm-zte-devices-devinfo-partition-modification.4100897/
+
+Xiaomi Mi A1 and maybe all MSM89** manufactured before 2018:<br/>
+https://github.com/Giovix92/EDLUnlock
