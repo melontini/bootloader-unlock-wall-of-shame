@@ -8,7 +8,7 @@ Keeping track of companies that "care about your data 🥺"
 ## Why?
 Over the past few years, a suspicious number of companies have started to "take care of your data", aka block/strictly limit your ability to unlock the bootloader on your *own* devices.
 
-While this may not affect you directly, it sets a bad precedent and it might be a good idea to keep track of companies and workarounds.
+While this may not affect you directly, it sets a bad precedent. You never know what will get the axe next: Shizuku? ADB? Sideloading? I thought it might be a good idea to keep track of bad companies and workarounds.
 
 If you know of specific details/unlocking methods, please PR them or drop them in the [discussions](https://github.com/melontini/bootloader-unlock-wall-of-shame/discussions)
 
@@ -71,8 +71,6 @@ This time they posted the same message for the second time! https://c.realme.com
 They also sneakily deleted their old announcement, even though the server has never been open since then.
 
 If you need DeepTesting, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721
-
-Older MTK-based models can use the [mtkclient method](https://github.com/melontini/bootloader-unlock-wall-of-shame#mediatek). There *might* be a Unisoc method, but I've never seen it.
 
 ## Proceed with caution!
 
