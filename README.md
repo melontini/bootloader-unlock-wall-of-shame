@@ -20,10 +20,7 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 In the past, Huawei allowed you to unlock with a special code you get by submitting some information to emui.com (IMEI, serial, model, and product ID), but in 2018 "corporate values have changed" and the site went down. <br/>
 Worse, on Android 10+, the unlock command has been **completely removed** from fastboot.
 
-But for some models, it's still possible to unlock.
-
-Kirin 620, Kirin 650, Kirin 655, Kirin 658, Kirin 659, Kirin 925, Kirin 935, Kirin 950, Kirin 960:<br/>
-It's possible to unlock using testpoints and https://github.com/mashed-potatoes/PotatoNV (Read the readme)
+Certain Kirin-based phones can use [PotatoNV](https://github.com/melontini/bootloader-unlock-wall-of-shame#kirin)
 
 Older models, through bruteforce:<br/>
 https://github.com/rainxh11/HuaweiBootloader_Bruteforce <br/>
@@ -96,12 +93,16 @@ If one day OnePlus decides to practice racism like Realme or go nuclear like OPP
 Currently, Xiaomi allows everyone to unlock, well, that is, if you have a SIM card, internet connection, a MI account, can set up their unlock tool and have 7 days (or more) at your disposal. <br/>
 The problem is that their unlock process is similar to that of OPPO, where you have accounts, verifications, RSA keys and more. And while it doesn't seem like they're going to change their policy anytime soon, but if they do, they can just break the unlock tool/block you with that MI account.
 
-# Additional Info
+# SOC based
+Universal methods for different SOCs.
+
+## Kirin
+Kirin 620, Kirin 650, Kirin 655, Kirin 658, Kirin 659, Kirin 925, Kirin 935, Kirin 950, Kirin 960:<br/>
+It's possible to unlock using testpoints and https://github.com/mashed-potatoes/PotatoNV (Read the readme)
 
 ## MediaTek
 If you own a MediaTek device exploitable by https://github.com/bkerler/mtkclient you can unlock the bootloader using that.<br/>
 If it also happens to be an OPPO/Realme device and you need to access fastboot: https://github.com/R0rt1z2/oplus-unlock
 
 ## Unisoc
-
 If you own a phone with the Unisoc ud710 or ums512 SOCs you can look into this exploit: https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader
