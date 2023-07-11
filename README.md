@@ -83,6 +83,15 @@ If you have an Exynos-based Samsung, you can unlock your phone, but this will pe
 
 Some of those features can be fixed with this LsPosed module https://github.com/BlackMesa123/KnoxPatch and this Magisk Module https://github.com/BlackMesa123/KnoxPatch#knoxpatch-enhancer.
 
+### Motorola
+To start off, to unlock your bootloader you need to make a request on their website, which is pretty bad on its own (*wink* Huawei), but there's also no way to know if your model supports unlocking beforehand.
+
+[This page](https://en-us.support.motorola.com/app/answers/detail/a_id/87215) says that "Most of our latest devices support our bootloader unlock program."<br/>
+[This page](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a) says only "Photon Q 4G LTE, DROID RAZR M(Developer Edition), DROID RAZR HD(Developer Edition CDMA-LTE), MOTOROLA RAZR HD (Rest of World -UMTS/LTE), MOTOROLA RAZR HD (Rogers Canada - UMTS/LTE) and MOTOROLA RAZR i are supported by the Bootloader Unlock site."<br/>
+[And from this conversation](https://forum.xda-developers.com/t/how-to-guide-unlocking-using-deeptest-gdpr.4585829/post-88734665) [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
+
+> Moto used confusion! It seems pretty effective...
+
 ### 3. OnePlus
 What? OnePlus? Aren't their phones super easy to unlock? - yes, but... <br/>
 You probably heard about the OnePlus X OPPO os merger and while it did get called off, both companies started sharing a "unified codebase". You can probably see where I'm going.
@@ -108,6 +117,10 @@ If it also happens to be an OPPO/Realme device and you need to access fastboot: 
 
 ## Unisoc
 If you own a phone with the Unisoc ud710 or ums512 SOCs you can look into this exploit: https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader
+
+Otherwise, you can also look into this: https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool <br/>
+This: https://forum.xda-developers.com/t/alldocube-t803-smile_1-bootloader-unlock-w-unisoc-t310.4393389/ <br/>
+Or this: https://github.com/Iscle/subut
 
 ## Qualcomm 
 There's no Universal Qualcomm method, unfortunately.
