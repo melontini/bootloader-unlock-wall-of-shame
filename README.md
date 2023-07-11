@@ -108,7 +108,7 @@ Read more here: https://github.com/lrh2000/Xiaomi-bootloader
 Universal methods for different SOCs.
 
 ## Kirin
-Kirin 620, Kirin 650, Kirin 655, Kirin 658, Kirin 659, Kirin 925, Kirin 935, Kirin 950, Kirin 960:<br/>
+Kirin 620, 650, 655, 658, 659, 925, 935, 950, 960:<br/>
 It's possible to unlock using testpoints and https://github.com/mashed-potatoes/PotatoNV (Read the readme)
 
 ## MediaTek
