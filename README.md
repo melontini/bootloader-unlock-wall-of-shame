@@ -2,7 +2,7 @@
 # Bootloader Unlock: Wall of Shame
 Keeping track of companies that "care about your data 🥺"
 
-![GitHub](https://img.shields.io/github/license/melontini/bootloader-unlock-wall-of-shame)
+[![Static Badge](https://img.shields.io/badge/License-CC--BY--NC--SA-blue)](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/LICENSE)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelontini%2Fbootloader-unlock-wall-of-shame&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Why?
