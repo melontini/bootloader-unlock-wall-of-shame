@@ -1,5 +1,5 @@
 ![Bootloader Unlock: Wall of Shame](https://raw.githubusercontent.com/melontini/bootloader-unlock-wall-of-shame/main/bu_wos_banner_s.webp)
-# Bootloader Unlock: Wall of Shame
+
 Keeping track of companies that "care about your data 🥺"
 
 [![Static Badge](https://img.shields.io/badge/License-CC--BY--NC--SA-blue)](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/LICENSE)
