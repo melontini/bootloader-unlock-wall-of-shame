@@ -67,6 +67,8 @@ If you need DeepTesting, try this: https://forum.xda-developers.com/t/unlock-boo
 
 ## Proceed with caution!
 
+Reminder that no matter how nice a company is, you should not trust them unless their unlock process is 100% offline.
+
 ### 1. Realme (CN)
 Seeing how easily Realme dropped the ball on their global users, I personally would be worried about their future plans.
 
