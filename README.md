@@ -16,7 +16,7 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ## Avoid at all costs!
 
-### 1. Huawei/Honor
+### Huawei/Honor
 In the past, Huawei allowed you to unlock with a special code you get by submitting some information to emui.com (IMEI, serial, model, and product ID), but in 2018 "corporate values have changed" and the site went down. <br/>
 Worse, on Android 10+, the unlock command has been **completely removed** from fastboot.
 
@@ -30,10 +30,10 @@ Paid methods:<br/>
 I don't recommend paid methods due to general sketchiness. I have used one of these tools a while ago, it was okay.<br/>
 Through HCU-client (Not everything is supported + incredible prices https://hcu-client.com/buy/) or DC-Unlocker (Same problems as HCU https://www.dc-unlocker.com/buy)
 
-### 2. Samsung (Qualcomm)
+### Samsung (Qualcomm)
 It's not possible. (I think)
 
-### 3. HMD Global/Nokia
+### HMD Global/Nokia
 In the flaming pile of HMD's "great" decisions to improve Nokia, one stands out more than others: They decided to follow the fresh "lock the bootloader" trend.<br/>
 Why was this necessary? I don't know...
 
@@ -42,7 +42,7 @@ Well, anyway. On some models, hikari_calyx found the prototype ABL.
 Nokia 8.3 5G: https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/ <br/>
 Nokia 5.3: https://forum.xda-developers.com/t/guide-heres-how-to-unlock-the-bootloader-of-nokia-5-3.4568619/
 
-### 4. Vivo/IQOO
+### Vivo/IQOO
 The BBK family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
 
 Well, that is if https://forum.xda-developers.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/ doesn't apply to you.
@@ -52,7 +52,7 @@ On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed
 Vivo x70 Pro+: https://forum.xda-developers.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/ <br/>
 Vivo Y31 2021: https://forum.xda-developers.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/
 
-### 5. OPPO/Realme (Non CN)
+### OPPO/Realme (Non CN)
 I don't have a lot to say about OPPO.<br/>
 The most annoying part about them is that you *can* unlock your bootloader, but only if you can enter fastboot. And guess what? They locked fastboot with an RSA key!<br/>
 https://forum.xda-developers.com/t/discussion-a-thread-to-collate-and-share-what-is-known-about-unlocking-fastboot-on-oppo-devices.4490041/
@@ -74,14 +74,14 @@ https://forum.xda-developers.com/t/bootloader-unlocking-on-older-qualcomm-zte-de
 
 Reminder that no matter how nice a company is, you should not trust them unless their unlock process is 100% offline.
 
-### 1. Realme (CN)
+### Realme (CN)
 Seeing how easily Realme dropped the ball on their global users, I personally would be worried about their future plans.
 
 For now you can use any of the guides here https://c.realme.com/in/post-details/1248075024070344704 (They're just copy-pasting the same info as the unlock process didn't change much at all)
 
 If you need DeepTesting, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721
 
-### 2. Samsung (Exynos)
+### Samsung (Exynos)
 If you have an Exynos-based Samsung, you can unlock your phone, but this will permanently trip Knox. As a result *any* Knox based features will be broken *even if you re-lock*. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Can you be denied warranty? Probably...
 
 Some of those features can be fixed with this LsPosed module https://github.com/BlackMesa123/KnoxPatch and this Magisk Module https://github.com/BlackMesa123/KnoxPatch#knoxpatch-enhancer.
@@ -95,13 +95,13 @@ To start off, to unlock your bootloader you need to make a request on their webs
 
 > Moto used confusion! It seems pretty effective...
 
-### 3. OnePlus
+### OnePlus
 What? OnePlus? Aren't their phones super easy to unlock? - yes, but... <br/>
 You probably heard about the OnePlus X OPPO os merger and while it did get called off, both companies started sharing a "unified codebase". You can probably see where I'm going.
 
 If one day OnePlus decides to practice racism like Realme or go nuclear like OPPO/Vivo, they'll have those "unified" tools at their disposal.
 
-### 4. Xiaomi/Redmi/POCO
+### Xiaomi/Redmi/POCO
 Currently, Xiaomi allows everyone to unlock, well, that is, if you have a SIM card, internet connection, a MI account, can set up their unlock tool and have 7 days (or more) at your disposal. <br/>
 The problem is that their unlock process is similar to that of OPPO, where you have accounts, verifications, RSA keys and more. And while it doesn't seem like they're going to change their policy anytime soon, but if they do, they can just break the unlock tool/block you with that MI account.
 
