@@ -23,8 +23,8 @@ Worse, on Android 10+, the unlock command has been **completely removed** from f
 Certain Kirin-based phones can use [PotatoNV](https://github.com/melontini/bootloader-unlock-wall-of-shame#kirin)
 
 Older models, through bruteforce:<br/>
-https://github.com/rainxh11/HuaweiBootloader_Bruteforce <br/>
-https://github.com/Martazza/Huawei-Bootloader-Unlocker
+* https://github.com/rainxh11/HuaweiBootloader_Bruteforce
+* https://github.com/Martazza/Huawei-Bootloader-Unlocker
 
 Paid methods:<br/>
 I don't recommend paid methods due to general sketchiness. I have used one of these tools a while ago, it was okay.<br/>
@@ -39,8 +39,8 @@ Why was this necessary? I don't know...
 
 Well, anyway. On some models, hikari_calyx found the prototype ABL.
 
-Nokia 8.3 5G: https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/ <br/>
-Nokia 5.3: https://forum.xda-developers.com/t/guide-heres-how-to-unlock-the-bootloader-of-nokia-5-3.4568619/
+* Nokia 8.3 5G: https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/
+* Nokia 5.3: https://forum.xda-developers.com/t/guide-heres-how-to-unlock-the-bootloader-of-nokia-5-3.4568619/
 
 ### Vivo/IQOO
 The BBK family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
@@ -49,8 +49,8 @@ Well, that is if https://forum.xda-developers.com/t/how-to-unlock-bootloader-of-
 
 On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed with caution:
 
-Vivo x70 Pro+: https://forum.xda-developers.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/ <br/>
-Vivo Y31 2021: https://forum.xda-developers.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/
+* Vivo x70 Pro+: https://forum.xda-developers.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/
+* Vivo Y31 2021: https://forum.xda-developers.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/
 
 ### OPPO/Realme (Non CN)
 I don't have a lot to say about OPPO.<br/>
@@ -89,9 +89,9 @@ Some of those features can be fixed with this LsPosed module https://github.com/
 ### Motorola
 To start off, to unlock your bootloader you need to make a request on their website, which is pretty bad on its own (*wink* Huawei), but there's also no way to know if your model supports unlocking beforehand.
 
-[This page](https://en-us.support.motorola.com/app/answers/detail/a_id/87215) says that "Most of our latest devices support our bootloader unlock program."<br/>
-[This page](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a) says only "Photon Q 4G LTE, DROID RAZR M(Developer Edition), DROID RAZR HD(Developer Edition CDMA-LTE), MOTOROLA RAZR HD (Rest of World -UMTS/LTE), MOTOROLA RAZR HD (Rogers Canada - UMTS/LTE) and MOTOROLA RAZR i are supported by the Bootloader Unlock site."<br/>
-[And from this conversation](https://forum.xda-developers.com/t/how-to-guide-unlocking-using-deeptest-gdpr.4585829/post-88734665) [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
+* [This page](https://en-us.support.motorola.com/app/answers/detail/a_id/87215) says that "Most of our latest devices support our bootloader unlock program."
+* [This page](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a) says only "Photon Q 4G LTE, DROID RAZR M(Developer Edition), DROID RAZR HD(Developer Edition CDMA-LTE), MOTOROLA RAZR HD (Rest of World -UMTS/LTE), MOTOROLA RAZR HD (Rogers Canada - UMTS/LTE) and MOTOROLA RAZR i are supported by the Bootloader Unlock site."
+* [And from this conversation](https://forum.xda-developers.com/t/how-to-guide-unlocking-using-deeptest-gdpr.4585829/post-88734665) [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
 
 > Moto used confusion! It seems pretty effective...
 
