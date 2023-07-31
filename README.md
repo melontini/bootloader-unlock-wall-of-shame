@@ -65,6 +65,11 @@ July 30th update: the server is still closed with no opening in sight.
 
 If you need DeepTesting, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721
 
+### ZTE
+
+Old devices (pre Android 8):<br/>
+https://forum.xda-developers.com/t/bootloader-unlocking-on-older-qualcomm-zte-devices-devinfo-partition-modification.4100897/
+
 ## Proceed with caution!
 
 Reminder that no matter how nice a company is, you should not trust them unless their unlock process is 100% offline.
@@ -127,9 +132,6 @@ Although some of these might work for you:
 
 The general exploit:<br/>
 https://alephsecurity.com/2018/01/22/qualcomm-edl-2/ the bootloader unlock section.
-
-Old ZTE devices:<br/>
-https://forum.xda-developers.com/t/bootloader-unlocking-on-older-qualcomm-zte-devices-devinfo-partition-modification.4100897/
 
 Xiaomi Mi A1 and maybe all MSM89** manufactured before 2018:<br/>
 https://github.com/Giovix92/EDLUnlock
