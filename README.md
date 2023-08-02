@@ -61,8 +61,6 @@ As per Realme, they decided that segregating people by ~~race~~ their phone's re
 In April-May 2023 you could unlock any Realme phone using this script https://github.com/turistu/rmx3474-rooting, but on May 26th Realme posted this joke of an announcement on their forum https://c.realme.com/in/post-details/1671137365285982208. (They deleted the original announcement)
 Since then, they have forced their servers to return only "new struct" keys, making the Deep Testing app useless if your model is not supported.
 
-If you need Deep Testing, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721
-
 ### ZTE
 
 Old devices (pre Android 8):<br/>
@@ -77,7 +75,7 @@ Seeing how easily Realme dropped the ball on their global users, I personally wo
 
 For now you can use any of the guides here https://c.realme.com/in/post-details/1248075024070344704 (They're just copy-pasting the same info as the unlock process didn't change much at all). As of June, your applications can take up to 7 days to be approved.
 
-If you need DeepTesting, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721
+If you need Deep Testing, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721.
 
 ### Samsung (Exynos)
 If you have an Exynos-based Samsung, you can unlock your phone, but this will permanently trip Knox. As a result *any* Knox based features will be broken *even if you re-lock*. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Can you be denied warranty? Probably...
