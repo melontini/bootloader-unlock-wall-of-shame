@@ -52,7 +52,7 @@ On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed
 * Vivo x70 Pro+: https://forum.xda-developers.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/
 * Vivo Y31 2021: https://forum.xda-developers.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/
 
-### OPPO/Realme (Non CN/IN)
+### OPPO/Realme
 I don't have a lot to say about OPPO.<br/>
 The most annoying part about them is that you *can* unlock your bootloader, but only if you can enter fastboot. And guess what? They locked fastboot with an RSA key!
 
@@ -60,6 +60,12 @@ As per Realme, they decided that segregating people by ~~race~~ their phone's re
 
 In April-May 2023 you could unlock any Realme phone using this script https://github.com/turistu/rmx3474-rooting, but on May 26th Realme posted this joke of an announcement on their forum https://c.realme.com/in/post-details/1671137365285982208. (They deleted the original announcement)
 Since then, they have forced their servers to return only "new struct" keys, making the Deep Testing app useless if your model is not supported.
+
+As per China and India... Seeing how easily Realme dropped the ball on their global users, I personally would be worried about their future plans.
+
+For now you can use any of the guides here https://c.realme.com/in/post-details/1248075024070344704 (They're just copy-pasting the same info as the unlock process didn't change much at all). As of August, your applications can take up to 10 days to be approved.
+
+If you need Deep Testing, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721.
 
 ### ZTE
 
@@ -69,13 +75,6 @@ https://forum.xda-developers.com/t/bootloader-unlocking-on-older-qualcomm-zte-de
 ## Proceed with caution!
 
 Reminder that no matter how nice a company is, you should not trust them unless their unlock process is 100% offline.
-
-### Realme (CN/IN)
-Seeing how easily Realme dropped the ball on their global users, I personally would be worried about their future plans.
-
-For now you can use any of the guides here https://c.realme.com/in/post-details/1248075024070344704 (They're just copy-pasting the same info as the unlock process didn't change much at all). As of June, your applications can take up to 7 days to be approved.
-
-If you need Deep Testing, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721.
 
 ### Samsung (Exynos)
 If you have an Exynos-based Samsung, you can unlock your phone, but this will permanently trip Knox. As a result *any* Knox based features will be broken *even if you re-lock*. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Can you be denied warranty? Probably...
