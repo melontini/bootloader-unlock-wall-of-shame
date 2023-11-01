@@ -30,9 +30,6 @@ Paid methods:<br/>
 I don't recommend paid methods due to general sketchiness. I have used one of these tools a while ago, it was okay.<br/>
 Through HCU-client (Not everything is supported + incredible prices https://hcu-client.com/buy/) or DC-Unlocker (Same problems as HCU https://www.dc-unlocker.com/buy)
 
-### Samsung (Qualcomm)
-It's not possible. (I think)
-
 ### HMD Global/Nokia
 In the flaming pile of HMD's "great" decisions to improve Nokia, one stands out more than others: They decided to follow the fresh "lock the bootloader" trend.<br/>
 Why was this necessary? I don't know...
@@ -67,6 +64,18 @@ For now you can use any of the guides here https://c.realme.com/in/post-details/
 
 If you need Deep Testing, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721.
 
+### Samsung
+If you have a North American device, well, uh... If you're lucky enough not to update for a while, you can check out [this paid service](https://xdaforums.com/t/android-unsamlock-bootloader-unlock-for-samsung-us-canada-devices.4215101/). (At your own risk)
+
+If you bought your phone elsewhere, and it's not carrier locked, you can use the standard process, but brace yourself for all the breakage coming your way!
+
+For example, unlocking will permanently trip Knox. As a result *any* Knox-based features will be broken *even if you re-lock*. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Can you be denied warranty? Probably...
+Some of those features can be fixed with this LsPosed module https://github.com/BlackMesa123/KnoxPatch and this Magisk Module https://github.com/BlackMesa123/KnoxPatch#knoxpatch-enhancer.
+
+In addition, some basic features can, and will probably break, like VoLTE, (thanks to Samsung's proprietary implementation) and in certain cases [even the camera](https://xdaforums.com/t/a52s-5g-sm-a528b-unlock-bootloader-camera-failed.4336007/).
+
+> Info kindly provided by [aries-ts-indo](https://github.com/aries-ts-indo).
+
 ### ZTE
 
 Old devices (pre Android 8):<br/>
@@ -75,11 +84,6 @@ https://forum.xda-developers.com/t/bootloader-unlocking-on-older-qualcomm-zte-de
 ## Proceed with caution!
 
 Reminder that no matter how nice a company is, you should not trust them unless their unlock process is 100% offline.
-
-### Samsung (Exynos)
-If you have an Exynos-based Samsung, you can unlock your phone, but this will permanently trip Knox. As a result *any* Knox based features will be broken *even if you re-lock*. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Can you be denied warranty? Probably...
-
-Some of those features can be fixed with this LsPosed module https://github.com/BlackMesa123/KnoxPatch and this Magisk Module https://github.com/BlackMesa123/KnoxPatch#knoxpatch-enhancer.
 
 ### Motorola
 To start off, to unlock your bootloader you need to make a request on their website, which is pretty bad on its own (*wink* Huawei), but there's also no way to know if your model supports unlocking beforehand.
