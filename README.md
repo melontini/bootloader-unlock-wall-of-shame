@@ -14,6 +14,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 # The list:
 
+**Reminder that no matter how nice a company is, you should not trust them unless their unlock process is 100% offline.**
+
 ## Avoid at all costs!
 
 ### Huawei/Honor
@@ -64,6 +66,29 @@ For now you can use any of the guides here https://c.realme.com/in/post-details/
 
 If you need Deep Testing, try this: https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721.
 
+### Xiaomi/Redmi/POCO
+
+While this (currently) only affects users in China, Xiaomi's new policy makes unlocking very annoying. 
+
+With this new policy **You must have a Level 5 developer Xiaomi Community account.** </br>
+And here's a list of things you have to do to get that:
+- You must be a citizen of China.
+- You have to use HyperOS and report at least 1 bug per day. (????)
+- You have to submit at least 1 HyperOS suggestion per month. (????)
+- You must be an active Xiaomi Community user.
+
+Additional BS applies:
+- The permission to unlock is temporary and is granted for 1-year only.
+- You can only unlock 3 devices per-year.
+- You will not receive OTA updates.
+- your warranty will be void.
+
+If your phone is not from China the standard 7+-day procedure applies.
+
+Look here if you want to learn about how Ximi's bootloader works: https://github.com/lrh2000/Xiaomi-bootloader
+
+> Info kindly provided by [n1ses](https://github.com/n1ses)!
+
 ### Samsung
 If you have a North American device, well, uh... If you're lucky enough not to update for a while, you can check out [this paid service](https://xdaforums.com/t/android-unsamlock-bootloader-unlock-for-samsung-us-canada-devices.4215101/). (At your own risk)
 
@@ -74,7 +99,7 @@ Some of those features can be fixed with this LsPosed module https://github.com/
 
 In addition, some basic features can, and will probably break, like VoLTE, (thanks to Samsung's proprietary implementation) and in certain cases [even the camera](https://xdaforums.com/t/a52s-5g-sm-a528b-unlock-bootloader-camera-failed.4336007/).
 
-> Info kindly provided by [aries-ts-indo](https://github.com/aries-ts-indo).
+> Info kindly provided by [aries-ts-indo](https://github.com/aries-ts-indo)!
 
 ### ZTE
 
@@ -82,8 +107,6 @@ Old devices (pre Android 8):<br/>
 https://forum.xda-developers.com/t/bootloader-unlocking-on-older-qualcomm-zte-devices-devinfo-partition-modification.4100897/
 
 ## Proceed with caution!
-
-Reminder that no matter how nice a company is, you should not trust them unless their unlock process is 100% offline.
 
 ### Motorola
 To start off, to unlock your bootloader you need to make a request on their website, which is pretty bad on its own (*wink* Huawei), but there's also no way to know if your model supports unlocking beforehand.
@@ -99,12 +122,6 @@ What? OnePlus? Aren't their phones super easy to unlock? - yes, but... <br/>
 You probably heard about the OnePlus X OPPO os merger and while it did get called off, both companies started sharing a "unified codebase". You can probably see where I'm going.
 
 If one day OnePlus decides to practice racism like Realme or go nuclear like OPPO/Vivo, they'll have those "unified" tools at their disposal.
-
-### Xiaomi/Redmi/POCO
-Currently, Xiaomi allows everyone to unlock, well, that is, if you have a SIM card, internet connection, a MI account, can set up their unlock tool and have 7 days (or more) at your disposal. <br/>
-The problem is that their unlock process is similar to that of OPPO, where you have accounts, verifications, RSA keys and more. And while it doesn't seem like they're going to change their policy anytime soon, but if they do, they can just break the unlock tool/block you with that MI account.
-
-Read more here: https://github.com/lrh2000/Xiaomi-bootloader
 
 # SOC based
 Universal methods for different SOCs.
