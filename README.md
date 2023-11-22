@@ -38,18 +38,18 @@ Why was this necessary? I don't know...
 
 Well, anyway. On some models, hikari_calyx found the prototype ABL.
 
-* Nokia 8.3 5G: [forum.xda-developers.com](https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/)
-* Nokia 5.3: [forum.xda-developers.com](https://forum.xda-developers.com/t/guide-heres-how-to-unlock-the-bootloader-of-nokia-5-3.4568619/)
+* Nokia 8.3 5G: [xdaforums.com](https://xdaforums.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/)
+* Nokia 5.3: [xdaforums.com](https://xdaforums.com/t/guide-heres-how-to-unlock-the-bootloader-of-nokia-5-3.4568619/)
 
 ### Vivo/IQOO
 The BBK family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
 
-Well, that is if [forum.xda-developers.com](https://forum.xda-developers.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/) doesn't apply to you.
+Well, that is if [xdaforums.com](https://xdaforums.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/) doesn't apply to you.
 
 On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed with caution:
 
-* Vivo x70 Pro+: [forum.xda-developers.com](https://forum.xda-developers.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/)
-* Vivo Y31 2021: [forum.xda-developers.com](https://forum.xda-developers.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/)
+* Vivo x70 Pro+: [xdaforums.com](https://xdaforums.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/)
+* Vivo Y31 2021: [xdaforums.com](https://xdaforums.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/)
 
 ### OPPO/Realme
 I don't have a lot to say about OPPO.<br/>
@@ -64,7 +64,7 @@ As per China and India... Seeing how easily Realme dropped the ball on their glo
 
 For now you can use any of the guides here [c.realme.com](https://c.realme.com/in/post-details/1248075024070344704) (They're just copy-pasting the same info as the unlock process didn't change much at all). As of August, your applications can take up to 10 days to be approved.
 
-If you need Deep Testing, try this: [forum.xda-developers.com](https://forum.xda-developers.com/t/unlock-bootloader-help.4425415/post-86777721).
+If you need Deep Testing, try this: [xdaforums.com](https://xdaforums.com/t/unlock-bootloader-help.4425415/post-86777721).
 
 ### Xiaomi/Redmi/POCO
 
@@ -104,7 +104,7 @@ In addition, some basic features can, and will probably break, like VoLTE, (than
 ### ZTE
 
 Old devices (pre Android 8):<br/>
-[forum.xda-developers.com](https://forum.xda-developers.com/t/bootloader-unlocking-on-older-qualcomm-zte-devices-devinfo-partition-modification.4100897/)
+[xdaforums.com](https://xdaforums.com/t/bootloader-unlocking-on-older-qualcomm-zte-devices-devinfo-partition-modification.4100897/)
 
 ## Proceed with caution!
 
@@ -113,7 +113,7 @@ To start off, to unlock your bootloader you need to make a request on their webs
 
 * [This page](https://en-us.support.motorola.com/app/answers/detail/a_id/87215) says that "Most of our latest devices support our bootloader unlock program."
 * [This page](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a) says only "Photon Q 4G LTE, DROID RAZR M(Developer Edition), DROID RAZR HD(Developer Edition CDMA-LTE), MOTOROLA RAZR HD (Rest of World -UMTS/LTE), MOTOROLA RAZR HD (Rogers Canada - UMTS/LTE) and MOTOROLA RAZR i are supported by the Bootloader Unlock site."
-* [And from this conversation](https://forum.xda-developers.com/t/how-to-guide-unlocking-using-deeptest-gdpr.4585829/post-88734665) [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
+* [And from this conversation](https://xdaforums.com/t/how-to-guide-unlocking-using-deeptest-gdpr.4585829/post-88734665) [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
 * There's also an unofficial way with CID to check if your device can be unlocked, check here: [xdaforums.com](https://xdaforums.com/t/guide-un-locking-motorola-bootloader.4079111/post-85375429)
 
 > Moto used confusion! It seems pretty effective...
@@ -139,7 +139,7 @@ If it also happens to be an OPPO/Realme device and you need to access fastboot: 
 If you own a phone with the Unisoc ud710 or ums512 SOCs you can look into this exploit: [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
 
 Otherwise, you can also look into this: [Spectrum_UnlockBL_Tool](https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool) <br/>
-This: [forum.xda-developers.com](https://forum.xda-developers.com/t/alldocube-t803-smile_1-bootloader-unlock-w-unisoc-t310.4393389/) <br/>
+This: [xdaforums.com](https://xdaforums.com/t/alldocube-t803-smile_1-bootloader-unlock-w-unisoc-t310.4393389/) <br/>
 Or this: [subut](https://github.com/Iscle/subut)
 
 ## Qualcomm 
