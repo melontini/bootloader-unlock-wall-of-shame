@@ -14,9 +14,11 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 # The list:
 
-**Reminder that no matter how nice a company is, you should not trust them unless their unlock process is 100% offline.**
+> [!CAUTION]
+> Reminder that no matter how nice a company is, <br/>
+> you should not trust them unless their unlock process is 100% offline!
 
-## Avoid at all costs!
+## ⛔ Avoid at all costs!
 
 ### Huawei/Honor
 In the past, Huawei allowed you to unlock with a special code you get by submitting some information to emui.com (IMEI, serial, model, and product ID), but in 2018 "corporate values have changed" and the site went down. <br/>
@@ -83,7 +85,10 @@ Additional BS applies:
 - You will not receive OTA updates.
 - your warranty will be void.
 
-If your phone is not from China the standard 7+-day procedure applies.
+> [!WARNING]
+> Global unlock might be on its way out: [xiaomiui.net](https://xiaomiui.net/say-goodbye-to-hyperos-global-bootloader-unlock-52670/)
+
+If your phone is not from China the standard 7+-day procedure applies.*
 
 Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootloader](https://github.com/lrh2000/Xiaomi-bootloader)
 
@@ -106,7 +111,7 @@ In addition, some basic features can, and will probably break, like VoLTE, (than
 Old devices (pre Android 8):<br/>
 [xdaforums.com](https://xdaforums.com/t/bootloader-unlocking-on-older-qualcomm-zte-devices-devinfo-partition-modification.4100897/)
 
-## Proceed with caution!
+## ⚠️ Proceed with caution!
 
 ### Motorola
 To start off, to unlock your bootloader you need to make a request on their website, which is pretty bad on its own (*wink* Huawei). But how do you know if your device is unlockable? Well...
@@ -124,25 +129,33 @@ You probably heard about the OnePlus X OPPO os merger and while it did get calle
 
 If one day OnePlus decides to practice racism like Realme or go nuclear like OPPO/Vivo, they'll have those "unified" tools at their disposal.
 
-# SOC based
+## ℹ️ "Safe for now" :trollface: 
+
+### Google
+Allows unlocking on almost any non-carrier locked device, but is also a pioneer in making rooting and custom ROMs painful with things like Safety Net and Play Integrity.
+
+### Fairphone
+No notes.
+
+## SOC based
 Universal methods for different SOCs.
 
-## Kirin
+### Kirin
 Kirin 620, 650, 655, 658, 659, 925, 935, 950, 960:<br/>
 It's possible to unlock using testpoints and [PotatoNV](https://github.com/mashed-potatoes/PotatoNV) (Read the readme)
 
-## MediaTek
+### MediaTek
 If you own a MediaTek device exploitable by [mtkclient](https://github.com/bkerler/mtkclient) you can unlock the bootloader using that.<br/>
 If it also happens to be an OPPO/Realme device and you need to access fastboot: [oplus-unlock](https://github.com/R0rt1z2/oplus-unlock)
 
-## Unisoc
+### Unisoc
 If you own a phone with the Unisoc ud710 or ums512 SOCs you can look into this exploit: [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
 
 Otherwise, you can also look into this: [Spectrum_UnlockBL_Tool](https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool) <br/>
 This: [xdaforums.com](https://xdaforums.com/t/alldocube-t803-smile_1-bootloader-unlock-w-unisoc-t310.4393389/) <br/>
 Or this: [subut](https://github.com/Iscle/subut)
 
-## Qualcomm 
+### Qualcomm 
 There's no Universal Qualcomm method, unfortunately.
 
 Although some of these might work for you:
