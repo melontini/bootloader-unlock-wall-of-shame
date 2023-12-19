@@ -1,4 +1,4 @@
-![Bootloader Unlock: Wall of Shame](https://raw.githubusercontent.com/melontini/bootloader-unlock-wall-of-shame/main/bu_wos_banner_s.webp)
+![Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame/assets/104443436/2b9dbf70-faf3-49ab-886b-d88f50c5dbe0)
 
 Keeping track of companies that "care about your data 🥺"
 
