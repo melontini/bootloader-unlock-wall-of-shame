@@ -46,7 +46,7 @@ Well, anyway. On some models, hikari_calyx found the prototype ABL.
 ### Vivo/IQOO
 The BBK family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
 
-Well, that is if [xdaforums.com](https://xdaforums.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/) doesn't apply to you.
+Well, that is, if [xdaforums.com](https://xdaforums.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/) doesn't apply to you.
 
 On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed with caution:
 
@@ -54,17 +54,17 @@ On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed
 * Vivo Y31 2021: [xdaforums.com](https://xdaforums.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/)
 
 ### OPPO/Realme
-I don't have a lot to say about OPPO.<br/>
-The most annoying part about them is that you *can* unlock your bootloader, but only if you can enter fastboot. And guess what? They locked fastboot with an RSA key!
+I don't have much to say about OPPO.<br/>
+The most annoying thing about them is that you *can* unlock your bootloader, but only if you can get into fastboot. And guess what? They locked fastboot with an RSA key!
 
 As per Realme, they decided that segregating people by ~~race~~ their phone's region is cool. If you didn't buy your phone in China or India, chances are you won't be unlocking anything anytime soon.
 
-In April-May 2023 you could unlock any Realme phone using this script [rmx3474-rooting](https://github.com/turistu/rmx3474-rooting), but on May 26th Realme posted this joke of an announcement on their forum [c.realme.com](https://c.realme.com/in/post-details/1671137365285982208). (They deleted the original announcement)
-Since then, they have forced their servers to return only "new struct" keys, making the Deep Testing app useless if your model is not supported.
+In April-May 2023 you could unlock any Realme phone using this script [rmx3474-rooting](https://github.com/turistu/rmx3474-rooting), but on May 26th Realme posted this joke of an announcement on their forum [c.realme.com](https://c.realme.com/in/post-details/1671137365285982208). (They've deleted the original announcement)
+Since then, they have forced their servers to only return "new struct" keys, making the Deep Testing app useless if your model is not supported.
 
-As per China and India... Seeing how easily Realme dropped the ball on their global users, I personally would be worried about their future plans.
+As for China and India... Seeing how easily Realme dropped the ball on their global users, I personally would be worried about their future plans.
 
-For now you can use any of the guides here [c.realme.com](https://c.realme.com/in/post-details/1248075024070344704) (They're just copy-pasting the same info as the unlock process didn't change much at all). As of August, your applications can take up to 10 days to be approved.
+For now you can use any of the guides here [c.realme.com](https://c.realme.com/in/post-details/1248075024070344704) (They're just copy-pasting the same info since the unlock process hasn't changed much). Your applications may take up to 10 days to be approved.
 
 If you need Deep Testing, try this: [xdaforums.com](https://xdaforums.com/t/unlock-bootloader-help.4425415/post-86777721).
 
@@ -72,7 +72,7 @@ If you need Deep Testing, try this: [xdaforums.com](https://xdaforums.com/t/unlo
 
 While this (currently) only affects users in China, Xiaomi's new policy makes unlocking very annoying. 
 
-With this new policy **You must have a Level 5 developer Xiaomi Community account.** </br>
+With this new policy, **You must have a Level 5 developer Xiaomi Community account.** </br>
 And here's a list of things you have to do to get that:
 - You must be a citizen of China.
 - You have to use HyperOS and report at least 1 bug per day. (????)
@@ -85,10 +85,10 @@ Additional BS applies:
 - You will not receive OTA updates.
 - your warranty will be void.
 
+Also, check out [Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) by [MlgmXyysd](https://github.com/MlgmXyysd).
+
 > [!WARNING]
 > Global unlock might be on its way out: [xiaomiui.net](https://xiaomiui.net/say-goodbye-to-hyperos-global-bootloader-unlock-52670/)
-
-If your phone is not from China the standard 7+-day procedure applies.*
 
 Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootloader](https://github.com/lrh2000/Xiaomi-bootloader)
 
@@ -99,10 +99,10 @@ If you have a North American device, well, uh... If you're lucky enough not to u
 
 If you bought your phone elsewhere, and it's not carrier locked, you can use the standard process, but brace yourself for all the breakage coming your way!
 
-For example, unlocking will permanently trip Knox. As a result *any* Knox-based features will be broken *even if you re-lock*. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Can you be denied warranty? Probably...
+For example, unlocking will permanently trip Knox. As a result, *any* Knox-based features will be broken *even if you re-lock*. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Can you be denied warranty? Probably...
 Some of those features can be fixed with this LsPosed module [KnoxPatch](https://github.com/BlackMesa123/KnoxPatch) and this Magisk Module [KnoxPatch#knoxpatch-enhancer](https://github.com/BlackMesa123/KnoxPatch#knoxpatch-enhancer).
 
-In addition, some basic features can, and will probably break, like VoLTE, (thanks to Samsung's proprietary implementation) and in certain cases [even the camera](https://xdaforums.com/t/a52s-5g-sm-a528b-unlock-bootloader-camera-failed.4336007/).
+In addition, some basic features can, and will probably break, such as VoLTE, (thanks to Samsung's proprietary implementation) and in certain cases [even the camera](https://xdaforums.com/t/a52s-5g-sm-a528b-unlock-bootloader-camera-failed.4336007/).
 
 > Info kindly provided by [aries-ts-indo](https://github.com/aries-ts-indo)!
 
@@ -114,7 +114,7 @@ Old devices (pre Android 8):<br/>
 ## ⚠️ Proceed with caution!
 
 ### Motorola
-To start off, to unlock your bootloader you need to make a request on their website, which is pretty bad on its own (*wink* Huawei). But how do you know if your device is unlockable? Well...
+To start off, to unlock your bootloader you have to submit a request on their website, which is pretty bad on its own (*wink* Huawei). But how do you know if your device is unlockable? Well...
 
 * [This page](https://en-us.support.motorola.com/app/answers/detail/a_id/87215) says that "Most of our latest devices support our bootloader unlock program."
 * [This page](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a) says only "Photon Q 4G LTE, DROID RAZR M(Developer Edition), DROID RAZR HD(Developer Edition CDMA-LTE), MOTOROLA RAZR HD (Rest of World -UMTS/LTE), MOTOROLA RAZR HD (Rogers Canada - UMTS/LTE) and MOTOROLA RAZR i are supported by the Bootloader Unlock site."
