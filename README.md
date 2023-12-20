@@ -38,10 +38,13 @@ Through HCU-client (Not everything is supported + incredible prices [hcu-client.
 In the flaming pile of HMD's "great" decisions to improve Nokia, one stands out more than others: They decided to follow the fresh "lock the bootloader" trend.<br/>
 Why was this necessary? I don't know...
 
-Well, anyway. On some models, hikari_calyx found the prototype ABL.
+Well, anyway. Models released before early 2019 can request unlocking using Hikari Calyx's unofficial service [hikaricalyx.com](https://hikaricalyx.com/request-bootloader-unlock)
 
-* Nokia 8.3 5G: [xdaforums.com](https://xdaforums.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/)
-* Nokia 5.3: [xdaforums.com](https://xdaforums.com/t/guide-heres-how-to-unlock-the-bootloader-of-nokia-5-3.4568619/)
+And for some other models, Hikari Calyx has a repo with prototype ABLs. [fih-firmware.hikaricalyx.com](https://fih-firmware.hikaricalyx.com/protoabl/)
+
+Models 7.2, 8.3 and 5.3 can be unlocked offline, while others may require HMD Device Kit **which is not public and requires a service account.**
+
+> Info kindly provided by [Hikari Calyx](https://github.com/HikariCalyx) themselves!
 
 ### Vivo/IQOO
 The BBK family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
@@ -137,8 +140,9 @@ Allows unlocking on almost any non-carrier locked device, but is also a pioneer 
 ### Fairphone
 No notes.
 
-## SOC based
-Universal methods for different SOCs.
+# Misc info
+
+## Universal SOC-based methods
 
 ### Kirin
 Kirin 620, 650, 655, 658, 659, 925, 935, 950, 960:<br/>
