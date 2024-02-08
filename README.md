@@ -157,7 +157,7 @@ If you own a phone with the Unisoc ud710 or ums512 SOCs you can look into this e
 
 Otherwise, you can also look into this: [Spectrum_UnlockBL_Tool](https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool) <br/>
 This: [xdaforums.com](https://xdaforums.com/t/alldocube-t803-smile_1-bootloader-unlock-w-unisoc-t310.4393389/) <br/>
-Or this: [subut](https://github.com/Iscle/subut)
+Or this: [subut](https://unisoc-android.github.io/subut/)
 
 ### Qualcomm 
 There's no Universal Qualcomm method, unfortunately.
