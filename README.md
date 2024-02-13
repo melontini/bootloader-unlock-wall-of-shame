@@ -63,11 +63,7 @@ Since then, they have forced their servers to only return "new struct" keys, whi
 
 In theory, if available, you could use full-OTA packages to change your phone's firmware region and use the deep testing app directly, but I can't verify that this works (please, correct me if I'm wrong). Guide: [xdaforums.com](https://xdaforums.com/t/change-region-via-full-ota.4535659/)
 
-As for China and India... Seeing how easily Realme dropped the ball on their global users, I personally would be worried about their future plans.
-
-For now you can use any of the guides here [c.realme.com](https://c.realme.com/in/post-details/1248075024070344704) (They're just copy-pasting the same info since the unlock process hasn't changed much). Your applications may take up to 10 days to be approved.
-
-If you need Deep Testing, try this: [xdaforums.com](https://xdaforums.com/t/unlock-bootloader-help.4425415/post-86777721).
+As for China and India... Seeing how easily Realme dropped the ball on their global users, I personally would be worried about their future plans. For now, you'll have to find and follow device-specific instructions at [c.realme.com](https://c.realme.com/in/). The process is pretty much the same for most phones, but newer models may require a HeyTap account.
 
 ### Xiaomi/Redmi/POCO
 
