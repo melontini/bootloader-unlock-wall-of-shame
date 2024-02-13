@@ -90,8 +90,11 @@ Additional BS applies:
 
 Also, check out [Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) by [MlgmXyysd](https://github.com/MlgmXyysd).
 
-> [!WARNING]
-> Global unlock might be on its way out: [xiaomiui.net](https://xiaomiui.net/say-goodbye-to-hyperos-global-bootloader-unlock-52670/)
+> [!NOTE]
+> While not as extreme, if [xiaomiui.net](https://xiaomiui.net/how-unlock-bootloader-xiaomi-hyperos-53493/) is to be believed, global unlock has also undergone some changes:
+> * Your Mi Account has been active for more than 30 days.
+> * Xiaomi Community App version 5.3.31 or above.
+> * You can only unlock the bootloader of 3 devices per year with your account.
 
 Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootloader](https://github.com/lrh2000/Xiaomi-bootloader)
 
