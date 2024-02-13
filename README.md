@@ -26,10 +26,6 @@ Worse, on Android 10+, the unlock command has been **completely removed** from f
 
 Certain Kirin-based phones can use [PotatoNV](https://github.com/melontini/bootloader-unlock-wall-of-shame#kirin)
 
-Older models, through bruteforce:<br/>
-* [HuaweiBootloader_Bruteforce](https://github.com/rainxh11/HuaweiBootloader_Bruteforce)
-* [Huawei-Bootloader-Unlocker](https://github.com/Martazza/Huawei-Bootloader-Unlocker)
-
 Paid methods:<br/>
 I don't recommend paid methods due to general sketchiness. I have used one of these tools a while ago, it was okay.<br/>
 Through HCU-client (Not everything is supported + incredible prices [hcu-client.com](https://hcu-client.com/buy/)) or DC-Unlocker (Same problems as HCU [dc-unlocker.com](https://www.dc-unlocker.com/buy))
