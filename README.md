@@ -129,13 +129,19 @@ You probably heard about the OnePlus X OPPO os merger and while it did get calle
 
 If one day OnePlus decides to practice racism like Realme or go nuclear like OPPO/Vivo, they'll have those "unified" tools at their disposal.
 
+### Fairphone
+> Ugh, well, this is just egregious!
+
+No, wait, I have a point.
+
+All Fairphones after 2 require you to request a code from [this](https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone) website to enable OEM unlock. There is nothing stopping them from requiring an account and having device unlock limits in the future. This is "proceed with caution" after all.
+
+Not very fair in my opinion, but whatever fairs your phone.
+
 ## ℹ️ "Safe for now" :trollface: 
 
 ### Google
-Allows unlocking on almost any non-carrier locked device, but is also a pioneer in making rooting and custom ROMs painful with things like Safety Net and Play Integrity.
-
-### Fairphone
-No notes.
+Allows unlocking on almost any non-carrier locked device, but is also a pioneer in making rooting and custom ROMs painful with things like Safety Net and Play Integrity. With the latest feat being RCS messaging which requires DEVICE integrity to work. (To prevent "spam", of course)
 
 # Misc info
 
