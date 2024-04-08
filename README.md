@@ -138,10 +138,23 @@ All Fairphones after 2 require you to request a code from [this](https://www.fai
 
 Not very fair in my opinion, but whatever fairs your phone.
 
+### Sony
+
+Sony has an open policy for software developers:
+- They are releasing AOSP sources under [Sony Open Devices Program](https://developer.sony.com/open-source/aosp-on-xperia-open-devices).
+- Jolla provides first-class support for installing [Sailfish OS](https://shop.jolla.com/) on select Xperias. That wouldn't be possible without Sony's openness.
+
+But keep in mind it's not perfect:
+- Sony requires you to request an unlock code from [their servers](https://developer.sony.com/open-source/aosp-on-xperia-open-devices/get-started/unlock-bootloader). They can pull the plug anytime. You have to send your IMEI and agree to warranty voiding.
+
 ## ℹ️ "Safe for now" :trollface: 
 
 ### Google
 Allows unlocking on almost any non-carrier locked device, but is also a pioneer in making rooting and custom ROMs painful with things like Safety Net and Play Integrity. With the latest feat being RCS messaging which requires DEVICE integrity to work. (To prevent "spam", of course)
+
+### Nothing
+Nothing Phones can be unlocked via fastboot without any codes. The only requirement is 
+to enable **OEM unlocking** in **Developer Options** settings page. This is the same procedure as on Google Pixel.
 
 # Misc info
 
