@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "vitepress": "^1.0.2",
+    "vitepress-plugin-comment-with-giscus": "^1.1.12"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
