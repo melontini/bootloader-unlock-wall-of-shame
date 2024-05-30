@@ -2,8 +2,8 @@
 
 Keeping track of companies that "care about your data 🥺"
 
-![Terrible](https://raw.githubusercontent.com/melontini/mini-badges/main/personal/terrbile.svg)
-[![Static Badge](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/cc/CC-BY-NC-SA-4.0.svg)](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/LICENSE)
+![Terrible](https://raw.githubusercontent.com/melontini/mini-badges/main/personal/terrible.svg)
+[![License CC BY-NC-SA](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/cc/CC-BY-NC-SA-4.0.svg)](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/LICENSE)
 
 ## Why?
 Over the past few years, a suspicious number of companies have started to "take care of your data", aka block/strictly limit your ability to unlock the bootloader on your *own* devices.
