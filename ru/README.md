@@ -1,11 +1,11 @@
-![Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame/assets/104443436/2b9dbf70-faf3-49ab-886b-d88f50c5dbe0)
+![Bootloader Unlock: Wall of Shame](https://raw.githubusercontent.com/melontini/bootloader-unlock-wall-of-shame/main/ru/banner_ru.png)
 
 Отслеживаем компании, которые «заботятся о ваших данных 🥺»
 
 [Переключиться на английский оригинал](README.md)
 
-![Terrible](https://raw.githubusercontent.com/JustMarkov/mini-badges/main/personal/terrbile_ru.svg)
-[![Static Badge](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/cc/CC-BY-NC-SA-4.0.svg)](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/LICENSE)
+![Terrible](https://raw.githubusercontent.com/melontini/bootloader-unlock-wall-of-shame/main/ru/terrible_ru.svg)
+[![License CC BY-NC-SA](https://raw.githubusercontent.com/melontini/bootloader-unlock-wall-of-shame/main/ru/CC-BY-NC-SA-4.0_ru.svg)](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/LICENSE)
 
 ## Зачем?
 За последние несколько лет, подозрительное число компаний начало «заботиться о ваших данных», а точнее, блокировать/строго лимитировать возможность разблокировки загрузчика вашего *собственного* устройства.
