@@ -5,7 +5,7 @@ export default defineConfig({
   base: '/bootloader-unlock-wall-of-shame/',
   rewrites: {
     'README.md': 'index.md',
-    '(.*)/README.md': '(.*)/index.md'
+    '(.*)/README.md': '(.*)/'
   },
   title: "Bootloader Unlock: Wall of Shame",
   description: "Keeping track of companies that \"care about your data 🥺\"",
