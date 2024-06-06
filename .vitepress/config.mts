@@ -5,7 +5,7 @@ export default defineConfig({
   base: '/bootloader-unlock-wall-of-shame/',
   rewrites: {
     'README.md': 'index.md',
-    '(.*)/README.md': '(.*)/'
+    '(.*)/README.md': '(.*)/index.md'
   },
   title: "Bootloader Unlock: Wall of Shame",
   description: "Keeping track of companies that \"care about your data 🥺\"",
@@ -30,6 +30,7 @@ export default defineConfig({
 
   themeConfig: {
     logo: { src: '/favicon.png', width: 24, height: 24 },
+    i18nRouting: false,
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/melontini/bootloader-unlock-wall-of-shame' }
@@ -42,5 +43,16 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
+  },
+
+  locales: {
+    "root": {
+      label: "English",
+      link: "/",
+    },
+    "ru": {
+      label: "Russian",
+      link: "/ru/",
+    }
   }
 })

@@ -2,7 +2,7 @@
 
 Отслеживаем компании, которые «заботятся о ваших данных 🥺»
 
-[Переключиться на английский оригинал](README.md)
+[Переключиться на английский оригинал](/README.md)
 
 ![Terrible](https://raw.githubusercontent.com/melontini/bootloader-unlock-wall-of-shame/main/ru/terrible_ru.svg)
 [![License CC BY-NC-SA](https://raw.githubusercontent.com/melontini/bootloader-unlock-wall-of-shame/main/ru/CC-BY-NC-SA-4.0_ru.svg)](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/LICENSE)
