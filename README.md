@@ -127,6 +127,10 @@ In the past, HTC allowed you to unlock your bootloader on their [developer websi
 
 HTC had a system known as "S-ON/S-OFF", with S-ON enabled, [the only partitions that can be flashed are system and recovery](https://www.htcdev.com/bootloader/about_unlock_process), all other partitions are read only. While HTC claims you can write boot with S-ON, it's complicated. For whatever reason, HTC made it so you can't flash boot.img from recovery, if you want to flash boot.img, you have to flash it in fastboot, meaning if you want to flash a ROM, you have to install it in recovery, then reboot to fastboot and flash boot.img, then you can boot. There have been systems to work around this, such as TWRP's [HTC Dumlock](https://xdaforums.com/t/htc-dumlock-flash-boot-from-recovery-without-fastboot-updated-2012-02-28-v2.1509743/). There are ways to achieve S-OFF, but it's different for each device. Search for your specific device on [XDA](https://xdaforums.com). Do note that due to the age of most of these tools, they may require legacy operating systems such as **Ubuntu 14.04 or Windows 7**.
 
+### Meizu
+There's not a lot to say about Meizu.<br/>
+They've never had unlockable bootloaders, and although there are a number of unofficial methods. Some Snapdragon devices have a [FRP exploit you can use in EDL to unlock](https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/FRP-Method), If your device is unsupported by the FRP exploit and isn't supported by mtkclient, there are [paid services](https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/Unlock-Bootloader) which you can use at your own risk.
+
 ## ⚠️ Proceed with caution!
 
 ### Motorola/Lenovo
