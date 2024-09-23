@@ -119,6 +119,14 @@ Old devices (pre Android 8):<br/>
 
 In the past, LG had a developer portal which could be used to unlock phones on their website, however it only supported international models of their phones, but in December 2021, LG announced the developer portal would be shutting down due to LG ending production of all phones. On some models (such as the Stylo 3 Plus and G6), the bootloader can be unlocked via `fastboot oem unlock` **only if** [the phone is a T-Mobile model.](https://xdaforums.com/t/unlock-bootloader-tmo.3578099/)
 
+### HTC
+In the past, HTC allowed you to unlock your bootloader on their [developer website](https://www.htcdev.com/bootloader), but in June 2018 for whatever reason, HTC announced that any new phones would not have unlockable bootloaders, however their developer website would remain up for older devices.
+
+> [!NOTE]
+> As of September 2024, the website is still up and working (tested with an HTC Raider), however since HTC hasn't supported it in over 6 years, it may go down at any time, and even for these legacy devices, BS applies. 
+
+HTC had a system known as "S-ON/S-OFF", with S-ON enabled, [the only partitions that can be flashed are system and recovery](https://www.htcdev.com/bootloader/about_unlock_process), all other partitions are read only. While HTC claims you can write boot with S-ON, it's complicated. For whatever reason, HTC made it so you can't flash boot.img from recovery, if you want to flash boot.img, you have to flash it in fastboot, meaning if you want to flash a ROM, you have to install it in recovery, then reboot to fastboot and flash boot.img, then you can boot. There have been systems to work around this, such as TWRP's [HTC Dumlock](https://xdaforums.com/t/htc-dumlock-flash-boot-from-recovery-without-fastboot-updated-2012-02-28-v2.1509743/). There are ways to achieve S-OFF, but it's different for each device. Search for your specific device on [XDA](https://xdaforums.com). Do note that due to the age of most of these tools, they may require legacy operating systems such as **Ubuntu 14.04 or Windows 7**.
+
 ## ⚠️ Proceed with caution!
 
 ### Motorola/Lenovo
