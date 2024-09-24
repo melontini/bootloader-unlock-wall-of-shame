@@ -20,8 +20,6 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 > Reminder that no matter how nice a company is, <br/>
 > you should not trust them unless their unlock process is 100% offline!
 
-[[toc]]
-
 ## ⛔ Avoid at all costs!
 
 ### Huawei/Honor
@@ -148,13 +146,13 @@ You probably heard about the OnePlus X OPPO os merger and while it did get calle
 If one day OnePlus decides to practice racism like Realme or go nuclear like OPPO/Vivo, they'll have those "unified" tools at their disposal.
 
 ### Fairphone
-> Ugh, well, this is just egregious!
-
 No, wait, I have a point.
 
 All Fairphones after 2 require you to request a code from [this](https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone) website to enable OEM unlock. There is nothing stopping them from requiring an account and having device unlock limits in the future. This is "proceed with caution" after all.
 
 Not very fair in my opinion, but whatever fairs your phone.
+
+> They also [broke Verified Boot](https://forum.fairphone.com/t/bootloader-avb-keys-used-in-roms-for-fairphone-3-4/83448/4), lol
 
 ### Sony
 
