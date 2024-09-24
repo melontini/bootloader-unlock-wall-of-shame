@@ -172,6 +172,9 @@ Sony has an open policy for software developers:
 Since Sony likes to ruin a perfect thing:
 - Sony requires you to request an unlock code from [their servers](https://developer.sony.com/open-source/aosp-on-xperia-open-devices/get-started/unlock-bootloader). They can pull the plug anytime. You have to send your IMEI and agree to warranty voiding.
 
+### Microsoft
+Obviously their old Windows Phones aren't unlockable, but for their Android phones, while Microsoft doesn't provide an official unlocking method, an [unofficial method](https://github.com/WOA-Project/SurfaceDuo-Guides/blob/main/Install/UnlockingBootloader.md) has been available basically ever since Microsoft began making Android phones, and Microsoft hasn't bothered to patch it, and Windows is possible to run on an unlocked bootloader Surface Duo, so it seems like the bootloader will remain unlockable for now, but do note Microsoft can patch the unofficial method at any time.
+
 ## ℹ️ "Safe for now" :trollface: 
 
 ### Google
