@@ -129,6 +129,9 @@ HTC had a system known as "S-ON/S-OFF", with S-ON enabled, [the only partitions 
 There's not a lot to say about Meizu.<br/>
 They've never had unlockable bootloaders, and although there are a number of unofficial methods. Some Snapdragon devices have a [FRP exploit you can use in EDL to unlock](https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/FRP-Method), If your device is unsupported by the FRP exploit and isn't supported by mtkclient, there are [paid services](https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/Unlock-Bootloader) which you can use at your own risk.
 
+### Asus
+Asus originally allowed you to unlock your bootloader via their website, however in November 2023, the website went down "for maintanence", Asus claimed it would come back, but it never did. Someone eventually found a way to unlock the bootloader on the Zenfone 9, and Asus responded, not by finally bringing the site back, but by [patching the method and introducing anti-rollback](https://www.reddit.com/r/zenfone/comments/19f4ny3/asus_now_actively_sabotaging_attempts_to_unlock/). Following Asus's false claims of a bootloader unlock eventually coming back, a UK customer sued Asus for a refund of their phone, [and Asus lost.](https://www.androidpolice.com/asus-removed-bootloader-unlock-from-phones/) Asus is still claiming the unlock site will come back eventuallly, but considering how long it's been closed, the anti-rollback, and them losing a lawsuit over their unlockable bootloader claims, it's safe to say it'll probably never come back.
+
 ## ⚠️ Proceed with caution!
 
 ### Motorola/Lenovo
