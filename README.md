@@ -182,9 +182,6 @@ Since Sony likes to ruin a perfect thing:
 While Microsoft doesn't provide an official unlocking method, an [unofficial method](https://github.com/WOA-Project/SurfaceDuo-Guides/blob/main/Install/UnlockingBootloader.md) has been available for their Android devices basically ever since Microsoft began making Android phones, and Microsoft hasn't bothered to patch it, and Windows is possible to run on an unlocked bootloader Surface Duo, so it seems like the bootloader will remain unlockable for now, but do note Microsoft can patch the unofficial method at any time.<br/>
 As for Windows Phones, once again, no official methods, but an [unofficial method](http://allaboutwindowsphone.com/features/item/24245_Aguideforunlockingthebootloade.php) has been around for a while, and supports all Mirosoft-made Lumias except for the 540 and 535, as Windows Phone hasn't been supported since 2017, it is highly unlikely this is going to be patched.
 
-### Umidigi
-Umidigi phones are generally unlockable, however due to them being a budget-focused manufacturer, they use Unisoc SoCs, and [Unisoc requires a bunch of extra steps to unlock for whatever reason](https://www.hovatek.com/forum/thread-32287.html), and therefore I wouldn't consider them completely safe. MediaTek Umidigi devies can just use flashing unlock/oem unlock in fastboot.
-
 ## ℹ️ "Safe for now" :trollface: 
 
 ### Google
@@ -193,6 +190,9 @@ Allows unlocking on almost any non-carrier locked device, but is also a pioneer 
 ### Nothing
 Nothing Phones can be unlocked via fastboot without any codes. The only requirement is 
 to enable **OEM unlocking** in **Developer Options** settings page. This is the same procedure as on Google Pixel.
+
+### Umidigi
+Umidigi phones are generally unlockable, however due to them being a budget-focused manufacturer, they use Unisoc SoCs, and [Unisoc requires a bunch of extra steps to unlock for whatever reason](https://www.hovatek.com/forum/thread-32287.html), and therefore I wouldn't consider them completely safe. MediaTek Umidigi devies can just use flashing unlock/oem unlock in fastboot.
 
 # Misc info
 
