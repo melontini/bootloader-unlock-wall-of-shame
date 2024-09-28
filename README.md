@@ -191,6 +191,9 @@ Allows unlocking on almost any non-carrier locked device, but is also a pioneer 
 Nothing Phones can be unlocked via fastboot without any codes. The only requirement is 
 to enable **OEM unlocking** in **Developer Options** settings page. This is the same procedure as on Google Pixel.
 
+### Umidigi
+Umidigi phones are generally unlockable, however due to them being a budget-focused manufacturer, they use Unisoc SoCs, and [Unisoc requires a bunch of extra steps to unlock for whatever reason](https://www.hovatek.com/forum/thread-32287.html), and therefore I wouldn't consider them completely safe. MediaTek Umidigi devies can just use flashing unlock/oem unlock in fastboot.
+
 # Misc info
 
 ## Universal SOC-based methods
