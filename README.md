@@ -46,7 +46,7 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Alcatel](/brands/alcatel/README.md)
 
-### [Apple](/brands/alcatel/README.md)
+### [Apple](/brands/apple/README.md)
 
 ## ⚠️ Proceed with caution!
 
