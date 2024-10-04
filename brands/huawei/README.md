@@ -1,5 +1,7 @@
 # Huawei/Honor
 
+> 🧹 This page is missing sources for history.
+
 - Verdict: **⛔ Avoid!**
 
 In the past, Huawei allowed you to unlock with a special code you get by submitting some information to emui.com (IMEI, serial, model, and product ID), but in 2018 "corporate values have changed" and the site went down. <br/>

@@ -1,5 +1,7 @@
 # Xiaomi/Redmi/POCO
 
+> 🧹 This page is missing a source for China Requirements.
+
 - Verdict: **⛔ Avoid!**
 
 While this (currently) only affects users in China, Xiaomi's new policy makes unlocking very annoying. 
