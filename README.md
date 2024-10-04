@@ -22,177 +22,51 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ## ⛔ Avoid at all costs!
 
-### Huawei/Honor
-In the past, Huawei allowed you to unlock with a special code you get by submitting some information to emui.com (IMEI, serial, model, and product ID), but in 2018 "corporate values have changed" and the site went down. <br/>
-Worse, on Android 10+, the unlock command has been **completely removed** from fastboot.
+### [Huawei/Honor](/brands/huawei/README.md)
 
-Certain Kirin-based phones can use [PotatoNV](https://github.com/melontini/bootloader-unlock-wall-of-shame#kirin)
+### [HMD Global/Nokia](/brands/nokia/README.md)
 
-Paid methods:<br/>
-I don't recommend paid methods due to general sketchiness. I have used one of these tools a while ago, it was okay.<br/>
-Through HCU-client (Not everything is supported + incredible prices [hcu-client.com](https://hcu-client.com/buy/)) or DC-Unlocker (Same problems as HCU [dc-unlocker.com](https://www.dc-unlocker.com/buy))
+### [Vivo/IQOO](/brands/vivo/README.md)
 
-### HMD Global/Nokia
-In the flaming pile of HMD's "great" decisions to improve Nokia, one stands out more than others: They decided to follow the fresh "lock the bootloader" trend.<br/>
-Why was this necessary? I don't know...
+### [OPPO/Realme](/brands/oppo/README.md)
 
-Well, anyway. Models released before early 2019 can request unlocking using Hikari Calyx's unofficial service [hikaricalyx.com](https://hikaricalyx.com/request-bootloader-unlock)
+### [Xiaomi/Redmi/POCO](/brands/xiaomi/README.md)
 
-And for some other models, Hikari Calyx has a repo with prototype ABLs. [fih-firmware.hikaricalyx.com](https://fih-firmware.hikaricalyx.com/protoabl/)
+### [Samsung](/brands/samsung/README.md)
 
-Models 7.2, 8.3 and 5.3 can be unlocked offline, while others may require HMD Device Kit **which is not public and requires a service account.**
+### [ZTE](/brands/zte/README.md)
 
-As for Windows Phones, most models have an [unofficial method](http://allaboutwindowsphone.com/features/item/24245_Aguideforunlockingthebootloade.php) of unlocking, which is supported by most Nokia Lumias, except for the 620, 720, and 1320.
+### [LG](/brands/lg/README.md)
 
-> Info kindly provided by [Hikari Calyx](https://github.com/HikariCalyx) themselves!
+### [HTC](/brands/htc/README.md)
 
-### Vivo/IQOO
-The BBK family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
+### [Meizu](/brands/meizu/README.md)
 
-Well, that is, if [xdaforums.com](https://xdaforums.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/) doesn't apply to you.
+### [Asus](/brands/asus/README.md)
 
-On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed with caution:
+### [Alcatel](/brands/alcatel/README.md)
 
-* Vivo x70 Pro+: [xdaforums.com](https://xdaforums.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/)
-* Vivo Y31 2021: [xdaforums.com](https://xdaforums.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/)
-
-### OPPO/Realme
-I don't have much to say about OPPO.<br/>
-The most annoying thing about them is that you *can* unlock your bootloader, but only if you can get into fastboot. And guess what? They locked fastboot with an RSA key!
-
-As per Realme, they decided that segregating people by ~~race~~ their phone's region is cool. If you didn't buy your phone in China or India, chances are you won't be unlocking anything anytime soon.
-
-In April-May 2023 you could unlock any Realme phone using this script [rmx3474-rooting](https://github.com/turistu/rmx3474-rooting), but on May 26th Realme posted this joke of an announcement on their forum [c.realme.com](https://c.realme.com/in/post-details/1671137365285982208). (They've deleted the original announcement)
-Since then, they have forced their servers to only return "new struct" keys, which have model data attached, making the script useless.
-
-In theory, if available, you could use full-OTA packages to change your phone's firmware region and use the deep testing app directly, but I can't verify that this works (please, correct me if I'm wrong). Guide: [xdaforums.com](https://xdaforums.com/t/change-region-via-full-ota.4535659/)
-
-As for China and India... Seeing how easily Realme dropped the ball on their global users, I personally would be worried about their future plans. For now, you'll have to find and follow device-specific instructions at [c.realme.com](https://c.realme.com/in/). The process is pretty much the same for most phones, but newer models may require a HeyTap account.
-
-### Xiaomi/Redmi/POCO
-
-While this (currently) only affects users in China, Xiaomi's new policy makes unlocking very annoying. 
-
-With this new policy, **You must have a Level 5 developer Xiaomi Community account.** </br>
-And here's a list of things you have to do to get that:
-- You must be a citizen of China.
-- You have to use HyperOS and report at least 1 bug per day. (????)
-- You have to submit at least 1 HyperOS suggestion per month. (????)
-- You must be an active Xiaomi Community user.
-
-Additional BS applies:
-- The permission to unlock is temporary and is granted for 1-year only.
-- You can only unlock 3 devices per-year.
-- You will not receive OTA updates.
-- your warranty will be void.
-
-Also, check out [Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) by [MlgmXyysd](https://github.com/MlgmXyysd).
-
-> [!NOTE]
-> While not as extreme, if [xiaomiui.net](https://xiaomiui.net/how-unlock-bootloader-xiaomi-hyperos-53493/) is to be believed, global unlock has also undergone some changes:
-> * Your Mi Account has been active for more than 30 days.
-> * Xiaomi Community App version 5.3.31 or above.
-> * You can only unlock the bootloader of 3 devices per year with your account.
-
-Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootloader](https://github.com/lrh2000/Xiaomi-bootloader)
-
-> Info kindly provided by [n1ses](https://github.com/n1ses)!
-
-### Samsung
-If you have a North American device, well, uh... If you're lucky enough not to update for a while, you can check out [this paid service](https://xdaforums.com/t/android-unsamlock-bootloader-unlock-for-samsung-us-canada-devices.4215101/). (At your own risk)
-
-If you bought your phone elsewhere, and it's not carrier locked, you can use the standard process, but brace yourself for all the breakage coming your way!
-
-For example, unlocking will permanently trip Knox. As a result, *any* Knox-based features will be broken *even if you re-lock*. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Can you be denied warranty? Probably...
-Some of those features can be fixed with this LsPosed module [KnoxPatch](https://github.com/BlackMesa123/KnoxPatch) and this Magisk Module [KnoxPatch#knoxpatch-enhancer](https://github.com/BlackMesa123/KnoxPatch#knoxpatch-enhancer).
-
-In addition, some basic features can, and will probably break, such as VoLTE, (thanks to Samsung's proprietary implementation) and in certain cases [even the camera](https://xdaforums.com/t/a52s-5g-sm-a528b-unlock-bootloader-camera-failed.4336007/).
-
-> Info kindly provided by [aries-ts-indo](https://github.com/aries-ts-indo)!
-
-### ZTE
-
-Old devices (pre Android 8):<br/>
-[xdaforums.com](https://xdaforums.com/t/bootloader-unlocking-on-older-qualcomm-zte-devices-devinfo-partition-modification.4100897/)
-
-### LG
-
-In the past, LG had a developer portal which could be used to unlock phones on their website, however it only supported international models of their phones, but in December 2021, LG announced the developer portal would be shutting down due to LG ending production of all phones. On some models (such as the Stylo 3 Plus and G6), the bootloader can be unlocked via `fastboot oem unlock` **only if** [the phone is a T-Mobile model.](https://xdaforums.com/t/unlock-bootloader-tmo.3578099/)
-
-### HTC
-In the past, HTC allowed you to unlock your bootloader on their [developer website](https://www.htcdev.com/bootloader), but in June 2018 for whatever reason, HTC announced that any new phones would not have unlockable bootloaders, however their developer website would remain up for older devices.
-
-> [!NOTE]
-> As of September 2024, the website is still up and working (tested with an HTC Raider), however since HTC hasn't supported it in over 6 years, it may go down at any time, and even for these legacy devices, BS applies. 
-
-HTC had a system known as "S-ON/S-OFF", with S-ON enabled, [the only partitions that can be flashed are system and recovery](https://www.htcdev.com/bootloader/about_unlock_process), all other partitions are read only. While HTC claims you can write boot with S-ON, it's complicated. For whatever reason, HTC made it so you can't flash boot.img from recovery, if you want to flash boot.img, you have to flash it in fastboot, meaning if you want to flash a ROM, you have to install it in recovery, then reboot to fastboot and flash boot.img, then you can boot. There have been systems to work around this, such as TWRP's [HTC Dumlock](https://xdaforums.com/t/htc-dumlock-flash-boot-from-recovery-without-fastboot-updated-2012-02-28-v2.1509743/). There are ways to achieve S-OFF, but it's different for each device. Search for your specific device on [XDA](https://xdaforums.com). Do note that due to the age of most of these tools, they may require legacy operating systems such as **Ubuntu 14.04 or Windows 7**.
-
-### Meizu
-There's not a lot to say about Meizu.<br/>
-They've never had unlockable bootloaders, and although there are a number of unofficial methods. Some Snapdragon devices have a [FRP exploit you can use in EDL to unlock](https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/FRP-Method), If your device is unsupported by the FRP exploit and isn't supported by mtkclient, there are [paid services](https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/Unlock-Bootloader) which you can use at your own risk.
-
-### Asus
-Asus originally allowed you to unlock your bootloader via their website, however in November 2023, the website went down "for maintanence", Asus claimed it would come back, but it never did. Someone eventually found a way to unlock the bootloader on the Zenfone 9, and Asus responded, not by finally bringing the site back, but by [patching the method and introducing anti-rollback](https://www.reddit.com/r/zenfone/comments/19f4ny3/asus_now_actively_sabotaging_attempts_to_unlock/). Following Asus's false claims of a bootloader unlock eventually coming back, a UK customer sued Asus for a refund of their phone, [and Asus lost.](https://www.androidpolice.com/asus-removed-bootloader-unlock-from-phones/) Asus is still claiming the unlock site will come back eventuallly, but considering how long it's been closed, the anti-rollback, and them losing a lawsuit over their unlockable bootloader claims, it's safe to say it'll probably never come back.
-
-### Alcatel
-There's nothing to say about Alcatel really. They have fastboot removed from most of their phones and have no official unlock method.  A lot of their phones are MediaTek based so you can try [mtkclient](https://github.com/bkerler/mtkclient). 
-
-### Apple
-This one is probably expected. No iPhone, iPad, iPod Touch or Apple TV model has had an unlockable bootloader. Depending on your device or SoC, there are BootROM (hardware based) and iBoot (software based) exploits you can use to run unsigned code on iOS devices, such as [checkm8 for A5-A11,](https://theapplewiki.com/wiki/Checkm8_Exploit) [limera1n for A4, iPod touch 3G, and iPhone 3GS](https://theapplewiki.com/wiki/Limera1n_Exploit) [24kpwn for certain iPod touch 2G's and iPhone 3GS's](https://theapplewiki.com/wiki/0x24000_Segment_Overflow) and [steaks4uce for iPod touch 2G's](https://theapplewiki.com/wiki/Usb_control_msg(0xA1,_1)_Exploit) for BootROM exploits, and [DRA for all 32-bit devices running iOS 7.x.x](https://theapplewiki.com/wiki/De_Rebus_Antiquis) for iBoot exploits.
+### [Apple](/brands/alcatel/README.md)
 
 ## ⚠️ Proceed with caution!
 
-### Motorola/Lenovo
-To start off, to unlock your bootloader you have to submit a request on their website, which is pretty bad on its own (*wink* Huawei). But how do you know if your device is unlockable? Well...
+### [Motorola/Lenovo](/brands/motorola/README.md)
 
-* [This page](https://en-us.support.motorola.com/app/answers/detail/a_id/87215) says that "Most of our latest devices support our bootloader unlock program."
-* [This page](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a) says only "Photon Q 4G LTE, DROID RAZR M(Developer Edition), DROID RAZR HD(Developer Edition CDMA-LTE), MOTOROLA RAZR HD (Rest of World -UMTS/LTE), MOTOROLA RAZR HD (Rogers Canada - UMTS/LTE) and MOTOROLA RAZR i are supported by the Bootloader Unlock site."
-* [And from this conversation](https://xdaforums.com/t/how-to-guide-unlocking-using-deeptest-gdpr.4585829/post-88734665) [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
-* There's also an unofficial way with CID to check if your device can be unlocked, check here: [xdaforums.com](https://xdaforums.com/t/guide-un-locking-motorola-bootloader.4079111/post-85375429)
-* Motorola also requires the phone to have a stable internet connection for at least a week for the bootloader to be unlocked, this is not mentioned anywhere on the unlock website but has been confirmed by [posts on the Motorola development forum](https://forums.lenovo.com/topic/findpost/15261/5289637/6254146)
+### [OnePlus](/brands/oneplus/README.md)
 
+### [Fairphone](/brands/fairphone/README.md)
 
-> Moto used confusion! It seems pretty effective...
+### [Sony](/brands/sony/README.md)
 
-### OnePlus
-What? OnePlus? Aren't their phones super easy to unlock? - yes, but... <br/>
-You probably heard about the OnePlus X OPPO os merger and while it did get called off, both companies started sharing a "unified codebase". You can probably see where I'm going.
-
-If one day OnePlus decides to practice racism like Realme or go nuclear like OPPO/Vivo, they'll have those "unified" tools at their disposal.
-
-### Fairphone
-No, wait, I have a point.
-
-All Fairphones after 2 require you to request a code from [this](https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone) website to enable OEM unlock. There is nothing stopping them from requiring an account and having device unlock limits in the future. This is "proceed with caution" after all.
-
-Not very fair in my opinion, but whatever fairs your phone.
-
-> They also [broke Verified Boot](https://forum.fairphone.com/t/bootloader-avb-keys-used-in-roms-for-fairphone-3-4/83448/4), lol
-
-### Sony
-
-Sony has an open policy for software developers:
-- They are releasing AOSP sources under [Sony Open Devices Program](https://developer.sony.com/open-source/aosp-on-xperia-open-devices).
-- Jolla provides first-class support for installing [Sailfish OS](https://shop.jolla.com/) on select Xperias. That wouldn't be possible without Sony's openness.
-
-Since Sony likes to ruin a perfect thing:
-- Sony requires you to request an unlock code from [their servers](https://developer.sony.com/open-source/aosp-on-xperia-open-devices/get-started/unlock-bootloader). They can pull the plug anytime. You have to send your IMEI and agree to warranty voiding.
-
-### Microsoft
-While Microsoft doesn't provide an official unlocking method, an [unofficial method](https://github.com/WOA-Project/SurfaceDuo-Guides/blob/main/Install/UnlockingBootloader.md) has been available for their Android devices basically ever since Microsoft began making Android phones, and Microsoft hasn't bothered to patch it, and Windows is possible to run on an unlocked bootloader Surface Duo, so it seems like the bootloader will remain unlockable for now, but do note Microsoft can patch the unofficial method at any time.<br/>
-As for Windows Phones, once again, no official methods, but an [unofficial method](http://allaboutwindowsphone.com/features/item/24245_Aguideforunlockingthebootloade.php) has been around for a while, and supports all Mirosoft-made Lumias except for the 540 and 535, as Windows Phone hasn't been supported since 2017, it is highly unlikely this is going to be patched.
+### [Microsoft](/brands/microsoft/README.md)
 
 ## ℹ️ "Safe for now" :trollface: 
 
-### Google
-Allows unlocking on almost any non-carrier locked device, but is also a pioneer in making rooting and custom ROMs painful with things like Safety Net and Play Integrity. With the latest feat being RCS messaging which requires DEVICE integrity to work. (To prevent "spam", of course)
+### [Google](/brands/google/README.md)
 
-### Nothing
-Nothing Phones can be unlocked via fastboot without any codes. The only requirement is 
-to enable **OEM unlocking** in **Developer Options** settings page. This is the same procedure as on Google Pixel.
+### [Nothing](/brands/nothing/README.md)
 
-### Umidigi
-Umidigi phones are generally unlockable, however due to them being a budget-focused manufacturer, they use Unisoc SoCs, and [Unisoc requires a bunch of extra steps to unlock for whatever reason](https://www.hovatek.com/forum/thread-32287.html), and therefore I wouldn't consider them completely safe. MediaTek Umidigi devies can just use flashing unlock/oem unlock in fastboot.
+### [Umidigi](/brands/umidigi/README.md)
 
 # Misc info
 
