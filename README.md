@@ -70,6 +70,12 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 # Misc info
 
+## Custom AVB Keys
+
+Custom Android Verified Boot keys is a feature which allows you to run a custom OS with a locked bootloader.
+
+It's rare to see a device which supports custom AVB keys, but some devices can be found [here](https://github.com/chenxiaolong/avbroot/issues/299).
+
 ## Universal SOC-based methods
 
 ### Kirin
