@@ -19,16 +19,20 @@ Additional BS applies:
 - You will not receive OTA updates.
 - your warranty will be void.
 
-Also, check out [Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) by [MlgmXyysd](https://github.com/MlgmXyysd).
+Also, check out [Xiaomi-HyperOS-BootLoader-Bypass] by [MlgmXyysd](https://github.com/MlgmXyysd).
 
 > [!NOTE]
-> While not as extreme, if [xiaomiui.net](https://xiaomiui.net/how-unlock-bootloader-xiaomi-hyperos-53493/) is to be believed, global unlock has also undergone some changes:
+> While not as extreme, if [xiaomiui.net][global-requirements] is to be believed, global unlock has also undergone some changes:
 > * Your Mi Account has been active for more than 30 days.
 > * Xiaomi Community App version 5.3.31 or above.
 > * You can only unlock the bootloader of 3 devices per year with your account.
 
-Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootloader](https://github.com/lrh2000/Xiaomi-bootloader)
+Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootloader]
 
 ***
 Updated info provided by [n1ses](https://github.com/n1ses).<br/>
 Authored by [melontini](https://github.com/melontini).
+
+[Xiaomi-HyperOS-BootLoader-Bypass]:https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass
+[global-requirements]:https://xiaomiui.net/how-unlock-bootloader-xiaomi-hyperos-53493/
+[Xiaomi-bootloader]:https://github.com/lrh2000/Xiaomi-bootloader
