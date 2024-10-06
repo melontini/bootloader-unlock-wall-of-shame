@@ -48,6 +48,9 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Apple](/brands/apple/README.md)
 
+### Energizer
+Not only will Energizer destroy your electronics by leaking battery acid everywhere, but they will also destroy your privacy by not allowing you to unlock your bootloader. There's not much more to say, neither their Android phones or KaiOS phones are unlockable.
+
 ## ⚠️ Proceed with caution!
 
 ### [Motorola/Lenovo](/brands/motorola/README.md)
