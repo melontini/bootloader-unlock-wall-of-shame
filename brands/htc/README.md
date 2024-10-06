@@ -7,7 +7,13 @@ In the past, HTC allowed you to unlock your bootloader on their [developer websi
 > [!NOTE]
 > As of September 2024, the website is still up and working (tested with an HTC Raider), however since HTC hasn't supported it in over 6 years, it may go down at any time, and even for these legacy devices, BS applies. 
 
-HTC had a system known as "S-ON/S-OFF", with S-ON enabled, [the only partitions that can be flashed are system and recovery][s-system], all other partitions are read only. While HTC claims you can write boot with S-ON, it's complicated. For whatever reason, HTC made it so you can't flash boot.img from recovery, if you want to flash boot.img, you have to flash it in fastboot, meaning if you want to flash a ROM, you have to install it in recovery, then reboot to fastboot and flash boot.img, then you can boot. There have been systems to work around this, such as TWRP's [HTC Dumlock]. There are ways to achieve S-OFF, but it's different for each device. Search for your specific device on [XDA](https://xdaforums.com). Do note that due to the age of most of these tools, they may require legacy operating systems such as **Ubuntu 14.04 or Windows 7**.
+## S-ON/S-OFF
+
+HTC had a system known as "S-ON/S-OFF", with S-ON enabled, [the only partitions that can be flashed are system and recovery][s-system], all other partitions are read only. 
+
+While HTC claims you can write boot with S-ON, it's complicated. For whatever reason, HTC made it so you can't flash boot.img from recovery, if you want to flash boot.img, you have to flash it in fastboot, meaning if you want to flash a ROM, you have to install it in recovery, then reboot to fastboot and flash boot.img, then you can boot. 
+
+There have been systems to work around this, such as TWRP's [HTC Dumlock]. There are ways to achieve S-OFF, but it's different for each device. Search for your specific device on [XDA](https://xdaforums.com). Do note that due to the age of most of these tools, they may require legacy operating systems such as **Ubuntu 14.04 or Windows 7**.
 
 ***
 Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
