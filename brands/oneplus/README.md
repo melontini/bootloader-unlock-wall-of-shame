@@ -1,6 +1,7 @@
 # OnePlus
 
-> ☢️ This info is just speculation!
+> [!CAUTION]
+> 🛑 This page is rejected and requires a complete rewrite.
 
 - Verdict: **⚠️ Proceed with caution!**
 

@@ -38,6 +38,8 @@ While not as extreme, if [xiaomiui.net][global-requirements] is to be believed, 
 
 ## Android One
 
+* [**🔓️ Unlock Guide**](/misc/generic-unlock.md)
+
 Devices shipping with Android One do NOT have any unlock requirements. They follow the standard Android unlock process.
 
 ***
