@@ -14,22 +14,12 @@ Also, check out [Xiaomi-HyperOS-BootLoader-Bypass] by [MlgmXyysd](https://github
 
 ### China
 
-> 🧹 Missing a source for China Requirements.
-
-With the new policy, **You must have a Level 5 developer Xiaomi Community account.** </br>
-And here's a list of things you have to do to get that:
-- You must be a citizen of China.
-- You have to use HyperOS and report at least 1 bug per day. (????)
-- You have to submit at least 1 HyperOS suggestion per month. (????)
-- You must be an active Xiaomi Community user.
-
-Additional BS applies:
-- The permission to unlock is temporary and is granted for 1-year only.
-- You can only unlock 3 devices per-year.
-- You will not receive OTA updates.
-- your warranty will be void.
+[The bootloader CANNOT be unlocked on devices of the Mainland China region](https://gsmchina.com/xiaomi-will-no-longer-allow-bootloader-unlocking-5618/).
 
 ### Global
+
+> [!WARNING]
+> Since October 2024 [there have been rumors that Xiaomi will kill bootloader unlocking on the Global market](https://x.com/chunvn8888/status/1841901853073953254), after having done so for the China market. If you own a Xiaomi device and your warranty has ended or you don't care for it, you should unlock youe device while you can.
 
 While not as extreme, if [xiaomiui.net][global-requirements] is to be believed, global unlock has also undergone some changes:
 * Your Mi Account has been active for more than 30 days.
