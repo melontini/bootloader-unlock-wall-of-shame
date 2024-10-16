@@ -1,4 +1,4 @@
-![Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame/assets/104443436/2b9dbf70-faf3-49ab-886b-d88f50c5dbe0)
+![Banner. A lock and a key on fire on the left and the text 'Bootloader Unlock: Wall of Shame' on the right.](/misc/banner/banner.jpg)
 
 Keeping track of companies that "care about your data 🥺"
 

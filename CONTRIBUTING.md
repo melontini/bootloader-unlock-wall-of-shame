@@ -8,7 +8,15 @@ Links should generally point to the original website, unless the original source
 ### Formatting
 When formatting your submission, avoid cramming everything into a single paragraph. Separate the information into logical sections.  
   
-If necessary, you can use GitHub's Markdown Alerts to reduce the mental load. However, it's easy to overuse them and make the page extremely cluttered.  
+If necessary, you can use GitHub's Markdown Alerts to reduce the mental load. However, it's easy to overuse them and make the page extremely cluttered. 
+
+Avoid wrapping entire sentences in link blocks. Try to keep them short.
+
+```patch
+- ...and [Unisoc requires a bunch of extra steps to unlock for whatever reason][Unisoc Unlock]...
++ ...and Unisoc requires a bunch of [extra steps to unlock][Unisoc Unlock] for whatever reason...
+
+```
   
 The use of text formatting is not necessary and is generally used for "comedic" effect.
 
@@ -35,10 +43,38 @@ A company is considered "safe" if it follows the standard Android (or SOC) proce
 ### Brief History
 If the company allowed unlocking in the past, or had different unlocking methods, it may be useful to devote a paragraph to a historical review.
 
+### Guides
+
+Brand Pages on the Wall may provide their own unlock instructions, but the instructions should be separated into a separate file and fully describe the process. A troubleshooting section is encouraged.
+
+The generic unlock guide to base your own on can be found here: [generic-unlock.md](/misc/generic-unlock.md).
+
 ### Additional Info (Not related to unlocking)
 The main focus of this list is bootloader unlocking, but other related topics may also be mentioned. It's best to mention them in one sentence and link to a source, rather than explaining them at length.
 
 Related topics include, but are not limited to: rooting, custom operating systems, ADB.
+
+### Links
+
+Links to external resources should be formatted as Markdown reference links. Links to other pages on the Wall can be formatted using the regular `[Example](/brands/...)` syntax.
+
+```
+An [Example Link][example-link] in the middle.
+
+*** <- Bottom of the page.
+
+[example-link]:https:...
+```
+
+Or you can also do this:
+
+```
+An [Example Link] in the middle.
+
+*** <- Bottom of the page.
+
+[Example Link]:https:...
+```
 
 ### Images
 It's fine to use images in brand pages, but they should have descriptive alt text and be small. The smaller size can be achieved by converting your images to lossy `.webp`.
