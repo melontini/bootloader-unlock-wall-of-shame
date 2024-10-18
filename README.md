@@ -48,9 +48,9 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Apple](/brands/apple/README.md)
 
-## ⚠️ Proceed with caution!
-
 ### [Motorola/Lenovo](/brands/motorola/README.md)
+
+## ⚠️ Proceed with caution!
 
 ### [OnePlus](/brands/oneplus/README.md)
 
