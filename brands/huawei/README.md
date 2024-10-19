@@ -7,7 +7,7 @@
 In the past, Huawei allowed you to unlock with a special code you get by submitting some information to emui.com (IMEI, serial, model, and product ID), but in 2018 "corporate values have changed" and the site went down. <br/>
 Worse, on Android 10+, the unlock command has been **completely removed** from fastboot.
 
-Certain Kirin-based phones can use [PotatoNV]
+Certain Kirin-based phones can use [PotatoNV], and some of others can use [this method](https://xdaforums.com/t/free-huawei-kirin-bootloader-and-frp-unlocking-through-test-point-2024.4673890/)
 
 Paid methods:<br/>
 I don't recommend paid methods due to general sketchiness. I have used one of these tools a while ago, it was okay.<br/>
