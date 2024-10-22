@@ -94,9 +94,8 @@ This: [xdaforums.com](https://xdaforums.com/t/alldocube-t803-smile_1-bootloader-
 Or this: [subut](https://unisoc-android.github.io/subut/)
 
 ### Qualcomm 
-There's no Universal Qualcomm method, unfortunately.
-
-Although some of these might work for you:
+https://github.com/bkerler/edl May work depending on the type of qualcomm phone. May not work even with right loader from https://github.com/bkerler/Loaders
+if its a samsung or any scummy company which will lock firehose programmers to XBL bootloader version.
 
 The general exploit:<br/>
 [alephsecurity.com](https://alephsecurity.com/2018/01/22/qualcomm-edl-2/) the bootloader unlock section.
