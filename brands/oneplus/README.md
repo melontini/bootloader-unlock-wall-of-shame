@@ -1,14 +1,7 @@
 # OnePlus
-
-> [!CAUTION]
-> 🛑 This page is rejected and requires a complete rewrite.
-
 - Verdict: **⚠️ Proceed with caution!**
-
-What? OnePlus? Aren't their phones super easy to unlock? - yes, but... <br/>
-You probably heard about the OnePlus X OPPO os merger and while it did get called off, both companies started sharing a "unified codebase". You can probably see where I'm going.
-
-If one day OnePlus decides to practice racism like Realme or go nuclear like OPPO/Vivo, they'll have those "unified" tools at their disposal.
-
+All of OnePlus' phones are easily unlockable, [as seen here](https://service.oneplus.com/us/search/search-detail?id=2085382)
+However, do tread with caution as OPPO and OnePlus have merged their codebases into a "unified codebase", so OnePlus can, at any time, has tools to disable their unlocks.
+However, 
 ***
-Authored by [melontini](https://github.com/melontini).
+Authored by [madeline-yana](https://github.com/madeline-yana).
