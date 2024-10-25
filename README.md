@@ -50,6 +50,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Motorola/Lenovo](/brands/motorola/README.md)
 
+### [Energizer](/brands/energizer/README.md)
+
 ## ⚠️ Proceed with caution!
 
 ### [Fairphone](/brands/fairphone/README.md)
