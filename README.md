@@ -54,13 +54,13 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ## ⚠️ Proceed with caution!
 
-### [OnePlus](/brands/oneplus/README.md)
-
 ### [Fairphone](/brands/fairphone/README.md)
 
 ### [Sony](/brands/sony/README.md)
 
 ### [Microsoft](/brands/microsoft/README.md)
+
+### [OnePlus](/brands/oneplus/README.md)
 
 ## ℹ️ "Safe for now" :trollface: 
 
