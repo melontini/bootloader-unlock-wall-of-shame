@@ -52,6 +52,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Energizer](/brands/energizer/README.md)
 
+### [Cat](/brands/cat/README.md)
+
 ## ⚠️ Proceed with caution!
 
 ### [Fairphone](/brands/fairphone/README.md)
