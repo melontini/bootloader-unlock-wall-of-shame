@@ -58,9 +58,9 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Microsoft](/brands/microsoft/README.md)
 
-## ℹ️ "Safe for now" :trollface: 
-
 ### [OnePlus](/brands/oneplus/README.md)
+
+## ℹ️ "Safe for now" :trollface: 
 
 ### [Google](/brands/google/README.md)
 
