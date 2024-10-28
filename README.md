@@ -48,6 +48,15 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Apple](/brands/apple/README.md)
 
+### Carrier Locked Devices
+
+> [!NOTE]
+> Phone brands handle carrier locks differently, so check your device manual or contact support.
+
+Carrier locked devices are the ones you get after making a commitment with a carrier of your choice. This is quite common in North America and (supposedly) allows you to save some money on your device.
+
+As a rule, almost all carrier locked devices do not allow the bootloader to be unlocked. This usually makes sense, as it would allow you to completely bypass the contract. The problem is that many devices still do not allow you to unlock the bootloader even after the carrier lock has been lifted.
+
 ## ⚠️ Proceed with caution!
 
 ### [Motorola/Lenovo](/brands/motorola/README.md)
