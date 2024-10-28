@@ -48,6 +48,12 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Apple](/brands/apple/README.md)
 
+### [Motorola/Lenovo](/brands/motorola/README.md)
+
+### [Energizer](/brands/energizer/README.md)
+
+### [Cat](/brands/cat/README.md)
+
 ### Carrier Locked Devices
 
 > [!NOTE]
@@ -59,15 +65,13 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ## ⚠️ Proceed with caution!
 
-### [Motorola/Lenovo](/brands/motorola/README.md)
-
-### [OnePlus](/brands/oneplus/README.md)
-
 ### [Fairphone](/brands/fairphone/README.md)
 
 ### [Sony](/brands/sony/README.md)
 
 ### [Microsoft](/brands/microsoft/README.md)
+
+### [OnePlus](/brands/oneplus/README.md)
 
 ## ℹ️ "Safe for now" :trollface: 
 
