@@ -54,6 +54,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Cat](/brands/cat/README.md)
 
+### [Sharp](/brands/sharp/README.md)
+
 ### Carrier Locked Devices
 
 > [!NOTE]
