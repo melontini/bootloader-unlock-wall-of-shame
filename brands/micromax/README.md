@@ -1,8 +1,9 @@
 # Micromax
 
 * Verdict **ℹ️ "Safe for now" :trollface:**
+[**🔓️ Unlock Guide**](/misc/generic-unlock.md)
 
-Despite their sketchy past with using their OTA updater app to [deliver adware][Micromax adware], Micromax follows the standard procedure of enabling OEM unlock in settings, then running `fastboot flashing unlock` in bootloader mode to unlock your bootloader.
+Despite their sketchy past with using their OTA updater app to [deliver adware][Micromax adware], Micromax follows the [standard unlock procedure](/misc/generic-unlock.md)
 
 ***
 Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
