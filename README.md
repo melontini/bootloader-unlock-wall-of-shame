@@ -56,6 +56,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Sharp](/brands/sharp/README.md)
 
+### [Infinix](/brands/infinix/README.md)
+
 ### Carrier Locked Devices
 
 > [!NOTE]
