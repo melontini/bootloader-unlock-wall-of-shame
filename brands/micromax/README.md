@@ -1,7 +1,7 @@
 # Micromax
 
 * Verdict **ℹ️ "Safe for now" :trollface:**
-[**🔓️ Unlock Guide**](/misc/generic-unlock.md)
+* [**🔓️ Unlock Guide**](/misc/generic-unlock.md)
 
 Despite their sketchy past with using their OTA updater app to [deliver adware][Micromax adware], Micromax follows the [standard unlock procedure](/misc/generic-unlock.md)
 
