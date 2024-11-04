@@ -83,6 +83,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ### [Umidigi](/brands/umidigi/README.md)
 
+### [Micromax](/brands/micromax/README.md)
+
 # Misc info
 
 ## Custom AVB Keys
