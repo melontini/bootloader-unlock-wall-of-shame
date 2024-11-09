@@ -56,8 +56,6 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Sharp](/brands/sharp/README.md)
 
-### [Infinix](/brands/infinix/README.md)
-
 ### Carrier Locked Devices
 
 > [!NOTE]
@@ -76,6 +74,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 ### [Microsoft](/brands/microsoft/README.md)
 
 ### [OnePlus](/brands/oneplus/README.md)
+
+### [Infinix](/brands/infinix/README.md)
 
 ## ℹ️ "Safe for now" :trollface: 
 
