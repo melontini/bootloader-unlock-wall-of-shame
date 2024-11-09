@@ -75,6 +75,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ### [OnePlus](/brands/oneplus/README.md)
 
+### [Infinix](/brands/infinix/README.md)
+
 ## ℹ️ "Safe for now" :trollface: 
 
 ### [Google](/brands/google/README.md)
