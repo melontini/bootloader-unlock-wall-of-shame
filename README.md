@@ -87,6 +87,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ### [Micromax](/brands/micromax/README.md)
 
+### [Ulefone](/brands/ulefone/README.md)
+
 # Misc info
 
 ## Custom AVB Keys
