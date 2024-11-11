@@ -77,6 +77,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ### [Infinix](/brands/infinix/README.md)
 
+### [Tecno](/brands/tecno/README.md)
+
 ## ℹ️ "Safe for now" :trollface: 
 
 ### [Google](/brands/google/README.md)
