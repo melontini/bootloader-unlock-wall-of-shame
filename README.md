@@ -56,6 +56,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Sharp](/brands/sharp/README.md)
 
+### [Doogee](/brands/doogee/README.md)
+
 ### Carrier Locked Devices
 
 > [!NOTE]
