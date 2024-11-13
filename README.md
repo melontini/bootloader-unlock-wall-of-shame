@@ -93,6 +93,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ### [Ulefone](/brands/ulefone/README.md)
 
+### [Blackview](/brands/blackview/README.md)
+
 # Misc info
 
 ## Custom AVB Keys
