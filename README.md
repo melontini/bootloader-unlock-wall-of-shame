@@ -95,6 +95,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ### [Blackview](/brands/blackview/README.md)
 
+### [Cubot](/brands/cubot/README.md)
+
 # Misc info
 
 ## Custom AVB Keys
