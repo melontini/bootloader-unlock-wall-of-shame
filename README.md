@@ -97,6 +97,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ### [Cubot](/brands/cubot/README.md)
 
+### [Oukitel](/brands/oukitel/README.md)
+
 # Misc info
 
 ## Custom AVB Keys
