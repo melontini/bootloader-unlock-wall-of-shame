@@ -5,7 +5,7 @@
 * [**🔓️ Unlock Guide (Unisoc)**][Unisoc Unlock]
 
 
-it el follows the [standard unlock procedure](/misc/general-unlock.md) for their MediaTek devices, and the [Unisoc procedure][Unisoc Unlock] for their Unisoc devices.
+itel follows the [standard unlock procedure](/misc/general-unlock.md) for their MediaTek devices, and the [Unisoc procedure][Unisoc Unlock] for their Unisoc devices.
 ***
 Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
 
