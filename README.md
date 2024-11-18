@@ -99,6 +99,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ### [Oukitel](/brands/oukitel/README.md)
 
+### [itel](/brands/itel/README.md)
+
 # Misc info
 
 ## Custom AVB Keys
