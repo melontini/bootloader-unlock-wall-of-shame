@@ -58,6 +58,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Doogee](/brands/doogee/README.md)
 
+### [TCL](/brands/tcl/README.md) 
+
 ### Carrier Locked Devices
 
 > [!NOTE]
