@@ -10,6 +10,7 @@ On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed
 
 * Vivo x70 Pro+: [xdaforums.com][Vivo x70 Pro+]
 * Vivo Y31 2021: [xdaforums.com][Vivo x70 Pro+]
+For Magisk use https://github.com/4accccc/vivo-Magisk-suu/ or https://github.com/4accccc/vivo-Magisk-Delta-suu as Vivo rejects su applet (it's implemented inside the kernel), if the device is MTK you can safely unlock bootloader with MTKClient:https://github.com/bkerler/mtkclient
 
 \* BBK Electronics was deregistered as a company on 7 April 2023.
 
