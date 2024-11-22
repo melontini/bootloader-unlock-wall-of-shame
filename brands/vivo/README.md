@@ -10,7 +10,13 @@ On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed
 
 * Vivo x70 Pro+: [xdaforums.com][Vivo x70 Pro+]
 * Vivo Y31 2021: [xdaforums.com][Vivo x70 Pro+]
-For Magisk use https://github.com/4accccc/vivo-Magisk-suu/ or https://github.com/4accccc/vivo-Magisk-Delta-suu as Vivo rejects su applet (it's implemented inside the kernel), if the device is MTK you can safely unlock bootloader with MTKClient:https://github.com/bkerler/mtkclient
+
+There is also a chance that your device is vulnerable to one of the MTK or Unisoc [exploits](/README.md/#universal-soc-based-methods).
+
+## Magisk
+Vivo devices have kernel-level patches to block the `su` binary, so to use Magisk you should flash this modified version with `suu`.
+- [Magisk][patched-magisk]
+- [Magisk Delta][patched-magisk-delta]
 
 \* BBK Electronics was deregistered as a company on 7 April 2023.
 
@@ -20,3 +26,5 @@ Authored by [melontini](https://github.com/melontini).
 [BBK Fastboot]:https://xdaforums.com/t/how-to-unlock-bootloader-of-vivo-phones.3686690/
 [Vivo x70 Pro+]:https://xdaforums.com/t/vivo-x70-pro-bootloader-unlock-how-to-guide.4444989/
 [Vivo Y31 2021]:https://xdaforums.com/t/unlocking-bootloader-rebooting-in-edl-without-testpoint-vivo-y31-2021.4440801/
+[patched-magisk]:https://github.com/4accccc/vivo-Magisk-suu/
+[patched-magisk-delta]:https://github.com/4accccc/vivo-Magisk-Delta-suu
