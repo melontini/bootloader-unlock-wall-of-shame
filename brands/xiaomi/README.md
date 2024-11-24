@@ -58,7 +58,7 @@ These will both (for now) allow you to continue with the good old steps, where y
 
 ### Devices running MIUI 14 and below
 
-I've not tested this, but you should be able to use the "normal" unlock process by itself, wihtout the community app BS
+You should be able to use the "normal" unlock process by itself, wihtout the community app BS
 (the one descibed in the "good old MIUI days" section above).
 
 ## Android One
