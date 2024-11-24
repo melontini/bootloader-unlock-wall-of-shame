@@ -47,7 +47,7 @@ If [xiaomiui.net][global-requirements] is to be believed, the requirements for t
 * Xiaomi Community App version 5.3.31 or above.
 * You can only unlock the bootloader of 3 devices per year with your account.
 
-And it gets even better! Because there is a cap on the amount of people who can request per day inside the Community App, and it gets filled pretty much instantly, so your only chance to make a successful request there is if you get lucky spamming the request at midnight, Beijing time (or whatever that is in your timezone).
+And it gets even better! As people have found it the hard way [in the xda forums][community-app-cap], there is a cap on the amount of people who can request per day inside the Community App, and it gets filled pretty much instantly, so your only chance to make a successful request there is if you get lucky spamming the request at midnight, Beijing time (or whatever that is in your timezone).
 
 As such, for as long as the option is available, you'll skip this community BS and use the bypass methods:
 
@@ -79,3 +79,4 @@ Authored by [melontini](https://github.com/melontini).
 [global-requirements]:https://xiaomiui.net/how-unlock-bootloader-xiaomi-hyperos-53493/
 [Xiaomi-bootloader]:https://github.com/lrh2000/Xiaomi-bootloader
 [yo-dawg-meme]:https://knowyourmeme.com/memes/xzibit-yo-dawg
+[community-app-cap]:https://xdaforums.com/t/application-quota-limit-reached.4695764/
