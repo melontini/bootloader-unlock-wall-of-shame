@@ -60,6 +60,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [TCL](/brands/tcl/README.md) 
 
+### [Coolpad](/brands/coolpad/README.md) 
+
 ### Carrier Locked Devices
 
 > [!NOTE]
