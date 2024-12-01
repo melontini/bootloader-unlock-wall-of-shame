@@ -7,7 +7,7 @@ Sony has an open policy for software developers:
 - Jolla provides first-class support for installing [Sailfish OS] on select Xperias.
 
 Since Sony likes to ruin a perfect thing:
-- Sony requires you to request an unlock code from their [Unlock Service]. They can pull the plug anytime. You have to send your IMEI and agree to warranty voiding.
+- Sony requires you to request an unlock code from their [Unlock Service]. They can pull the plug anytime. You have to send your IMEI and agree to possible warranty voiding (many have had their phones repaired/replaced under warranty even after unlocking, just simply flash stock and lock before doing warranty).
 
 Some carrier locked and US devices can never be unlocked. On Sony devices ([but not all?][service-menu-gone]) you can check if the bootloader is unlockable using the service menu.
 
@@ -17,6 +17,9 @@ Some carrier locked and US devices can never be unlocked. On Sony devices ([but 
 4. If "Yes", then the device is unlockable.
 
 ***
+
+Sony supports Custom AVB Since 2020
+
 Additional info provided by [K4sum1](https://github.com/K4sum1).<br/>
 Authored by [konradmb](https://github.com/konradmb).
 
