@@ -85,6 +85,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 ### [Tecno](/brands/tecno/README.md)
 
+### [itel](/brands/itel/README.md)
+
 ## ℹ️ "Safe for now" :trollface: 
 
 ### [Google](/brands/google/README.md)
@@ -102,8 +104,6 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 ### [Cubot](/brands/cubot/README.md)
 
 ### [Oukitel](/brands/oukitel/README.md)
-
-### [itel](/brands/itel/README.md)
 
 # Misc info
 
