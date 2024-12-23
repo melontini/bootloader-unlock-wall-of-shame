@@ -1,6 +1,6 @@
 # Sharp
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!**
 
 Sharp doesn't allow you to unlock your bootloader and has Fastboot removed from their devices. If you want a Japanese-made phone, you're better off getting a Sony.
 
