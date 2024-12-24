@@ -93,6 +93,8 @@ The following manufacturers require an online account and/or a waiting period be
 
 ### [Tecno](/brands/tecno/README.md)
 
+### [itel](/brands/itel/README.md)
+
 ## ℹ️ "Safe for now" :trollface: 
 
 ### [Google](/brands/google/README.md)
@@ -110,8 +112,6 @@ The following manufacturers require an online account and/or a waiting period be
 ### [Cubot](/brands/cubot/README.md)
 
 ### [Oukitel](/brands/oukitel/README.md)
-
-### [itel](/brands/itel/README.md)
 
 # Misc info
 
