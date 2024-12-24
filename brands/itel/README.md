@@ -9,7 +9,7 @@ Itel [requires you to have an Itel ID](https://en.wikipedia.org/wiki/Bootloader_
 
 Earlier, itel didn't require online verification and two weeks of waiting. Things changed.
 
-Also see Tecno and Realme - all these brands are [Transsion corp](https://en.wikipedia.org/wiki/Transsion) (Chinese, yes)
+See also: [Tecno](/brands/tecno/README.md)/[Infinix](/brands/infinix/README.md) - all subsidiaries of [Transsion Holdings](https://en.wikipedia.org/wiki/Transsion)
 
 ***
 Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439) and [mtxadmin](https://github.com/mtxadmin).<br/>
