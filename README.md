@@ -59,7 +59,7 @@ The following manufacturers have made it completely impossible to unlock their d
 
 Carrier locked devices are the ones you get after making a commitment with a carrier of your choice. This is quite common in North America and (supposedly) allows you to save some money on your device.
 
-As a rule, almost all carrier locked devices do not allow the bootloader to be unlocked. This usually makes sense, as it would allow you to completely bypass the contract. The problem is that many devices still do not allow you to unlock the bootloader even after the carrier lock has been lifted.
+As a rule, almost all carrier locked devices do not allow the bootloader to be unlocked. This usually makes sense, as it would allow you to completely bypass the contract. The problem is that many devices still do not allow you to unlock the bootloader even after the carrier lock has been lifted. For more details, see the [carriers page](/carriers/README.md).
 
 ## ⛔ Avoid at all costs!
 
