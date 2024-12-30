@@ -25,6 +25,13 @@ Currently it is near impossible to unlock Xiaomi phones of the china region, esp
 >
 > If you own a Xiaomi device and your warranty has ended or you don't care for it, you should unlock your device while you can.
 
+> [!IMPORTANT]
+> Xiaomi has [updated their policies](https://github.com/user-attachments/assets/f69e5497-f9df-46c2-b726-83b5cbdb1002), further restricting bootloader unlocking.
+>
+> Starting from January 1, 2025, they will only let you unlock 1 device per year per account, instead of the current 3 devices per year. Be mindful of this when unlocking a device through official means with your account.
+>
+> As there isn't much information about this change apart from the update to their requirements, it's still unknown whether or not this will also apply to devices running MIUI.
+
 ### Devices running HyperOS (even if they were upgraded to it from MIUI)
 
 First of all we should clear up something: HyperOS is essentially a new marketing term for what would've been MIUI 15. So it's still a vendor skin/theming engine on top of Linux-based Android, it's just called HyperOS instead of MIUI as it used to be called.
@@ -45,7 +52,7 @@ That is, you can only make the request for unlocking the device inside Developer
 If [xiaomiui.net][global-requirements] is to be believed, the requirements for the Community App request are as follows:
 * Your Mi Account has been active for more than 30 days.
 * Xiaomi Community App version 5.3.31 or above.
-* You can only unlock the bootloader of 3 devices per year with your account.
+* You can only unlock the bootloader of 3 devices per year with your account. (After January 1, 2025, this limit will be changed to 1 device per year, *how cool is that?*)
 
 And it gets even better! As people have found it the hard way [in the xda forums][community-app-cap], there is a cap on the amount of people who can request per day inside the Community App, and it gets filled pretty much instantly, so your only chance to make a successful request there is if you get lucky spamming the request at midnight, Beijing time (or whatever that is in your timezone).
 
