@@ -22,7 +22,10 @@ Currently it is near impossible to unlock Xiaomi phones of the china region, esp
 
 > [!WARNING]
 > Since October 2024 [there have been rumors][bootloader-unlock-block-global] that Xiaomi will kill bootloader unlocking on the Global market, after having done so for the China market.
-> From 1st Jan 2025 Xiaomi will allow to unlock one device/year, source:https://www.smartworld.it/news/xiaomi-regole-bootloader.html and https://new.c.mi.com/global/post/710306 (comments)
+> 
+> From 1st Jan 2025 Xiaomi will allow to unlock one device/year.
+>
+>  source:https://www.smartworld.it/news/xiaomi-regole-bootloader.html and https://new.c.mi.com/global/post/710306 (comments)
 >
 > If you own a Xiaomi device and your warranty has ended or you don't care for it, you should unlock your device while you can.
 
