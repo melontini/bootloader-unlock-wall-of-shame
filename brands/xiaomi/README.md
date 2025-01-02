@@ -25,13 +25,6 @@ Currently it is near impossible to unlock Xiaomi phones of the china region, esp
 >
 > If you own a Xiaomi device and your warranty has ended or you don't care for it, you should unlock your device while you can.
 
-> [!IMPORTANT]
-> Xiaomi has [updated their policies][updated-policies], further restricting bootloader unlocking.
->
-> As of January 1st, 2025, they only let you unlock 1 device per year per account, instead of the previous 3 devices per year. You should be mindful of this change when unlocking a device through official means with your account.
->
-> As this change is shown in the Xiaomi Community app when applying for unlocking, this shouldn't affect devices running MIUI, however it's still unknown whether or not they are affected too.
-
 ### Devices running HyperOS (even if they were upgraded to it from MIUI)
 
 First of all we should clear up something: HyperOS is essentially a new marketing term for what would've been MIUI 15. So it's still a vendor skin/theming engine on top of Linux-based Android, it's just called HyperOS instead of MIUI as it used to be called.
@@ -52,7 +45,9 @@ That is, you can only make the request for unlocking the device inside Developer
 If [xiaomiui.net][global-requirements] is to be believed, the requirements for the Community App request are as follows:
 * Your Mi Account has been active for more than 30 days.
 * Xiaomi Community App version 5.3.31 or above.
-* You can only unlock the bootloader of 1 device per year with your account. (The limit was previously 3, but got reduced on January 1st, 2025, *what a good way to start the year, right?*)
+* ~~You can only unlock the bootloader of 3 devices per year with your account.~~
+
+Xiaomi has [updated their policies][updated-policies], further restricting bootloader unlocking. As of January 1st, 2025, they only let you unlock 1 device per year. *What a good way to start the year, right?*
 
 And it gets even better! As people have found it the hard way [in the xda forums][community-app-cap], there is a cap on the amount of people who can request per day inside the Community App, and it gets filled pretty much instantly, so your only chance to make a successful request there is if you get lucky spamming the request at midnight, Beijing time (or whatever that is in your timezone).
 
@@ -67,6 +62,8 @@ These will both (for now) allow you to continue with the good old steps, where y
 
 You should be able to use the "normal" unlock process by itself, wihtout the community app BS
 (the one descibed in the "good old MIUI days" section above).
+
+As the "1 device per year" policy is shown in the Xiaomi Community app when applying for unlocking HyperOS devices, this shouldn't affect devices running MIUI, however it's still unknown whether or not they are affected too.
 
 ## Android One
 
