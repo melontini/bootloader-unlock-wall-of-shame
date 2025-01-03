@@ -84,4 +84,4 @@ Authored by [melontini](https://github.com/melontini).
 [Xiaomi-bootloader]:https://github.com/lrh2000/Xiaomi-bootloader
 [yo-dawg-meme]:https://knowyourmeme.com/memes/xzibit-yo-dawg
 [community-app-cap]:https://xdaforums.com/t/application-quota-limit-reached.4695764/
-[updated-policies]:https://x.com/xiaomitimecom/status/1873481568569725191
+[updated-policies]:https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/
