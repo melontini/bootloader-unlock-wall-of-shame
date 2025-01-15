@@ -1,6 +1,6 @@
 # Apple
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!**
 
 This one is probably expected. No iPhone, iPad, iPod Touch or Apple TV model has had an unlockable bootloader. 
 

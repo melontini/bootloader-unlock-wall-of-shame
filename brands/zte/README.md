@@ -2,7 +2,7 @@
 
 > 🧹 This page is missing a lot of info!
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!**
 
 Old devices (pre Android 8):<br/>
 [xdaforums.com][pre-android-8]

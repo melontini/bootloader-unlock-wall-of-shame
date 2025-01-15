@@ -20,7 +20,9 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 > Reminder that no matter how nice a company is, <br/>
 > you should not trust them unless their unlock process is 100% offline!
 
-## ⛔ Avoid at all costs!
+## 🍅 Just terrible!
+
+The following manufacturers have made it completely impossible to unlock their devices without a workaround.
 
 ### [Huawei/Honor](/brands/huawei/README.md)
 
@@ -28,17 +30,7 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 ### [Vivo/IQOO](/brands/vivo/README.md)
 
-### [OPPO/Realme](/brands/oppo/README.md)
-
-### [Xiaomi/Redmi/POCO](/brands/xiaomi/README.md)
-
-### [Samsung](/brands/samsung/README.md)
-
 ### [ZTE](/brands/zte/README.md)
-
-### [LG](/brands/lg/README.md)
-
-### [HTC](/brands/htc/README.md)
 
 ### [Meizu](/brands/meizu/README.md)
 
@@ -47,8 +39,6 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 ### [Alcatel](/brands/alcatel/README.md)
 
 ### [Apple](/brands/apple/README.md)
-
-### [Motorola/Lenovo](/brands/motorola/README.md)
 
 ### [Energizer](/brands/energizer/README.md)
 
@@ -71,7 +61,25 @@ Carrier locked devices are the ones you get after making a commitment with a car
 
 As a rule, almost all carrier locked devices do not allow the bootloader to be unlocked. This usually makes sense, as it would allow you to completely bypass the contract. The problem is that many devices still do not allow you to unlock the bootloader even after the carrier lock has been lifted. For more details, see the [carriers page](/carriers/README.md).
 
+## ⛔ Avoid at all costs!
+
+The following manufacturers allow unlocking under certain conditions, such as region, model, SOC, etc., or require a sacrifice to unlock.
+
+### [OPPO/Realme](/brands/oppo/README.md)
+
+### [Xiaomi/Redmi/POCO](/brands/xiaomi/README.md)
+
+### [Samsung](/brands/samsung/README.md)
+
+### [LG](/brands/lg/README.md)
+
+### [HTC](/brands/htc/README.md)
+
+### [Motorola/Lenovo](/brands/motorola/README.md)
+
 ## ⚠️ Proceed with caution!
+
+The following manufacturers require an online account and/or a waiting period before unlocking.
 
 ### [Fairphone](/brands/fairphone/README.md)
 
@@ -84,6 +92,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 ### [Infinix](/brands/infinix/README.md)
 
 ### [Tecno](/brands/tecno/README.md)
+
+### [itel](/brands/itel/README.md)
 
 ## ℹ️ "Safe for now" :trollface: 
 
@@ -102,8 +112,6 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 ### [Cubot](/brands/cubot/README.md)
 
 ### [Oukitel](/brands/oukitel/README.md)
-
-### [itel](/brands/itel/README.md)
 
 # Misc info
 
