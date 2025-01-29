@@ -77,6 +77,8 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [Motorola/Lenovo](/brands/motorola/README.md)
 
+### [Google](/brands/google/README.md)
+
 ## ⚠️ Proceed with caution!
 
 The following manufacturers require an online account and/or a waiting period before unlocking.
@@ -96,8 +98,6 @@ The following manufacturers require an online account and/or a waiting period be
 ### [itel](/brands/itel/README.md)
 
 ## ℹ️ "Safe for now" :trollface: 
-
-### [Google](/brands/google/README.md)
 
 ### [Nothing](/brands/nothing/README.md)
 
