@@ -46,6 +46,7 @@ If [xiaomiui.net][global-requirements] is to be believed, the requirements for t
 * Your Mi Account has been active for more than 30 days.
 * Xiaomi Community App version 5.3.31 or above.
 * Xiaomi has [updated their policies][updated-policies], further restricting bootloader unlocking. As of January 1st, 2025, they only let you unlock 1 device per year. *What a good way to start the year, right?*
+* And if this wasn't enoough now in China from 6th of february there are [other restrictions] or requirements, call them as you like.
 
 And it gets even better! As people have found it the hard way [in the xda forums][community-app-cap], there is a cap on the amount of people who can request per day inside the Community App, and it gets filled pretty much instantly, so your only chance to make a successful request there is if you get lucky spamming the request at midnight, Beijing time (or whatever that is in your timezone).
 
@@ -83,3 +84,4 @@ Authored by [melontini](https://github.com/melontini).
 [yo-dawg-meme]:https://knowyourmeme.com/memes/xzibit-yo-dawg
 [community-app-cap]:https://xdaforums.com/t/application-quota-limit-reached.4695764/
 [updated-policies]:https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/
+[other restrictions]:https://xiaomitime.com/xiaomi-restricts-bootloader-unlocking-with-new-180-day-rule-23160/
