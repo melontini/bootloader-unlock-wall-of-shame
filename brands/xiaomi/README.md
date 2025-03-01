@@ -17,6 +17,7 @@ Currently it is near impossible to unlock Xiaomi phones of the china region, esp
 
 - [This source][bootloader-unlock-block-mainland-china] claims that the final day one could use the provided form to request an unlock was September 9, 2024. It also has an update, it seems that Xiaomi is suggesting inside the Community App that they will bring back the service in 2025, but it wouldn't be the first time a company lied about this.
 - In various forum posts [like this one][bootloader-unlock-block-mainland-china-alt] it is mentioned that a china region phone can only be unlocked if one is situated in China and has a level 5 Xiaomi account, or pays for the service in the hopes that a technician can unlock it.
+- From 6th of february there are [other restrictions] or requirements, call them as you like, like a 180 days without unban or warnings on the Xiaomi Community Acc. and no recent sensitive changes into the Xiaomi acc, also the unlocking should be done on the same device and with no ip changes. Also seems that users will have to unlock when they can and in time or won't have the possibility to unlock anymore.
 
 ### Global
 
@@ -46,7 +47,6 @@ If [xiaomiui.net][global-requirements] is to be believed, the requirements for t
 * Your Mi Account has been active for more than 30 days.
 * Xiaomi Community App version 5.3.31 or above.
 * Xiaomi has [updated their policies][updated-policies], further restricting bootloader unlocking. As of January 1st, 2025, they only let you unlock 1 device per year. *What a good way to start the year, right?*
-* And if this wasn't enoough now in China from 6th of february there are [other restrictions] or requirements, call them as you like.
 
 And it gets even better! As people have found it the hard way [in the xda forums][community-app-cap], there is a cap on the amount of people who can request per day inside the Community App, and it gets filled pretty much instantly, so your only chance to make a successful request there is if you get lucky spamming the request at midnight, Beijing time (or whatever that is in your timezone).
 
