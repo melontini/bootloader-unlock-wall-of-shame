@@ -8,7 +8,9 @@ In some situations, a phone farm such as BBK Electronics (now split into Vivo an
 
 ### Verdict
 
-Companies that do not allow unlocking must have the "⛔ Avoid" verdict. Sometimes, while it's possible to unlock, the process can be so complicated that a company will be recommended to avoid. (See: Realme, Xiaomi)
+Companies that do not allow unlocking must have the "🍅 Terrible" verdict.
+
+Sometimes, while it's possible to unlock, the process can be so complicated that a company will be recommended to avoid. (See: Realme, Xiaomi)
 
 Companies that use some sort of online service to unlock must be "⚠️ Proceed with caution!", regardless of reputation. 
 

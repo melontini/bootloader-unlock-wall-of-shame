@@ -1,6 +1,6 @@
 # HMD Global/Nokia
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!**
 
 In the flaming pile of HMD's "great" decisions to improve Nokia, one stands out more than others: They decided to follow the fresh "lock the bootloader" trend.<br/>
 Why was this necessary? I don't know...

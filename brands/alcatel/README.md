@@ -1,6 +1,6 @@
 # Alcatel
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!**
 
 There's nothing to say about Alcatel really. They have fastboot removed from most of their phones and have no official unlock method.
 

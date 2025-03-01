@@ -1,6 +1,6 @@
 # Vivo/IQOO
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!**
 
 The BBK* family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
 
