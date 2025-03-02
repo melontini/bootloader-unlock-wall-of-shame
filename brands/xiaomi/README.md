@@ -17,7 +17,7 @@ Currently it is near impossible to unlock Xiaomi phones of the china region, esp
 
 - [This source][bootloader-unlock-block-mainland-china] claims that the final day one could use the provided form to request an unlock was September 9, 2024. It also has an update, it seems that Xiaomi is suggesting inside the Community App that they will bring back the service in 2025, but it wouldn't be the first time a company lied about this.
 - In various forum posts [like this one][bootloader-unlock-block-mainland-china-alt] it is mentioned that a china region phone can only be unlocked if one is situated in China and has a level 5 Xiaomi account, or pays for the service in the hopes that a technician can unlock it.
-- From 6th of february there are [other restrictions] or requirements, call them as you like, like a 180 days without unban or warnings on the Xiaomi Community Acc. and no recent sensitive changes into the Xiaomi acc, also the unlocking should be done on the same device and with no ip changes. Also seems that users will have to unlock when they can and in time or won't have the possibility to unlock anymore.
+- As of february 6th there are [other requirements], like 180 days without bans or warnings on the account. and no recent sensitive changes to the account, also the unlock should be done on the same device and with no ip changes. Also seems that users will have to unlock when they can and in time or won't have the possibility to unlock anymore.
 
 ### Global
 
