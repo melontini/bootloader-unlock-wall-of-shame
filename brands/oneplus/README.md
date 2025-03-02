@@ -1,5 +1,7 @@
 # OnePlus
-- Verdict:  **⚠️ Proceed with caution!** </br>
+
+* Verdict **ℹ️ "Safe for now" :trollface:**
+* [**🔓️ Unlock Guide**](/misc/generic-unlock.md)
 
 All of OnePlus' phones are easily unlockable. 
 However, do tread with caution as OPPO and OnePlus have merged their codebases into a "unified codebase", so OnePlus can, at any time, disable their unlocks.
