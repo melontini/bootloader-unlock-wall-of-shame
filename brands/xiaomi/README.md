@@ -84,4 +84,4 @@ Authored by [melontini](https://github.com/melontini).
 [yo-dawg-meme]:https://knowyourmeme.com/memes/xzibit-yo-dawg
 [community-app-cap]:https://xdaforums.com/t/application-quota-limit-reached.4695764/
 [updated-policies]:https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/
-[other restrictions]:https://xiaomitime.com/xiaomi-restricts-bootloader-unlocking-with-new-180-day-rule-23160/
+[other requirements]:https://xiaomitime.com/xiaomi-restricts-bootloader-unlocking-with-new-180-day-rule-23160/
