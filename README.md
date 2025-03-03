@@ -85,8 +85,6 @@ The following manufacturers require an online account and/or a waiting period be
 
 ### [Sony](/brands/sony/README.md)
 
-### [Microsoft](/brands/microsoft/README.md)
-
 ### [Infinix](/brands/infinix/README.md)
 
 ### [Tecno](/brands/tecno/README.md)
@@ -100,6 +98,8 @@ The following manufacturers require an online account and/or a waiting period be
 ### [Nothing](/brands/nothing/README.md)
 
 ### [OnePlus](/brands/oneplus/README.md)
+
+### [Microsoft](/brands/microsoft/README.md)
 
 ### [Umidigi](/brands/umidigi/README.md)
 
