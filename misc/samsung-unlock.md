@@ -46,7 +46,7 @@ If it's variation 1 or 2, your bootloader is already unlocked. If you have varia
 
 > OEM Unlock is missing or greyed out.
 
-Your device is locked to a carrier that restricts unlocking, or you have have an American device.
+Your device is locked to a carrier that restricts unlocking, or you have an American device.
 
 > When I try to hold the button combination, my phone just boots normally.
 
