@@ -1,4 +1,4 @@
-# 🔓️ Generic Unlock Guide
+# 🔓️ Samsung Unlock Guide
 
 - Difficulty: **Easy 📗** (International models)
 - Difficulty: **Impossible ❌** (North American models)
@@ -6,12 +6,11 @@
 > [!CAUTION]
 > Read in full before you act!
 
-The standard unlocking process for Samsung is to enable OEM Unlocking, then go to the "Warning!" screen and hold down a button to unlock the bootloader
+The standard unlocking process for Samsung is to enable OEM Unlocking, then go to the "Warning!" screen and hold down a button to unlock the bootloader. On older devices (prior to 2019), all you have to do is enable OEM unlocking, and your bootloader is unlocked, no data wipe required on older devices.
 
 ## Requirements
 
-- A device to which you can connect your patient.
-- Ability to tweak terminal commands to fit your system.
+- A supported Samsung device
 - Ability to follow simple instructions.
 
 > [!NOTE]
@@ -39,3 +38,16 @@ Power off your phone. The next procedure will depend on what buttons you device 
 
 The next step will depend on what your device's warning screen looks like.
 ![image](https://github.com/user-attachments/assets/11dcf926-989f-420d-b8f2-29c63bb5dc58)
+
+If it's variation 1 or 2, your bootloader is already unlocked. If you have variation 3, hold down volume up until it asks if you'd like to unlock the bootloader, then press volume up again to wipe data and unlock bootloader. 
+
+
+## Troubleshooting
+
+> OEM Unlock is missing or greyed out.
+
+Your device is locked to a carrier that restricts unlocking, or you have have an American device.
+
+> When I try to hold the button combination, my phone just boots normally.
+
+Some Samsung devices have key combinations that are different from their normal ones, you'll have to Google your device model to see the exact combination for your device.
