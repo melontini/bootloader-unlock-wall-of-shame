@@ -1,6 +1,7 @@
 # Samsung
 
 - Verdict: **⛔ Avoid!**
+* [**🔓️ Unlock Guide (supported devices)**](/misc/samsung-unlock.md)
 
 If you have a North American device, well, uh... If you're lucky enough not to update for a while, you can check out [this paid service][Paid North American Unlock]. (At your own risk). Any phones prior to the S23 with an Exynos SoC can be unlocked if not carrier locked, regardless of region.
 
