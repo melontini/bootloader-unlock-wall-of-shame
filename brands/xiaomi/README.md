@@ -55,7 +55,9 @@ As such, for as long as the option is available, you'll skip this community BS a
 * [HyperSploit][hypersploit] is the newer option. This is a simple to use program with no external dependencies.
 * [Xiaomi-HyperOS-BootLoader-Bypass][xiaomi-hyperos-bootLoader-bypass] is the original proof of concept, but it's written in PHP and it's cumbersome to set up.
 
-These will both (for now) allow you to continue with the good old steps, where you wait for 7 days and can then unlock your phone successfully.
+These will both (for now) allow you to continue with the last of the good old steps, where you wait for 7 days and can then unlock your phone successfully.
+Do NOT make a new request by pressing the button in the Settings app as that will undo you bypass (hypersploit also mentions this to you). The tool will make the needed request itself.
+The only thing you need to do is use Xiaomi's official unlck tool after 7 days.
 
 ### Devices running MIUI 14 and below
 
