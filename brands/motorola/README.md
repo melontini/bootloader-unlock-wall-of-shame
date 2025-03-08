@@ -15,11 +15,23 @@ So how do you know if your device is unlockable? Well...
 * [And from this conversation][turistu's post] [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
 * There's also an unofficial way with CID to check if your device can be unlocked, check here: [xdaforums.com][CID check]
 
+## Unofficial ways
+For some Motorola devices, the firmware is not developed by the company's core team, but simply purchased solutions from various OEMs.
+
+These are exactly the devices that lack any instructions on how to unlock the bootloader or are completely locked, with no way to unlock. 
+
+Examples of such devices include the Moto G23, G13, G24, and G24 Power. 
+
+Fortunately, enthusiasts have managed to find unofficial ways to unlock these devices, despite the fact that Moto Agents stubbornly deny the existence of such methods:
+* Moto G13/G23 - Decompiled the bootloader, studied the algorithm for unlocking the bootloader and [developed a keygen](https://penangf.fuckyoumoto.xyz/docs/dev/bootloader), which is required to get the key to unlock the bootloader.
+* Moto G24/G24 Power - Thanks to a leaked engineering DA with full permissions to all partitions and using a custom ChouChou bootloader, [a way to unlock was found](https://fogorow.fuckyoumoto.xyz/docs/dev/bootloader)
+
 > Moto used confusion! It seems pretty effective...
 
 ***
 Additional info provided by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
 CID info provided by [FPSensor](https://github.com/FPSensor).<br/>
+Unofficial ways to unlock "Moto G13/G23/G24/G24 Power" bootloader provided by [DiabloSat](https://github.com/progzone122) & [Shomy](https://github.com/shomykohai)<br />
 Authored by [melontini](https://github.com/melontini).
 
 [Most Devices]:https://en-us.support.motorola.com/app/answers/detail/a_id/87215
