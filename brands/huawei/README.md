@@ -1,4 +1,4 @@
-# Huawei/Honor
+# Huawei
 
 > 🧹 This page is missing sources for history.
 
