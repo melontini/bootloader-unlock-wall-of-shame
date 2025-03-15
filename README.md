@@ -24,7 +24,7 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 The following manufacturers have made it completely impossible to unlock their devices without a workaround.
 
-### [Huawei/Honor](/brands/huawei/README.md)
+### [Huawei](/brands/huawei/README.md)
 
 ### [HMD Global/Nokia](/brands/nokia/README.md)
 
@@ -76,6 +76,8 @@ The following manufacturers allow unlocking under certain conditions, such as re
 ### [HTC](/brands/htc/README.md)
 
 ### [Motorola/Lenovo](/brands/motorola/README.md)
+
+### [Honor](/brands/honor/README.md)
 
 ## ⚠️ Proceed with caution!
 
