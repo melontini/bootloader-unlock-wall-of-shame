@@ -26,6 +26,11 @@ Fortunately, enthusiasts have managed to find unofficial ways to unlock these de
 * Moto G13/G23 - Decompiled the bootloader, studied the algorithm for unlocking the bootloader and [developed a keygen](https://penangf.fuckyoumoto.xyz/docs/dev/bootloader), which is required to get the key to unlock the bootloader.
 * Moto G24/G24 Power - Thanks to a leaked engineering DA with full permissions to all partitions and using a custom ChouChou bootloader, [a way to unlock was found](https://fogorow.fuckyoumoto.xyz/docs/dev/bootloader)
 
+### MtkClient + BROM
+Most MTK-based Motorola devices **released before 2022 are susceptible to [mtkclient](https://github.com/bkerler/mtkclient) bypass**, and full unlock may require [ChouChou](https://github.com/R0rt1z2/chouchou) / [Kaeru](https://github.com/R0rt1z2/kaeru) patches to disable automatic bootloader lock.
+
+However, on devices **released after 2022, this method is ineffective** as the preloader vulnerability has been patched and the BROM is blocked via eFuse, and attempting to crash the preloader results in a bootloop in the preloader.
+
 > Moto used confusion! It seems pretty effective...
 
 ***
