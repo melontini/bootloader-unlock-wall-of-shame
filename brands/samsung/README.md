@@ -13,7 +13,7 @@ In the past, there have been hardware issues caused by unlocking the boatloader,
 
 ## KnoxPatch
 
-Some of Knox-based features can be fixed with this LSPosed module [KnoxPatch] and its companion Magisk module [KnoxPatch#knoxpatch-enhancer].
+Some of Knox-based features can be fixed with this LSPosed module [KnoxPatch] and its companion Magisk/KernelSU module [KnoxPatch#knoxpatch-enhancer].
 
 ## VoLTE on Custom ROMs
 
