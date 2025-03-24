@@ -11,4 +11,4 @@ Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439
 
 [fpr-exploit]:https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/FRP-Method
 [paid-services]:https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/Unlock-Bootloader
-[meizu-m9-root-app]:[https://github.com/agent-007/m9.r00t]
+[meizu-m9-root-app]:https://github.com/agent-007/m9.r00t
