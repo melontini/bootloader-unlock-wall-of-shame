@@ -2,6 +2,9 @@
 
 - Verdict: **⛔ Avoid!**
 
+> [!NOTE]
+> This page only includes Motorola's phones and tablets, which are made by the Lenovo-owned Motorola Mobility LLC. Motorola "smart" radios such as the MOTOTRBO and APX are made by Motorola Solutions, Inc. which has not been related to Motorola Mobility LLC in any way since 2011. No bootloader unlock info is known about Motorola Solutions devices.
+
 To start off, to unlock your bootloader you have to submit a request on their website, which is pretty bad on its own (*wink* [Huawei](/brands/huawei/README.md)). 
 
 In addition, [this forum post][Old devices ineligible] says that once a device passes a certain age (the age not being specified), the device becomes ineligible.
