@@ -3,13 +3,13 @@
 - Verdict: **⛔ Avoid!**
 * [**🔓️ Unlock Guide (supported devices)**](/misc/samsung-unlock.md)
 
-If you have a North American device, well, uh... If you're lucky enough not to update for a while, you can check out [this paid service][Paid North American Unlock]. (At your own risk). Any phones prior to the S23 with an Exynos SoC can be unlocked if not carrier locked, regardless of region.
+If you have a North American device and were lucky enough not to update for a while, you can check out [this paid service][Paid North American Unlock] at your own risk. Any phones prior to the S23 with an Exynos SoC can be unlocked if not carrier locked, regardless of region.
 
 Snapdragon phones prior to the S7/Note7 (2016) can be unlocked regardless of region, as long as it's not locked to a carrier like AT&T or Verizon. The Canadian S7 can also be unlocked as it uses an Exynos SoC, despite Canada normally being a Snapdragon region.
 
-Be aware that unlocking a Samsung device will permanently trip Knox. As a result, many Knox-based features will be broken. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Can you be denied warranty? Probably...
+Be aware that unlocking a Samsung device will permanently trip Knox. As a result, many Knox-based features will be broken. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Furthermore, tripping Knox may serve as grounds for voiding your warranty.
 
-In the past, there have been hardware issues caused by unlocking the boatloader, but these have been fixed. [1][1] [2][2]
+In the past, there have been hardware issues caused by unlocking the boatloader, but these have been fixed. See [here][1] and [here][2].
 
 ## KnoxPatch
 
