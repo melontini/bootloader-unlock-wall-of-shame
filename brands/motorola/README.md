@@ -2,15 +2,15 @@
 
 - Verdict: **⛔ Avoid!**
 
-Motorola's [Bootloader Unlocking Legal Agreement](https://en-us.support.motorola.com/ci/fattach/get/741421/1385047216/redirect/1/filename/Boot_revised.pdf) includes a particularly concerning clause attempting to restrict the owner's rights after unlocking the bootloader.
+Motorola's [Bootloader Unlocking Legal Agreement][Bootloader Unlocking Legal Agreement] includes a particularly concerning clause attempting to restrict the owner's rights after unlocking the bootloader.
 
 The 4th clause of the agreement states:
 
 > User is unlocking the Device and/or altering the Device's software or operating system for his/her own personal use; User agrees not to transfer (i.e. sell, lease, or otherwise receive compensation from any third party for the right to use, possess, or operate such Device) such Device to any third party;
 
-This clause attempts to prohibit the user from selling, leasing, or otherwise transferring their own device after unlocking the bootloader. Such a restriction directly conflicts with established legal principles safeguarding ownership rights, namely the [First-Sale Doctrine](https://en.wikipedia.org/wiki/First-sale_doctrine) and the [Exhaustion Doctrine](https://en.wikipedia.org/wiki/Exhaustion_doctrine_under_U.S._law), which grant the owner the right to resell or dispose of property they have lawfully acquired. The legal validity of this clause is highly questionable and likely unenforceable. However, its inclusion in the agreement is a point of concern regarding post-sale control of hardware, and users should be aware of this term.
+This clause attempts to prohibit the user from selling, leasing, or otherwise transferring their own device after unlocking the bootloader. Such a restriction directly conflicts with established legal principles safeguarding ownership rights, namely the [First-Sale Doctrine][First-Sale Doctrine] and the [Exhaustion Doctrine][Exhaustion Doctrine], which grant the owner the right to resell or dispose of property they have lawfully acquired. The legal validity of this clause is highly questionable and likely unenforceable. However, its inclusion in the agreement is a point of concern regarding post-sale control of hardware, and users should be aware of this term.
 
-To unlock your bootloader, you have to submit a request on [this](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-b) website, which is pretty bad on its own (*wink* [Huawei](/brands/huawei/README.md)). 
+To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](/brands/huawei/README.md)). 
 
 In addition, [this forum post][Old devices ineligible] says that once a device passes a certain age (the age not being specified), the device becomes ineligible.
 
@@ -47,6 +47,10 @@ CID info provided by [FPSensor](https://github.com/FPSensor).<br/>
 Unofficial ways to unlock "Moto G13/G23/G24/G24 Power" bootloader provided by [DiabloSat](https://github.com/progzone122) & [Shomy](https://github.com/shomykohai)<br />
 Authored by [melontini](https://github.com/melontini).
 
+[Bootloader Unlocking Legal Agreement]:https://en-us.support.motorola.com/ci/fattach/get/741421/1385047216/redirect/1/filename/Boot_revised.pdf
+[First-Sale Doctrine]:https://en.wikipedia.org/wiki/First-sale_doctrine
+[Exhaustion Doctrine]:https://en.wikipedia.org/wiki/Exhaustion_doctrine_under_U.S._law
+[Unlock Code Website]:https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-b
 [Most Devices]:https://en-us.support.motorola.com/app/answers/detail/a_id/87215
 [Some Devices]:https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a
 [turistu's post]:https://xdaforums.com/t/how-to-guide-unlocking-using-deeptest-gdpr.4585829/post-88734665
