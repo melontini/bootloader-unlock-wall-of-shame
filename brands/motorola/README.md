@@ -2,6 +2,9 @@
 
 - Verdict: **⛔ Avoid!**
 
+> [!NOTE]
+> This page does NOT cover the MOTOTRBO or APX, as these are made by Motorola Solutions, which is not related in any way to Motorola Mobility. Nothing is known about unlocking on Solutions devices.
+
 To start off, to unlock your bootloader you have to submit a request on their website, which is pretty bad on its own (*wink* [Huawei](/brands/huawei/README.md)). 
 
 In addition, [this forum post][Old devices ineligible] says that once a device passes a certain age (the age not being specified), the device becomes ineligible.
