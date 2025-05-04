@@ -3,9 +3,9 @@
 - Verdict: **⛔ Avoid!**
 
 > [!NOTE]
-> This page does NOT cover the MOTOTRBO or APX, as these are made by Motorola Solutions, which is not related in any way to Motorola Mobility. Nothing is known about unlocking on Solutions devices.
+> This page does not cover MOTOTRBO or APX, which are manufactured by Motorola Solutions—a company completely separate from Motorola Mobility. Currently, no information is available on unlocking Solutions devices.
 
-To start off, to unlock your bootloader you have to submit a request on their website, which is pretty bad on its own (*wink* [Huawei](/brands/huawei/README.md)). 
+To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](/brands/huawei/README.md)). 
 
 In addition, [this forum post][Old devices ineligible] says that once a device passes a certain age (the age not being specified), the device becomes ineligible.
 
@@ -18,7 +18,7 @@ So how do you know if your device is unlockable? Well...
 * [And from this conversation][turistu's post] [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
 * There's also an unofficial way with CID to check if your device can be unlocked, check here: [xdaforums.com][CID check]
 
-## Unofficial ways
+## Unofficial Ways
 For some Motorola devices, the firmware is not developed by the company's core team, but simply purchased solutions from various OEMs.
 
 These are exactly the devices that lack any instructions on how to unlock the bootloader or are completely locked, with no way to unlock. 
@@ -36,12 +36,27 @@ However, on devices **released after 2022, this method is ineffective** as the p
 
 > Moto used confusion! It seems pretty effective...
 
+### Legal Agreement Controversy
+
+Motorola's [Bootloader Unlocking Legal Agreement][Bootloader Unlocking Legal Agreement] includes a particularly concerning clause attempting to restrict the owner's rights after unlocking the bootloader.
+
+The 4th clause of the agreement states:
+
+> User is unlocking the Device and/or altering the Device's software or operating system for his/her own personal use; User agrees not to transfer (i.e. sell, lease, or otherwise receive compensation from any third party for the right to use, possess, or operate such Device) such Device to any third party;
+
+This clause attempts to prohibit the user from selling, leasing, or otherwise transferring their own device after unlocking the bootloader. Such a restriction directly conflicts with established legal principles safeguarding ownership rights, namely the [First-Sale Doctrine][First-Sale Doctrine] and the [Exhaustion Doctrine][Exhaustion Doctrine], which grant the owner the right to resell or dispose of property they have lawfully acquired. While the legal validity of this clause is highly questionable and likely unenforceable, its inclusion in the agreement is still a point of concern.
+
 ***
 Additional info provided by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
 CID info provided by [FPSensor](https://github.com/FPSensor).<br/>
-Unofficial ways to unlock "Moto G13/G23/G24/G24 Power" bootloader provided by [DiabloSat](https://github.com/progzone122) & [Shomy](https://github.com/shomykohai)<br />
+Unofficial ways to unlock "Moto G13/G23/G24/G24 Power" bootloader provided by [DiabloSat](https://github.com/progzone122) & [Shomy](https://github.com/shomykohai).<br/>
+Legal agreement info provided by [FaridZelli](https://github.com/FaridZelli).<br/>
 Authored by [melontini](https://github.com/melontini).
 
+[Bootloader Unlocking Legal Agreement]:https://en-us.support.motorola.com/ci/fattach/get/741421/1385047216/redirect/1/filename/Boot_revised.pdf
+[First-Sale Doctrine]:https://en.wikipedia.org/wiki/First-sale_doctrine
+[Exhaustion Doctrine]:https://en.wikipedia.org/wiki/Exhaustion_doctrine_under_U.S._law
+[Unlock Code Website]:https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-b
 [Most Devices]:https://en-us.support.motorola.com/app/answers/detail/a_id/87215
 [Some Devices]:https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a
 [turistu's post]:https://xdaforums.com/t/how-to-guide-unlocking-using-deeptest-gdpr.4585829/post-88734665
