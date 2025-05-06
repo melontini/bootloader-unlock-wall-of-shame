@@ -11,6 +11,9 @@ Be aware that unlocking a Samsung device will permanently trip Knox. As a result
 
 In the past, there have been hardware issues caused by unlocking the boatloader, but these have been fixed. See [here][1] and [here][2].
 
+## SoC level exploits
+One of the first things Samsung bootloaders do on phone bootup is check if the bootloader is unlocked, and if it is, and a bootloader unlock has not been authorized, the bootloader will automatically relock. This means SoC level exploits such as mtkclient or EDLUnlock will not work on Samsung devices, unless you reverse engineer, modify and re-flash Samsung's bootloader to stop the bootloader from re-locking. 
+
 ## KnoxPatch
 
 Some of Knox-based features can be fixed with this LSPosed module [KnoxPatch] and its companion Magisk/KernelSU module [KnoxPatch#knoxpatch-enhancer].
