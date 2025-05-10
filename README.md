@@ -1,37 +1,37 @@
 ![Banner. A lock and a key on fire on the left and the text 'Bootloader Unlock: Wall of Shame' on the right.](/misc/banner/banner.jpg)
 
-Keeping track of companies that "care about your data 🥺"
-
-[Switch to Russian translation](ru/README.md)
+Keeping track of companies that "c-care about your data 🥺 (spoiler alert they're
+absolute nightmare)"
 
 ![Terrible](https://raw.githubusercontent.com/melontini/mini-badges/v1/personal/terrible.svg)
 [![License CC BY-NC-SA](https://raw.githubusercontent.com/melontini/mini-badges/v1/licenses/cc/cc-by-nc-sa-4.0.svg)](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/LICENSE)
 
-<details><summary>mirrors</summary>
+<details><summary>Contact Me</summary>
 <p>
 
-- GitHub: https://github.com/melontini/bootloader-unlock-wall-of-shame
-- tangled: https://tangled.sh/@me.melontini.me/bootloader-unlock-wall-of-shame
+- Matrix:
+@maydoxx1:matrix.org
+- Discord:
+maydo.cpp
 
 </p>
 </details> 
 
 ## Why?
-Over the past few years, a suspicious number of companies have started to "take care of your data", aka block/strictly limit your ability to unlock the bootloader on your *own* devices.
+Over the past few years, a suspicious number of companies have started to "take care of your data", aka ENTIRELY limit your ability to unlock the bootloader on your **OWN** device.
 
 While this may not affect you directly, it sets a bad precedent. You never know what will get the axe next: Shizuku? ADB? Sideloading? I thought it might be a good idea to keep track of bad companies and workarounds.
-
-If you know of specific details/unlocking methods, please PR them or drop them in the [discussions](https://github.com/melontini/bootloader-unlock-wall-of-shame/discussions)
 
 # The list:
 
 > [!CAUTION]
-> Reminder that no matter how nice a company is, <br/>
-> you should not trust them unless their unlock process is 100% offline!
+> Reminder: no matter what company is best at <br/>
+> You should NOT trust them unless their unlock process is 100% offline!
 
 ## 🍅 Just terrible!
 
 The following manufacturers have made it completely impossible to unlock their devices without a workaround.
+(AVOID NO MATTER WHAT THEY'RE ABSOLUTE TOTAL GARBAGE!)
 
 ### [Huawei](/brands/huawei/README.md)
 
@@ -61,6 +61,8 @@ The following manufacturers have made it completely impossible to unlock their d
 
 ### [Coolpad](/brands/coolpad/README.md) 
 
+### [Xiaomi/Redmi/POCO](/brands/xiaomi/README.md) (Especially Hyper OS it's an absolute nightmare and worse ever and yes MIUI 13 is the best)
+
 ### Carrier Locked Devices
 
 > [!NOTE]
@@ -75,10 +77,6 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 The following manufacturers allow unlocking under certain conditions, such as region, model, SOC, etc., or require a sacrifice to unlock.
 
 ### [OPPO/Realme](/brands/oppo/README.md)
-
-### [Xiaomi/Redmi/POCO](/brands/xiaomi/README.md)
-
-### [Samsung](/brands/samsung/README.md)
 
 ### [LG](/brands/lg/README.md)
 
@@ -124,6 +122,7 @@ The following manufacturers require an online account and/or a waiting period be
 
 ### [Oukitel](/brands/oukitel/README.md)
 
+### [Samsung](/brands/samsung/README.md) (non carrier locked or global or international whatever you call it)
 # Misc info
 
 ## Custom AVB Keys
@@ -161,4 +160,3 @@ Xiaomi Mi A1 and maybe all MSM89** manufactured before 2018:<br/>
 [EDLUnlock](https://github.com/Giovix92/EDLUnlock)
 
 ***
-
