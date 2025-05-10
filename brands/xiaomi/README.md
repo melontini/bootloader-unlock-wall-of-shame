@@ -1,6 +1,6 @@
 # Xiaomi/Redmi/POCO
 
-- Verdict: **⛔ AVOID NO MATTER WHAT!!**
+- Verdict: 🍅 Terrible!
 
 In the past, Xiaomi allowed most of its devices to be unlocked after a period of 7+ days (depending on how new the device is).
 
