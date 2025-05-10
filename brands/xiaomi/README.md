@@ -1,12 +1,12 @@
 # Xiaomi/Redmi/POCO
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **⛔ AVOID NO MATTER WHAT!!**
 
 In the past, Xiaomi allowed most of its devices to be unlocked after a period of 7+ days (depending on how new the device is).
 
-With the launch of Xiaomi's new Android fork, HyperOS, they have introduced a number of changes to the unlock process, with new device limits and Mi Account requirements.
+With the launch of Xiaomi's new Android fork, Hyper OS, they have introduced a number of changes to the unlock process, with new device limits and Mi Account requirements.
 
-Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootloader]
+Look here if you want to learn about how Xiaomi's bootloader works: [Xiaomi-bootloader]
 
 ### China
 
@@ -17,7 +17,7 @@ Currently it is near impossible to unlock Xiaomi phones of the china region, esp
 
 - [This source][bootloader-unlock-block-mainland-china] claims that the final day one could use the provided form to request an unlock was September 9, 2024. It also has an update, it seems that Xiaomi is suggesting inside the Community App that they will bring back the service in 2025, but it wouldn't be the first time a company lied about this.
 - In various forum posts [like this one][bootloader-unlock-block-mainland-china-alt] it is mentioned that a china region phone can only be unlocked if one is situated in China and has a level 5 Xiaomi account, or pays for the service in the hopes that a technician can unlock it.
-- As of february 6th there are [other requirements], like 180 days without bans or warnings on the account and no recent sensitive changes to the account, also the unlock should be done on the same device and with no ip changes. Also seems that users will have to unlock when they can and in time or won't have the possibility to unlock anymore.
+- As of May 10 there are [other requirements], like 180 days without bans or warnings on the account and no recent sensitive changes to the account, also the unlock should be done on the same device and with no ip changes. Also seems that users will have to unlock when they can and in time or won't have the possibility to unlock anymore.
 
 ### Global
 
@@ -28,7 +28,7 @@ Currently it is near impossible to unlock Xiaomi phones of the china region, esp
 
 ### Devices running HyperOS (even if they were upgraded to it from MIUI)
 
-First of all we should clear up something: HyperOS is essentially a new marketing term for what would've been MIUI 15. So it's still a vendor skin/theming engine on top of Linux-based Android, it's just called HyperOS instead of MIUI as it used to be called.
+First of all we should clear up something: HyperOS is essentially a new marketing term for what would've been MIUI 15. So it's still a vendor skin/theming engine on top of Linux-based Android, it's just called Hyper OS instead of MIUI as it used to be called.
 
 Secondly: One might remember how, in order to unlock the device back in the good old MIUI days, you would:
 
@@ -46,25 +46,25 @@ That is, you can only make the request for unlocking the device inside Developer
 If [xiaomiui.net][global-requirements] is to be believed, the requirements for the Community App request are as follows:
 * Your Mi Account has been active for more than 30 days.
 * Xiaomi Community App version 5.3.31 or above.
-* Xiaomi has [updated their policies][updated-policies], further restricting bootloader unlocking. As of January 1st, 2025, they only let you unlock 1 device per year. *What a good way to start the year, right?*
+* Xiaomi has [updated their policies][updated-policies], further restricting bootloader unlocking. As of May 10, 2025, they only let you unlock 1 device per year. *What a good way to start the year, right?*
 
 And it gets even better! As people have found it the hard way [in the xda forums][community-app-cap], there is a cap on the amount of people who can request per day inside the Community App, and it gets filled pretty much instantly, so your only chance to make a successful request there is if you get lucky spamming the request at midnight, Beijing time (or whatever that is in your timezone).
 
 As such, for as long as the option is available, you'll skip this community BS and use the bypass methods:
 
-* [HyperSploit][hypersploit] is the newer option. This is a simple to use program with no external dependencies.
-* [Xiaomi-HyperOS-BootLoader-Bypass][xiaomi-hyperos-bootLoader-bypass] is the original proof of concept, but it's written in PHP and it's cumbersome to set up.
+* [HyperSploit][hypersploit] is the newer option. This is a simple to use program with no external dependencies. (Hyper OS 1 ONLY)
+* [Xiaomi-HyperOS-BootLoader-Bypass][xiaomi-hyperos-bootLoader-bypass] is the original proof of concept, but it's written in PHP and it's cumbersome to set up. (Same as hypersploit)
 
 These will both (for now) allow you to continue with the last of the good old steps, where you wait for 7 days and can then unlock your phone successfully.
 Do NOT make a new request by pressing the button in the Settings app as that will undo you bypass (hypersploit also mentions this to you). The tool will make the needed request itself.
 The only thing you need to do is use Xiaomi's official unlck tool after 7 days.
 
-### Devices running MIUI 14 and below
+### Devices running MIUI 13 and below
 
 You should be able to use the "normal" unlock process by itself, wihtout the community app BS
 (the one descibed in the "good old MIUI days" section above).
 
-As the "1 device per year" policy is shown in the Xiaomi Community app when applying for unlocking HyperOS devices, this shouldn't affect devices running MIUI, however it's still unknown whether or not they are affected too.
+As the "1 device per year" policy is shown in the Xiaomi Community app when applying for unlocking Hyper OS devices, this shouldn't affect devices running MIUI, however it's still unknown whether or not they are affected too.
 
 ## Android One
 
@@ -73,7 +73,7 @@ As the "1 device per year" policy is shown in the Xiaomi Community app when appl
 Devices shipping with Android One do NOT have any unlock requirements. They follow the standard Android unlock process.
 
 ***
-Updated info provided by [n1ses](https://github.com/n1ses).<br/>
+Updated info provided by [Maydo](https://github.com/maydoxx1).<br/>
 Authored by [melontini](https://github.com/melontini).
 
 [hypersploit]:https://github.com/TheAirBlow/HyperSploit
