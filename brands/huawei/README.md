@@ -16,6 +16,6 @@ Through HCU-client (Not everything is supported + incredible prices [hcu-client.
 ***
 Authored by [melontini](https://github.com/melontini).
 
-[PotatoNV]:/README.md#kirin
+[PotatoNV]:../../README.md#kirin
 [hcu-client.com]:https://hcu-client.com/buy/
 [dc-unlocker.com]:https://www.dc-unlocker.com/buy
