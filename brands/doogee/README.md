@@ -2,7 +2,7 @@
 
 - Verdict: **🍅 Terrible!**
 
-While some people have reported success via the [standard unlock procedure](/misc/generic-unlock.md), most Doogee devices [can't be unlocked][Doogee lock] despite having the OEM Unlock option in the settings.
+While some people have reported success via the [standard unlock procedure](../../misc/generic-unlock.md), most Doogee devices [can't be unlocked][Doogee lock] despite having the OEM Unlock option in the settings.
 ***
 Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
 

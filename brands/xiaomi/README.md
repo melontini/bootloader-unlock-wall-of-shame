@@ -68,7 +68,7 @@ As the "1 device per year" policy is shown in the Xiaomi Community app when appl
 
 ## Android One
 
-* [**🔓️ Unlock Guide**](/misc/generic-unlock.md)
+* [**🔓️ Unlock Guide**](../../misc/generic-unlock.md)
 
 Devices shipping with Android One do NOT have any unlock requirements. They follow the standard Android unlock process.
 

@@ -1,4 +1,4 @@
-![Banner. A lock and a key on fire on the left and the text 'Bootloader Unlock: Wall of Shame' on the right.](/misc/banner/banner.jpg)
+![Banner. A lock and a key on fire on the left and the text 'Bootloader Unlock: Wall of Shame' on the right.](./misc/banner/banner.jpg)
 
 Keeping track of companies that "care about your data 🥺"
 
@@ -33,33 +33,33 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 The following manufacturers have made it completely impossible to unlock their devices without a workaround.
 
-### [Huawei](/brands/huawei/README.md)
+### [Huawei](./brands/huawei/README.md)
 
-### [HMD Global/Nokia](/brands/nokia/README.md)
+### [HMD Global/Nokia](./brands/nokia/README.md)
 
-### [Vivo/IQOO](/brands/vivo/README.md)
+### [Vivo/IQOO](./brands/vivo/README.md)
 
-### [ZTE](/brands/zte/README.md)
+### [ZTE](./brands/zte/README.md)
 
-### [Meizu](/brands/meizu/README.md)
+### [Meizu](./brands/meizu/README.md)
 
-### [Asus](/brands/asus/README.md)
+### [Asus](./brands/asus/README.md)
 
-### [Alcatel](/brands/alcatel/README.md)
+### [Alcatel](./brands/alcatel/README.md)
 
-### [Apple](/brands/apple/README.md)
+### [Apple](./brands/apple/README.md)
 
-### [Energizer](/brands/energizer/README.md)
+### [Energizer](./brands/energizer/README.md)
 
-### [Cat](/brands/cat/README.md)
+### [Cat](./brands/cat/README.md)
 
-### [Sharp](/brands/sharp/README.md)
+### [Sharp](./brands/sharp/README.md)
 
-### [Doogee](/brands/doogee/README.md)
+### [Doogee](./brands/doogee/README.md)
 
-### [TCL](/brands/tcl/README.md) 
+### [TCL](./brands/tcl/README.md) 
 
-### [Coolpad](/brands/coolpad/README.md) 
+### [Coolpad](./brands/coolpad/README.md) 
 
 ### Carrier Locked Devices
 
@@ -68,61 +68,61 @@ The following manufacturers have made it completely impossible to unlock their d
 
 Carrier locked devices are the ones you get after making a commitment with a carrier of your choice. This is quite common in North America and (supposedly) allows you to save some money on your device.
 
-As a rule, almost all carrier locked devices do not allow the bootloader to be unlocked. This usually makes sense, as it would allow you to completely bypass the contract. The problem is that many devices still do not allow you to unlock the bootloader even after the carrier lock has been lifted. For more details, see the [carriers page](/carriers/README.md).
+As a rule, almost all carrier locked devices do not allow the bootloader to be unlocked. This usually makes sense, as it would allow you to completely bypass the contract. The problem is that many devices still do not allow you to unlock the bootloader even after the carrier lock has been lifted. For more details, see the [carriers page](./carriers/README.md).
 
 ## ⛔ Avoid at all costs!
 
 The following manufacturers allow unlocking under certain conditions, such as region, model, SOC, etc., or require a sacrifice to unlock.
 
-### [OPPO/Realme](/brands/oppo/README.md)
+### [OPPO/Realme](./brands/oppo/README.md)
 
-### [Xiaomi/Redmi/POCO](/brands/xiaomi/README.md)
+### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 
-### [Samsung](/brands/samsung/README.md)
+### [Samsung](./brands/samsung/README.md)
 
-### [LG](/brands/lg/README.md)
+### [LG](./brands/lg/README.md)
 
-### [HTC](/brands/htc/README.md)
+### [HTC](./brands/htc/README.md)
 
-### [Motorola/Lenovo](/brands/motorola/README.md)
+### [Motorola/Lenovo](./brands/motorola/README.md)
 
-### [Honor](/brands/honor/README.md)
+### [Honor](./brands/honor/README.md)
 
 ## ⚠️ Proceed with caution!
 
 The following manufacturers require an online account and/or a waiting period before unlocking.
 
-### [Google](/brands/google/README.md)
+### [Google](./brands/google/README.md)
 
-### [Fairphone](/brands/fairphone/README.md)
+### [Fairphone](./brands/fairphone/README.md)
 
-### [Sony](/brands/sony/README.md)
+### [Sony](./brands/sony/README.md)
 
-### [Infinix](/brands/infinix/README.md)
+### [Infinix](./brands/infinix/README.md)
 
-### [Tecno](/brands/tecno/README.md)
+### [Tecno](./brands/tecno/README.md)
 
-### [itel](/brands/itel/README.md)
+### [itel](./brands/itel/README.md)
 
 ## ℹ️ "Safe for now" :trollface: 
 
-### [Nothing](/brands/nothing/README.md)
+### [Nothing](./brands/nothing/README.md)
 
-### [OnePlus](/brands/oneplus/README.md)
+### [OnePlus](./brands/oneplus/README.md)
 
-### [Microsoft](/brands/microsoft/README.md)
+### [Microsoft](./brands/microsoft/README.md)
 
-### [Umidigi](/brands/umidigi/README.md)
+### [Umidigi](./brands/umidigi/README.md)
 
-### [Micromax](/brands/micromax/README.md)
+### [Micromax](./brands/micromax/README.md)
 
-### [Ulefone](/brands/ulefone/README.md)
+### [Ulefone](./brands/ulefone/README.md)
 
-### [Blackview](/brands/blackview/README.md)
+### [Blackview](./brands/blackview/README.md)
 
-### [Cubot](/brands/cubot/README.md)
+### [Cubot](./brands/cubot/README.md)
 
-### [Oukitel](/brands/oukitel/README.md)
+### [Oukitel](./brands/oukitel/README.md)
 
 # Misc info
 

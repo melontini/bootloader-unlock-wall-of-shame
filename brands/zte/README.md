@@ -10,7 +10,7 @@ Old devices (pre Android 8):<br/>
 Devices Until Android 11 with engineering firmware:<br/>
 [xdaforums.com][until-android-11-few-models]
 
-There is also a chance that your device is vulnerable to one of the MTK or Unisoc [exploits](/README.md/#universal-soc-based-methods).
+There is also a chance that your device is vulnerable to one of the MTK or Unisoc [exploits](../../README.md#universal-soc-based-methods).
 
 Side note, on the A11 link there is a collection of apps to grant a system shell, but they would probably only work on old models.
 
