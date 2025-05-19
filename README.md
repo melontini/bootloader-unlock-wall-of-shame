@@ -125,6 +125,7 @@ The following manufacturers require an online account and/or a waiting period be
 
 ### [Oukitel](./brands/oukitel/README.md)
 
+### [Volla](./brands/volla/README.md)
 # Misc info
 
 ## Custom AVB Keys
