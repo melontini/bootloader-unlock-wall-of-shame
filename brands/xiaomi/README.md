@@ -34,7 +34,7 @@ Secondly: One might remember how, in order to unlock the device back in the good
 
 * Ensure a Xiaomi account was logged in on the device in the Settings app
 * Go to Developer Options > Mi Unlock Status and press the button to request your device to be unlocked in the Xiaomi servers
-* Then after 7 days you can use the official Mi Unlock tool which will check those servers to see if a request has been made for that specific device and sllow you to unlock it.
+* Then after 7 days you can use the official Mi Unlock tool which will check those servers to see if a request has been made for that specific device and allow you to unlock it.
 
 Not straightforward or fast, but doable.
 WELL:
@@ -68,7 +68,7 @@ As the "1 device per year" policy is shown in the Xiaomi Community app when appl
 
 ## Android One
 
-* [**🔓️ Unlock Guide**](/misc/generic-unlock.md)
+* [**🔓️ Unlock Guide**](../../misc/generic-unlock.md)
 
 Devices shipping with Android One do NOT have any unlock requirements. They follow the standard Android unlock process.
 

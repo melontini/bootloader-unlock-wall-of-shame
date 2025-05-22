@@ -11,7 +11,7 @@ On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed
 * Vivo x70 Pro+: [xdaforums.com][Vivo x70 Pro+]
 * Vivo Y31 2021: [xdaforums.com][Vivo x70 Pro+]
 
-There is also a chance that your device is vulnerable to one of the MTK or Unisoc [exploits](/README.md/#universal-soc-based-methods).
+There is also a chance that your device is vulnerable to one of the MTK or Unisoc [exploits](../../README.md#universal-soc-based-methods).
 
 ## Magisk
 Vivo devices have kernel-level patches to block the `su` binary, so to use Magisk you should flash this modified version with `suu`.

@@ -9,5 +9,5 @@ Certain Kirin-based phones can use [PotatoNV]
 ***
 Authored by [Ivy/Lost-Entrepreneur439](https://github.com/lost-entrepreneur439).
 
-[PotatoNV]:/README.md#kirin
+[PotatoNV]:../../README.md#kirin
 [fake unlock]:https://xdaforums.com/t/unlock-honor-50-bootloader.4495577/

@@ -23,7 +23,7 @@ If the company allowed unlocking in the past, or had different unlocking methods
 
 Brand Pages on the Wall may provide their own unlock instructions, but the instructions should be separated into a separate file and fully describe the process. A troubleshooting section is encouraged.
 
-The generic unlock guide to base your own on can be found here: [generic-unlock.md](/misc/generic-unlock.md).
+The generic unlock guide to base your own on can be found here: [generic-unlock.md](./../misc/generic-unlock.md).
 
 ### Additional Info (Not related to unlocking)
 The main focus of this list is bootloader unlocking, but other related topics may also be mentioned. It's best to mention them in one sentence and link to a source, rather than explaining them at length.
@@ -32,7 +32,7 @@ Related topics include, but are not limited to: rooting, custom operating system
 
 ### Links
 
-Links to external resources should be formatted as Markdown reference links. Links to other pages on the Wall can be formatted using the regular `[Example](/brands/...)` syntax.
+Links to external resources should be formatted as Markdown reference links. Links to other pages on the Wall can be formatted using the regular `[Example](./brands/...)` syntax.
 
 ```
 An [Example Link][example-link] in the middle.

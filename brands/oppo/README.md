@@ -14,7 +14,7 @@ To unlock, you need to submit a request through the deep testing app that they p
 
 ### Unofficial Unlock
 
-- [💡 Universal SOC-based methods](/README.md#universal-soc-based-methods)
+- [💡 Universal SOC-based methods](../../README.md#universal-soc-based-methods)
 
 #### Region Switching
 

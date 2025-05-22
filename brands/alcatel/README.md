@@ -9,4 +9,4 @@ There's nothing to say about Alcatel really. They have fastboot removed from mos
 ***
 Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
 
-[mtkclient]:/README.md#mediatek
+[mtkclient]:../../README.md#mediatek

@@ -16,7 +16,7 @@ Some carrier locked and US devices can never be unlocked. On Sony devices ([but 
 3. Under Rooting Status look for "Bootloader unlock allowed"
 4. If "Yes", then the device is unlockable.
 
-Sony supports [Custom AVB](/README.md#custom-avb-keys) Since 2020.
+Sony supports [Custom AVB](../../README.md#custom-avb-keys) Since 2020.
 
 ***
 

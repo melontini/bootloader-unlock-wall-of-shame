@@ -8,7 +8,7 @@ It is not possible to officially unlock HMD Nokia phones.
 
 ### Unofficial Unlock
 
-- [💡 Universal SOC-based methods](/README.md#universal-soc-based-methods)
+- [💡 Universal SOC-based methods](../../README.md#universal-soc-based-methods)
 
 #### Hikari Calyx's Service
 

@@ -1,0 +1,23 @@
+name: sync to codeberg
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: push to codeberg
+        run: |
+          git remote add codeberg "https://${{ secrets.CODEBERG_PAT }}@codeberg.org/melontini/bootloader-unlock-wall-of-shame.git"
+          git push --mirror codeberg
+        env:
+          GIT_TERMINAL_PROMPT: 0
+
