@@ -93,7 +93,7 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 The following manufacturers require an online account and/or a waiting period before unlocking.
 
-### [Google](./brands/google/README.md)
+### [Google/Nexus](./brands/google/README.md)
 
 ### [Fairphone](./brands/fairphone/README.md)
 
