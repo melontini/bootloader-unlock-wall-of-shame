@@ -5,6 +5,19 @@
 > [!NOTE]
 > This page does not cover MOTOTRBO or APX, which are manufactured by Motorola Solutions—a company completely separate from Motorola Mobility. Currently, no information is available on unlocking Solutions devices.
 
+## Kernel sources
+Motorola is one of the manufacturers that provide kernel source code for their devices via official repositories on GitHub.
+
+It is recommended to request and download the source code as soon as possible after the device is released to the market, as Motorola may ignore requests for older models over time. 
+
+Typically, source code becomes available about a month after the issue is opened in the appropriate repository.
+
+- [MTK devices](https://github.com/MotorolaMobilityLLC/kernel-mtk)
+- [Snapdragon devices](https://github.com/MotorolaMobilityLLC/kernel-msm)
+- [Unisoc devices](https://github.com/MotorolaMobilityLLC/kernel-sprd)
+- [Exynos devices](https://github.com/MotorolaMobilityLLC/kernel-slsi)
+
+## Bootloader
 To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). 
 
 In addition, [this forum post][Old devices ineligible] says that once a device passes a certain age (the age not being specified), the device becomes ineligible.
@@ -18,7 +31,7 @@ So how do you know if your device is unlockable? Well...
 * [And from this conversation][turistu's post] [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
 * There's also an unofficial way with CID to check if your device can be unlocked, check here: [xdaforums.com][CID check]
 
-## Unofficial Ways
+### Unofficial Ways
 For some Motorola devices, the firmware is not developed by the company's core team, but simply purchased solutions from various OEMs.
 
 These are exactly the devices that lack any instructions on how to unlock the bootloader or are completely locked, with no way to unlock. 
@@ -29,7 +42,7 @@ Fortunately, enthusiasts have managed to find unofficial ways to unlock these de
 * Moto G13/G23 - Decompiled the bootloader, studied the algorithm for unlocking the bootloader and [developed a keygen](https://penangf.fuckyoumoto.xyz/docs/dev/bootloader), which is required to get the key to unlock the bootloader.
 * Moto G24/G24 Power - Thanks to a leaked engineering DA with full permissions to all partitions and using a custom ChouChou bootloader, [a way to unlock was found](https://fogorow.fuckyoumoto.xyz/docs/dev/bootloader)
 
-### MtkClient + BROM
+#### MtkClient + BROM
 Most MTK-based Motorola devices **released before 2022 are susceptible to [mtkclient](https://github.com/bkerler/mtkclient) bypass**, and full unlock may require [ChouChou](https://github.com/R0rt1z2/chouchou) / [Kaeru](https://github.com/R0rt1z2/kaeru) patches to disable automatic bootloader lock.
 
 However, on devices **released after 2022, this method is ineffective** as the preloader vulnerability has been patched and the BROM is blocked via eFuse, and attempting to crash the preloader results in a bootloop in the preloader.
