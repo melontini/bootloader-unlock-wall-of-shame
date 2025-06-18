@@ -1,9 +1,10 @@
 # Samsung
 
 - Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!** (Unisoc/Spreadtrum)
 * [**🔓️ Unlock Guide (supported devices)**](../../misc/samsung-unlock.md)
 
-If you have a North American device and were lucky enough not to update for a while, you can check out [this paid service][Paid North American Unlock] at your own risk. Any phones prior to the S23 with an Exynos SoC can be unlocked if not carrier locked, regardless of region.
+If you have a North American device and were lucky enough not to update for a while, you can check out [this paid service][Paid North American Unlock] at your own risk. Any phones prior to the S23 with an Exynos SoC can be unlocked if not carrier locked, regardless of region. Unisoc and Spreadtrum devices will never be unlockable, this is *not* Samsung's fault, Unisoc/Spreadtrum does not allow unlocking.
 
 Snapdragon phones prior to the S7/Note7 (2016) can be unlocked regardless of region, as long as it's not locked to a carrier like AT&T or Verizon. The Canadian S7 can also be unlocked as it uses an Exynos SoC, despite Canada normally being a Snapdragon region.
 
