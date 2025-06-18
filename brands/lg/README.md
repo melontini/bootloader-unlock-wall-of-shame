@@ -1,8 +1,9 @@
 # LG
 
 - Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!** (Unisoc)
 
-In the past, LG had a developer portal which could be used to unlock phones on their website, however it only supported international models of their phones, but in December 2021, LG [announced][announcement-archive] the developer portal would be shutting down due to LG ending production of all phones. 
+In the past, LG had a developer portal which could be used to unlock phones on their website, however it only supported international models of their phones, but in December 2021, LG [announced][announcement-archive] the developer portal would be shutting down due to LG ending production of all phones. Unisoc devices will never be unlockable, this is *not* LG's fault, Unisoc does not allow unlocking.
 
 On some models (such as the Stylo 3 Plus and G6), the bootloader can still be unlocked via `fastboot oem unlock` **only if** [the phone is a T-Mobile model][t-mobile-unlock].
 

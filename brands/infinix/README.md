@@ -1,8 +1,9 @@
 # Infinix
 
-- Verdict: **⚠️ Proceed with caution!**
+- Verdict: **⚠️ Proceed with caution!** (MediaTek)
+- Verdict: **🍅 Terrible!** (Unisoc/Spreadtrum)
 
-Infinix does allow you to unlock your bootloader, but similarly to Motorola, [you must wait two weeks][Infinix unlock] before you can unlock the bootloader. For models with a Unisoc SoC, you will have to follow the [Hovatek guide][Unisoc Unlock] to unlock your bootloader.
+Infinix does allow you to unlock your bootloader, but similarly to Motorola, [you must wait two weeks][Infinix unlock] before you can unlock the bootloader. For models with a Unisoc SoC, you will have to follow the [Hovatek guide][Unisoc Unlock] to unlock your bootloader. Unisoc devices cannot be unlocked, this is *not* Infinix's fault, Unisoc does not allow unlocking.
 ***
 Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
 

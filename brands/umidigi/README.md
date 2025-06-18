@@ -1,12 +1,11 @@
 # Umidigi
 
 * Verdict **ℹ️ "Safe for now" :trollface:**
+* Verdict: **🍅 Terrible!** (Unisoc)
+* [**🔓️ Unlock Guide (MediaTek)**](../../misc/generic-unlock.md)
 
-Umidigi phones are generally unlockable, however due to them being a budget-focused manufacturer, they use Unisoc SoCs, and Unisoc requires a bunch of [extra steps to unlock][Unisoc Unlock] for whatever reason, and therefore I wouldn't consider them completely safe. 
 
-MediaTek devices can follow the [**🔓️ Generic Unlock Guide**](../../misc/generic-unlock.md).
+Umidigi follows the [standard unlock procedure](../../misc/generic-unlock.md) for their MediaTek devices. Unisoc devices cannot be unlocked, this is *not* Umidigi's fault, Unisoc does not allow unlocking.
 
 ***
 Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
-
-[Unisoc Unlock]:https://www.hovatek.com/forum/thread-32287.html

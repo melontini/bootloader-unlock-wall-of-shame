@@ -1,8 +1,9 @@
 # Motorola/Lenovo
 
 - Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!** (Unisoc)
 
-To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). 
+To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). Unisoc devices will never be unlockable, this is *not* Motorola's fault, Unisoc does not allow unlocking.
 
 In addition, [this forum post][Old devices ineligible] says that once a device passes a certain age (the age not being specified), the device becomes ineligible.
 

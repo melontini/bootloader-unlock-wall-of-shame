@@ -1,12 +1,15 @@
 # Xiaomi/Redmi/POCO
 
 - Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!** (Unisoc)
 
 In the past, Xiaomi allowed most of its devices to be unlocked after a period of 7+ days (depending on how new the device is).
 
 With the launch of Xiaomi's new Android fork, HyperOS, they have introduced a number of changes to the unlock process, with new device limits and Mi Account requirements.
 
 Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootloader]
+
+Unisoc devices will never be unlockable, this is *not* Xiaomi's fault, Unisoc does not allow unlocking.
 
 ### China
 
