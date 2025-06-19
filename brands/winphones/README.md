@@ -20,7 +20,7 @@ An open source tool named [WPInternals][wpinternals] allows bootloader unlocking
 While no full bootloader unlocking method is made, a partial unlock allowing full file system access is possible.
 You need to have Interop Tools app installed with registry access, a [guide][interop-guide] is here.
 Once you have registry access, in the Registry menu navigate to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MTP and select the DataStore key. Press Read Data and change change the string to C:\EFIESP and write the data. Connect the phone to a computer, go to Windows\System32\Boot and rename the resetphone.efi executable to anything else and replace the executable with [developermenu.efi][devmenu] and disconnect the phone from the computer.
-Now reboot and hold down Vol-, you should see a developer menu. Scroll down to the USB Mass Storage Mode option by using Vol- and press Power, now you have full file system access. From here you can disable the OS's driver integrity checks by enabling TESTSIGNING and NOINTEGRITYCHECKS on the BCD and unlock full sideloading capabilities, but its nowhere as close to a full bootloader unlock.
+Now reboot and hold down Vol-, you should see a developer menu. Scroll down to the USB Mass Storage Mode option by using Vol- and press Power, now you have full file system access. From here you can disable the OS's driver and system file integrity checks by enabling TESTSIGNING and NOINTEGRITYCHECKS on the BCD and unlock full sideloading capabilities, but its nowhere as close to a full bootloader unlock.
 
 ## Lumia 710 and 800 (Qualcomm bootloader)
 An unlock guide is available [here][lumia-wp7].
