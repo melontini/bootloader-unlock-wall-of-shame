@@ -22,10 +22,6 @@ Hikari Calyx has a repo with prototype ABLs for some other models. [fih-firmware
 
 Models 7.2, 8.3 and 5.3 can be unlocked offline, while others may require HMD Device Kit **which is not public and requires a service account.**
 
-## Windows Phones
-
-As for Windows Phones, most models have an [unofficial method][lumia-unlock] of unlocking, which is supported by most Nokia Lumias, except for the 620, 720, and 1320.
-
 ***
 Windows Phone info by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
 Updated info provided by [Hikari Calyx](https://github.com/HikariCalyx).<br/>
