@@ -22,11 +22,11 @@ You need to have Interop Tools app installed with registry access, a [guide][int
 Once you have registry access, in the Registry menu navigate to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MTP and select the DataStore key. Press Read Data and change change the string to C:\EFIESP and write the data. Connect the phone to a computer, go to Windows\System32\Boot and rename the resetphone.efi executable to anything else and replace the executable with [developermenu.efi][devmenu] and disconnect the phone from the computer.
 Now reboot and hold down Vol-, you should see a developer menu. Scroll down to the USB Mass Storage Mode option by using Vol- and press Power, now you have full file system access. From here you can disable the OS's driver and system file integrity checks by enabling TESTSIGNING and NOINTEGRITYCHECKS on the BCD and unlock full sideloading capabilities, but its nowhere as close to a full bootloader unlock.
 
-## Lumia 710 and 800 (Qualcomm bootloader)
-An unlock guide is available [here][lumia-wp7].
+## Lumia 510, 610, 710, 800, 900
+An unlock guide for Lumia 710 is available [here][lumia-wp7]. Certain Lumia 710s, 800s and 900s already shipped with a Qualcomm bootloader (a way for determining is in the guide linked earlier). If you have a Qualcomm bootloader, your bootloader is unlocked from the factory for some reason. However, switching the bootloader is possible with special equipment and some work. [A guide][lumiawp7-blswitch] with information linking to other guides ia available.
 
 ## HTC phones running Windows Phone 7.x
-They can be bootloader unlocked using HSPL / RSPL. There are guides for [first generation][first-gen-htc] and [second generation (except Titan II)][second-gen-htc] devices. SPL versions 4.x and 5.x are impossible to unlock, a downgrading guide is available [here][htc-downgrade-spl]
+They can be bootloader unlocked using HSPL / RSPL. There are guides for [first generation][first-gen-htc] and [second generation (except Titan II)][second-gen-htc] devices. SPL versions 4.x and 5.x are impossible to unlock, a downgrading guide is available [here][htc-downgrade-spl].
 
 ## Other devices
 All Windows Phone 8.x devices can be upgraded to Windows 10 Mobile unofficially, however Windows Phone 7.x devices cant. Unfortunately, there are no workarounds for other WP7.x devices.
@@ -42,3 +42,4 @@ All Windows Phone 8.x devices can be upgraded to Windows 10 Mobile unofficially,
 [second-gen-htc]:https://xdaforums.com/t/dft-hspl-for-htc-wp7-second-generation.1684912/
 [htc-downgrade-spl]:https://xdaforums.com/t/noob-friendly-goldcard-spl-downgrade-method-no-android-phone-and-or-custom-wires.1597837/
 [lumia-wp7]:https://xdaforums.com/t/tutorial-full-unlock-lumia-710-in-windows-using-nss-pro-detailed-updated.1721355/
+[lumiawp7-blswitch]:https://xdaforums.com/t/how-to-bootloader-unlock-your-lumia-900-and-flash-a-custom-rom.2204994/post-39517020
