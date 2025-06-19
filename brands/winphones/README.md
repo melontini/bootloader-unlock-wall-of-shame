@@ -11,6 +11,7 @@ Make sure to disable device encryption before unlocking the bootloader with any 
 > Bootloader specification A includes Lumia 52x, 62x, 72x, 810, 82x, 92x, 1020, 1320.
 >
 > Bootloader specification B includes Lumia 43x, 53x (except 535), 540, 550, 63x, 640, 640 XL, 650, 73x, 830, 929 Icon, 930, 950, 950 XL, 1520.
+> 
 An open source tool named [WPInternals][wpinternals] allows bootloader unlocking by 2 methods depending on the bootloader specification of the device.
 - The first method for spec. A devices requires the stock firmware for the phone, [HEX loaders][hex-loaders], an [engineering SBL3 partition][eng-sbl3] and a [donor firmware file][donor-ffu]. The unlock mostly goes smooth, just follow the instructions of the tool.
 - The second method for spec. B devices requires the stock firmware for the phone, [the correct emergency files for the device][emergency-files] and depending on your model a [donor firmware file][donor-ffu]. The unlock method **requires** that the phone is plugged in to a USB 2.0 or earlier port (a USB 2.0 hub works just fine), or you **will** encounter a "Failed to write to pipe" error. Also tbe unlocked bootloader flashing may get stuck at any point, if that happens reboot by holding Vol- and Power, on the red screen open WPInternals and unlock the bootloader again, repeat that until it works. If you counter a bootloop with gears, disconnect the phone, click Interrupt Boot Process in the Manual mode tab of WPInternals and connect it while it is on the boot logo, flash the stock firmware and try unlocking again.
