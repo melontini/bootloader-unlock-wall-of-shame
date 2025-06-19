@@ -21,11 +21,11 @@ You need to have Interop Tools app installed with registry access, a [guide][int
 Once you have registry access, in the Registry menu navigate to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MTP and select the DataStore key. Press Read Data and change change the string to C:\EFIESP and write the data. Connect the phone to a computer, go to Windows\System32\Boot and rename the resetphone.efi executable to anything else and replace the executable with [developermenu.efi][devmenu] and disconnect the phone from the computer.
 Now reboot and hold down Vol-, you should see a developer menu. Scroll down to the USB Mass Storage Mode option by using Vol- and press Power, now you have full file system access. From here you can disable the OS's driver integrity checks by enabling TESTSIGNING and NOINTEGRITYCHECKS on the BCD and unlock full sideloading capabilities, but its nowhere as close to a full bootloader unlock.
 
-## HTC phones running Windows Phone 7.x
-They can be bootloader unlocked using HSPL / RSPL. There are guides for [first generation][first-gen-htc] and [second generation (except Titan II)][second-gen-htc] devices. SPL versions 4.x and 5.x are impossible to unlock, a downgrading guide is available [here][htc-downgrade-spl]
-
 ## Lumia 710 and 800 (Qualcomm bootloader)
 An unlock guide is available [here][lumia-wp7].
+
+## HTC phones running Windows Phone 7.x
+They can be bootloader unlocked using HSPL / RSPL. There are guides for [first generation][first-gen-htc] and [second generation (except Titan II)][second-gen-htc] devices. SPL versions 4.x and 5.x are impossible to unlock, a downgrading guide is available [here][htc-downgrade-spl]
 
 ## Other devices
 All Windows Phone 8.x devices can be upgraded to Windows 10 Mobile unofficially, however Windows Phone 7.x devices cant. Unfortunately, there are no workarounds for other WP7.x devices.
