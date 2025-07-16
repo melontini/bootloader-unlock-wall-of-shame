@@ -1,6 +1,7 @@
 # Motorola/Lenovo
 
 - Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!** (Unisoc)
 
 > [!NOTE]
 > This page does not cover MOTOTRBO or APX, which are manufactured by Motorola Solutions—a company completely separate from Motorola Mobility. Currently, no information is available on unlocking Solutions devices.
@@ -18,7 +19,7 @@ Typically, source code becomes available about a month after the issue is opened
 - [Exynos devices](https://github.com/MotorolaMobilityLLC/kernel-slsi)
 
 ## Bootloader
-To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). 
+To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). Unisoc devices will never be unlockable, this is *not* Motorola's fault, Unisoc does not allow unlocking.
 
 In addition, [this forum post][Old devices ineligible] says that once a device passes a certain age (the age not being specified), the device becomes ineligible.
 
