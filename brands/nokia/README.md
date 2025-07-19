@@ -1,10 +1,10 @@
 # HMD Global/Nokia
 
-- Verdict: **🍅 Terrible!**
+- Verdict: **⛔ Avoid!**
 
 ## HMD
 
-It is not possible to officially unlock HMD Nokia phones.
+It is not possible to officially unlock most HMD/Nokia phones. However, according to Hikari Calyx, the HMD Fusion series [is unlockable][fusion-unlock]. It's unknown if this is just a mistake from HMD or if HMD is planning on introducing bootloader unlocks.
 
 ### Unofficial Unlock
 
@@ -34,3 +34,4 @@ Authored by [melontini](https://github.com/melontini).
 [hikari-service]:https://hikaricalyx.com/request-bootloader-unlock
 [hikari-abl]:https://fih-firmware.hikaricalyx.com/protoabl/
 [lumia-unlock]:http://allaboutwindowsphone.com/features/item/24245_Aguideforunlockingthebootloade.php
+[fusion-unlock]:https://fixupx.com/Hikari_Calyx/status/1932739593385976145
