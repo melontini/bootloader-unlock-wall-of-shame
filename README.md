@@ -36,8 +36,6 @@ The following manufacturers have made it completely impossible to unlock their d
 
 ### [Huawei](./brands/huawei/README.md)
 
-### [HMD Global/Nokia](./brands/nokia/README.md)
-
 ### [Vivo/IQOO](./brands/vivo/README.md)
 
 ### [ZTE](./brands/zte/README.md)
@@ -88,6 +86,8 @@ The following manufacturers allow unlocking under certain conditions, such as re
 ### [Motorola/Lenovo](./brands/motorola/README.md)
 
 ### [Honor](./brands/honor/README.md)
+
+### [HMD/Nokia](./brands/nokia/README.md)
 
 ## ⚠️ Proceed with caution!
 
