@@ -60,6 +60,8 @@ The following manufacturers have made it completely impossible to unlock their d
 
 ### [Coolpad](./brands/coolpad/README.md) 
 
+### [Windows phones](./brands/winphones/README.md)
+
 ### Carrier Locked Devices
 
 > [!NOTE]
