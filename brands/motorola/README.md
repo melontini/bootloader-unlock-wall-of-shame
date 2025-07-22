@@ -1,8 +1,25 @@
 # Motorola/Lenovo
 
 - Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!** (Unisoc)
 
-To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). 
+> [!NOTE]
+> This page does not cover MOTOTRBO or APX, which are manufactured by Motorola Solutions—a company completely separate from Motorola Mobility. Currently, no information is available on unlocking Solutions devices.
+
+## Kernel sources
+Motorola is one of the manufacturers that provide kernel source code for their devices via official repositories on GitHub.
+
+It is recommended to request and download the source code as soon as possible after the device is released to the market, as Motorola may ignore requests for older models over time. 
+
+Typically, source code becomes available about a month after the issue is opened in the appropriate repository.
+
+- [MTK devices](https://github.com/MotorolaMobilityLLC/kernel-mtk)
+- [Snapdragon devices](https://github.com/MotorolaMobilityLLC/kernel-msm)
+- [Unisoc devices](https://github.com/MotorolaMobilityLLC/kernel-sprd)
+- [Exynos devices](https://github.com/MotorolaMobilityLLC/kernel-slsi)
+
+## Bootloader
+To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). Unisoc devices will never be unlockable, this is *not* Motorola's fault, Unisoc does not allow unlocking.
 
 In addition, [this forum post][Old devices ineligible] says that once a device passes a certain age (the age not being specified), the device becomes ineligible.
 
@@ -15,7 +32,7 @@ So how do you know if your device is unlockable? Well...
 * [And from this conversation][turistu's post] [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
 * There's also an unofficial way with CID to check if your device can be unlocked, check here: [xdaforums.com][CID check]
 
-## Non-Lenovo devices
+### Non-Lenovo devices
 Even though Motorola has been owned by Lenovo for a while, there are still devices around that aren't made by Lenovo.
 
 ### Certain G series devices
