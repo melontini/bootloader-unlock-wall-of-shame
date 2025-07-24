@@ -149,7 +149,7 @@ If it also happens to be an OPPO/Realme device and you need to access fastboot: 
 ### Unisoc
 If you own a phone with the Unisoc UMS9620 or older,you can use this exploit to achieve temporary secure boot bypass and persistently unlock bootloader(except some devices with modified uboot) [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
 
-If you oen a phone with the Unisoc UMS312 UMS512 UD710,you can use this exploit to achieve persistently secure boot bypass, which means all firmwares including splloader,uboot can be modified and resigned. [CVE-2022-38691_38692](https://github.com/TomKing062/CVE-2022-38691_38692)
+If you own a phone with the Unisoc UMS312 UMS512 UD710,you can use this exploit to achieve persistently secure boot bypass, which means all firmwares including splloader,uboot can be modified and resigned. [CVE-2022-38691_38692](https://github.com/TomKing062/CVE-2022-38691_38692)
 
 Otherwise, you can also look into this: [Spectrum_UnlockBL_Tool](https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool) <br/>
 This: [xdaforums.com](https://xdaforums.com/t/alldocube-t803-smile_1-bootloader-unlock-w-unisoc-t310.4393389/) <br/>
