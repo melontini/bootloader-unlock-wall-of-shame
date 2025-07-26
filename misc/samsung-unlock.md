@@ -1,7 +1,7 @@
 # 🔓️ Samsung Unlock Guide
 
-- Difficulty: **Easy 📗** (International models)
-- Difficulty: **Impossible ❌** (North American models)
+- Difficulty: **Easy 📗** (International models running One UI 7 or earlier)
+- Difficulty: **Impossible ❌** (North American models, or any Samsung running One UI 8 or later)
 
 > [!CAUTION]
 > Read in full before you act!
@@ -15,7 +15,8 @@ The standard unlocking process for Samsung is to enable OEM Unlocking, then go t
 
 > [!NOTE]
 > This guide does not work with most North American Samsungs!<br/>
-> The only exceptions are devices prior to the S7, and Exynos devices.
+> The only exceptions are devices prior to the S7, and Exynos devices.<br/>
+> This will not work on One UI 8 or later! Samsung has completely removed the ability to unlock starting with One UI 8.
 
 ## OEM Unlocking
 
@@ -46,7 +47,7 @@ If it's variation 1 or 2, your bootloader is already unlocked. If you have varia
 
 > OEM Unlock is missing or greyed out.
 
-Your device is locked to a carrier that restricts unlocking, or you have an American device.
+Your device is locked to a carrier that restricts unlocking, you have an American device, or you're running One UI 8 or later.
 
 > When I try to hold the button combination, my phone just boots normally.
 
