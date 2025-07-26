@@ -34,6 +34,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 The following manufacturers have made it completely impossible to unlock their devices without a workaround.
 
+### [Samsung](./brands/samsung/README.md)
+
 ### [Huawei](./brands/huawei/README.md)
 
 ### [Vivo/IQOO](./brands/vivo/README.md)
@@ -78,8 +80,6 @@ The following manufacturers allow unlocking under certain conditions, such as re
 ### [OPPO/Realme](./brands/oppo/README.md)
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
-
-### [Samsung](./brands/samsung/README.md)
 
 ### [LG](./brands/lg/README.md)
 
