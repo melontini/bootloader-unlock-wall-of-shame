@@ -11,7 +11,7 @@ Snapdragon phones prior to the S7/Note7 (2016) can be unlocked regardless of reg
 
 Be aware that unlocking a Samsung device will permanently trip Knox. As a result, many Knox-based features will be broken. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Furthermore, tripping Knox may serve as grounds for voiding your warranty.
 
-In the past, there have been hardware issues caused by unlocking the boatloader, but these have been fixed for some regions. See [here][1] and [here][2]. As of late 2023, Kroean Galaxy Fold3 running OneUI 5 still got camera disabled after unlocking, while EU/CN variants had fixed the issue.
+In the past, there have been hardware issues caused by unlocking the boatloader, but these have been fixed for some regions. See [here][1] and [here][2]. As of late 2023, Korean Galaxy Fold3 running OneUI 5 still got camera disabled after unlocking, while EU/CN variants had fixed the issue.
 
 ## SoC level exploits
 One of the first things Samsung bootloaders do on phone bootup is check if the bootloader is unlocked, and if it is, and a bootloader unlock has not been authorized, the bootloader will automatically relock. This means SoC level exploits such as mtkclient or EDLUnlock will not work on Samsung devices, unless you reverse engineer, modify and re-flash Samsung's bootloader to stop the bootloader from re-locking. 
