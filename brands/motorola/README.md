@@ -3,13 +3,10 @@
 - Verdict: **⛔ Avoid!**
 - Verdict: **🍅 Terrible!** (Unisoc)
 
-> [!NOTE]
-> This page does not cover MOTOTRBO or APX, which are manufactured by Motorola Solutions—a company completely separate from Motorola Mobility. Currently, no information is available on unlocking Solutions devices.
-
 ## Kernel sources
-Motorola is one of the manufacturers that provide kernel source code for their devices via official repositories on GitHub.
+Motorola is one of the manufacturers that provide kernel source code for their devices via official repositories on GitHub. However, they usually have weird build instructions, and will not share them unless you threaten to report to the SFC. 
 
-It is recommended to request and download the source code as soon as possible after the device is released to the market, as Motorola may ignore requests for older models over time. 
+It is recommended to request and download the source code as soon as possible after the device is released to the market, as Motorola may ignore requests for older models over time. For older devices, you can usually get the kernel source by pinging the user asbraga-motorola
 
 Typically, source code becomes available about a month after the issue is opened in the appropriate repository.
 
@@ -17,6 +14,7 @@ Typically, source code becomes available about a month after the issue is opened
 - [Snapdragon devices](https://github.com/MotorolaMobilityLLC/kernel-msm)
 - [Unisoc devices](https://github.com/MotorolaMobilityLLC/kernel-sprd)
 - [Exynos devices](https://github.com/MotorolaMobilityLLC/kernel-slsi)
+- [Texas Instruments devices](https://github.com/MotorolaMobilityLLC/kernel-omap)
 
 ## Bootloader
 To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). Unisoc devices will never be unlockable, this is *not* Motorola's fault, Unisoc does not allow unlocking.
