@@ -85,7 +85,7 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [HTC](./brands/htc/README.md)
 
-### [Motorola/Lenovo](./brands/motorola/README.md)
+### [Motorola/Lenovo/NEC](./brands/motorola/README.md)
 
 ### [Honor](./brands/honor/README.md)
 
