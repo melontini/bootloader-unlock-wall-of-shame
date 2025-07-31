@@ -91,6 +91,8 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [HMD/Nokia](./brands/nokia/README.md)
 
+### [Hisense](./brands/hisense/README.md)
+
 ## ⚠️ Proceed with caution!
 
 The following manufacturers require an online account and/or a waiting period before unlocking.
