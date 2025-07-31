@@ -55,7 +55,7 @@ And it gets even better! As people have found it the hard way [in the xda forums
 
 As such, for as long as the option is available, you'll skip this community BS and use the bypass methods:
 
-* [HyperSploit][hypersploit] is the newer option. This is a simple to use program with no external dependencies.
+* ~~[HyperSploit][hypersploit] is the newer option. This is a simple to use program with no external dependencies.~~ Confirmed as patched as of HyperOS version 2.0.203.0. Still works on old versions.
 * [Xiaomi-HyperOS-BootLoader-Bypass][xiaomi-hyperos-bootLoader-bypass] is the original proof of concept, but it's written in PHP and it's cumbersome to set up.
 
 These will both (for now) allow you to continue with the last of the good old steps, where you wait for 7 days and can then unlock your phone successfully.
