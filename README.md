@@ -132,6 +132,8 @@ The following manufacturers require an online account and/or a waiting period be
 ### [Volla](./brands/volla/README.md)
 
 ### [Teracube](./brands/teracube/README.md)
+
+### [Teclast](./brands/teclast/README.md)
 # Misc info
 
 ## Custom AVB Keys
