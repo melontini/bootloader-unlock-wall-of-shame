@@ -10,7 +10,14 @@
 
 Realme, allows unlocking for supported models and regions. China and India models are confirmed to be supported, with some models from other regions reportedly supported as well. 
 
-To unlock, you need to submit a request through the deep testing app that they publish on their forum. You'll have to find and follow instructions at [c.realme.com](https://c.realme.com/in/). The process is pretty much the same for most phones, but newer models may require a HeyTap account.
+To unlock, you need to submit a request through the deep testing app that they publish on their forum. You'll have to find and follow instructions at [c.realme.com](https://c.realme.com/in/). The process is pretty much the same for most phones, but newer models may require a HeyTap account and models that have been dropped out of updating list would be unable to unlock due to "security reasons".
+
+After applying for deep testing, you have to wait 7days before unlocking, although normally the application will be approved at 2am the 6th day. Then you can click "start deep testing" to reboot to bootloader and unlock your phone. But please note that you can only apply for deep testing on the phone running the same Android version it was lauched with. Once got approved, you have 7days to click on "start deep testing", if don't reboot to bootloader then the unlock token would expire and you have to apply again with a different account or after 60days.
+
+It's also worth noticing that Realme China only allows 200units/month for unlocking starting from December, 2024.
+
+
+
 
 ### Unofficial Unlock
 
@@ -27,7 +34,7 @@ Since then, they have forced their servers to only return "new struct" keys, whi
 
 ## OPPO
 
-There's not much to say about OPPO. They provide Deep Testing too, but only for Chinese models.
+There's not much to say about OPPO. They provide Deep Testing too, but only for Chinese models before Find X5 series. Starting from Find X5 series, OPPO no longer allows unlocking.
 
 ## Deep Testing
 
