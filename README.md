@@ -77,7 +77,7 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 The following manufacturers allow unlocking under certain conditions, such as region, model, SOC, etc., or require a sacrifice to unlock.
 
-### [OPPO/Realme](./brands/oppo/README.md)
+### [OPPO](./brands/oppo/README.md)
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 
