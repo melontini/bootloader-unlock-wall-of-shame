@@ -1,12 +1,15 @@
 # Xiaomi/Redmi/POCO
 
 - Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!** (Unisoc)
 
 In the past, Xiaomi allowed most of its devices to be unlocked after a period of 7+ days (depending on how new the device is).
 
 With the launch of Xiaomi's new Android fork, HyperOS, they have introduced a number of changes to the unlock process, with new device limits and Mi Account requirements.
 
 Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootloader]
+
+Unisoc devices will never be unlockable, this is *not* Xiaomi's fault, Unisoc does not allow unlocking.
 
 ### China
 
@@ -46,7 +49,7 @@ That is, you can only make the request for unlocking the device inside Developer
 If [xiaomiui.net][global-requirements] is to be believed, the requirements for the Community App request are as follows:
 * Your Mi Account has been active for more than 30 days.
 * Xiaomi Community App version 5.3.31 or above.
-* Xiaomi has [updated their policies][updated-policies], further restricting bootloader unlocking. As of January 1st, 2025, they only let you unlock 1 device per year. *What a good way to start the year, right?*
+* Xiaomi has [updated their policies][updated-policies], further restricting bootloader unlocking. As of January 1st, 2025, they only let you unlock 1 device per year. *What a good way to start the year, right?* This requirement has also been added to MIUI 14.
 
 And it gets even better! As people have found it the hard way [in the xda forums][community-app-cap], there is a cap on the amount of people who can request per day inside the Community App, and it gets filled pretty much instantly, so your only chance to make a successful request there is if you get lucky spamming the request at midnight, Beijing time (or whatever that is in your timezone).
 

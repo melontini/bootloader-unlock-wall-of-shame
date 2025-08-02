@@ -34,9 +34,9 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 The following manufacturers have made it completely impossible to unlock their devices without a workaround.
 
-### [Huawei](./brands/huawei/README.md)
+### [Samsung](./brands/samsung/README.md)
 
-### [HMD Global/Nokia](./brands/nokia/README.md)
+### [Huawei](./brands/huawei/README.md)
 
 ### [Vivo/IQOO](./brands/vivo/README.md)
 
@@ -62,6 +62,8 @@ The following manufacturers have made it completely impossible to unlock their d
 
 ### [Coolpad](./brands/coolpad/README.md) 
 
+### [Windows phones](./brands/winphones/README.md)
+
 ### Carrier Locked Devices
 
 > [!NOTE]
@@ -79,15 +81,17 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 
-### [Samsung](./brands/samsung/README.md)
-
 ### [LG](./brands/lg/README.md)
 
 ### [HTC](./brands/htc/README.md)
 
-### [Motorola/Lenovo](./brands/motorola/README.md)
+### [Motorola/Lenovo/NEC](./brands/motorola/README.md)
 
 ### [Honor](./brands/honor/README.md)
+
+### [HMD/Nokia](./brands/nokia/README.md)
+
+### [Hisense](./brands/hisense/README.md)
 
 ## ⚠️ Proceed with caution!
 
@@ -126,6 +130,8 @@ The following manufacturers require an online account and/or a waiting period be
 ### [Oukitel](./brands/oukitel/README.md)
 
 ### [Volla](./brands/volla/README.md)
+
+### [Teracube](./brands/teracube/README.md)
 # Misc info
 
 ## Custom AVB Keys
@@ -145,7 +151,9 @@ If you own a MediaTek device exploitable by [mtkclient](https://github.com/bkerl
 If it also happens to be an OPPO/Realme device and you need to access fastboot: [lkpatcher](https://github.com/R0rt1z2/lkpatcher) ([web version](https://lkpatcher.r0rt1z2.com/))
 
 ### Unisoc
-If you own a phone with the Unisoc ud710 or ums512 SOCs you can look into this exploit: [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
+If you own a phone with the Unisoc UMS9620 or older,you can use this exploit to achieve temporary secure boot bypass and persistently unlock bootloader(except some devices with modified uboot) [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
+
+If you own a phone with the Unisoc UMS312 UMS512 UD710,you can use this exploit to achieve persistently secure boot bypass, which means all firmwares including splloader,uboot can be modified and resigned. [CVE-2022-38691_38692](https://github.com/TomKing062/CVE-2022-38691_38692)
 
 Otherwise, you can also look into this: [Spectrum_UnlockBL_Tool](https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool) <br/>
 This: [xdaforums.com](https://xdaforums.com/t/alldocube-t803-smile_1-bootloader-unlock-w-unisoc-t310.4393389/) <br/>

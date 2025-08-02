@@ -1,8 +1,23 @@
-# Motorola/Lenovo
+# Motorola/Lenovo/NEC
 
 - Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!** (Unisoc)
 
-To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). 
+## Kernel sources
+Motorola is one of the manufacturers that provide kernel source code for their devices via official repositories on GitHub. However, they usually have weird build instructions, and will not share them unless you threaten to report to the SFC. 
+
+It is recommended to request and download the source code as soon as possible after the device is released to the market, as Motorola may ignore requests for older models over time. For older devices, you can usually get the kernel source by pinging the user asbraga-motorola
+
+Typically, source code becomes available about a month after the issue is opened in the appropriate repository.
+
+- [MTK devices](https://github.com/MotorolaMobilityLLC/kernel-mtk)
+- [Snapdragon devices](https://github.com/MotorolaMobilityLLC/kernel-msm)
+- [Unisoc devices](https://github.com/MotorolaMobilityLLC/kernel-sprd)
+- [Exynos devices](https://github.com/MotorolaMobilityLLC/kernel-slsi)
+- [Texas Instruments devices](https://github.com/MotorolaMobilityLLC/kernel-omap)
+
+## Bootloader
+To unlock your bootloader, you have to submit a request on [this][Unlock Code Website] website, which is pretty bad on its own (*wink* [Huawei](../huawei/README.md)). Unisoc devices will never be unlockable, this is *not* Motorola's fault, Unisoc does not allow unlocking.
 
 In addition, [this forum post][Old devices ineligible] says that once a device passes a certain age (the age not being specified), the device becomes ineligible.
 
@@ -15,7 +30,7 @@ So how do you know if your device is unlockable? Well...
 * [And from this conversation][turistu's post] [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
 * There's also an unofficial way with CID to check if your device can be unlocked, check here: [xdaforums.com][CID check]
 
-## Non-Lenovo devices
+### Non-Lenovo devices
 Even though Motorola has been owned by Lenovo for a while, there are still devices around that aren't made by Lenovo.
 
 ### Certain G series devices
@@ -38,10 +53,14 @@ Devices made before Google purchased Motorola Mobility (May 2012) do not have un
 ### Motorola Solutions (radios)
 tldr, Motorola split into two companies in 2011. Motorola Mobility, which made the phones and DVRs and is now owned by Lenovo, and Motorola Solutions, who makes everything else. Solutions has recently started making radios which run Android. Not much is known about these devices, Motorola doesn't even reveal which SoC they use, so nothing is really known about these devices. This [datasheet] for the MOTOTRBO ION mentions "Root Detection: Standard", which in Moto-speak, means "this device always ships with root detection.", indicating that the bootloader is probably not unlockable on these devices. Via [this spreadsheet] from Google, you can see the MOTOTRBO ION's codename -- mkz_sdm660_64, which indicates that possibly it uses a Snapdragon 660 SoC, but the MOTOTRBO ION runs Android 13, which seems weirdly new for a 2017 SoC, no it might just be gibberish or something unrelated.
 
-### MtkClient + BROM
+### MTKClient + BROM
 Most MTK-based Motorola devices **released before 2022 are susceptible to [mtkclient](https://github.com/bkerler/mtkclient) bypass**, and full unlock may require [ChouChou](https://github.com/R0rt1z2/chouchou) / [Kaeru](https://github.com/R0rt1z2/kaeru) patches to disable automatic bootloader lock.
 
 However, on devices **released after 2022, this method is ineffective** as the preloader vulnerability has been patched and the BROM is blocked via eFuse, and attempting to crash the preloader results in a bootloop in the preloader.
+
+### Non-Motorola Lenovo devices, NEC devices and some Motorola tablets.
+Lenovo usually does not use the Motorola name on their tablets and gaming-oriented phones, and these are typically branded as Lenovo or NEC. While similar to Motorola's unlock process, these have to be unlocked on the [ZUI website], which requires your IMEI, serial number, and email, and they'll send you an unlock-bootloader.img which you flash to the unlock partition in Fastboot to unlock. However, similar to Xiaomi, Lenovo has a quota, which if you surpass, you cannot unlock your bootloader, @MlgmXyysd has created an [unofficial unlock portal] which may work on recent tablets like Legion Y700 4th Gen. Some Motorola tablets, such as the G62, also use the ZUI website to unlock instead of Motorola's unlock portal.
+The Lenovo Z5s (and potentially other Lenovo devices) do **not** verify the unlock-bootloader.img, and therefore you can flash the unlock-bootloader.img [from any Z5s]:[Z5s unlock] to unlock a Z5s.
 
 > Moto used confusion! It seems pretty effective...
 
@@ -60,6 +79,7 @@ Additional info provided by [Ivy / Lost-Entrepreneur439](https://github.com/Lost
 CID info provided by [FPSensor](https://github.com/FPSensor).<br/>
 Unofficial ways to unlock "Moto G13/G23/G24/G24 Power" bootloader provided by [DiabloSat](https://github.com/progzone122) & [Shomy](https://github.com/shomykohai).<br/>
 Legal agreement info provided by [FaridZelli](https://github.com/FaridZelli).<br/>
+Lenovo branded and NEC unlock information provided by [CakesTwix](https://github.com/CakesTwix) and [Calyx Hikari](https://github.com/HikariCalyx).<br/>
 Authored by [melontini](https://github.com/melontini).
 
 [Bootloader Unlocking Legal Agreement]:https://en-us.support.motorola.com/ci/fattach/get/741421/1385047216/redirect/1/filename/Boot_revised.pdf
@@ -74,3 +94,6 @@ Authored by [melontini](https://github.com/melontini).
 [Old devices ineligible]:https://forums.lenovo.com/t5/MOTOROLA-Android-Developer-Community/Your-device-does-not-qualify-for-bootloader-unlocking/m-p/5234690?page=3#6297769
 [datasheet]:https://www.motorolasolutions.com/content/dam/msi/docs/products/two-way-radios/mototrbo/portable-radios/mototrbo-ion-radio/MOTOTRBO_Ion_DataSheet_NAM.pdf
 [this spreadsheet]:https://storage.googleapis.com/play_public/supported_devices.html
+[ZUI website]:https://www.zui.com/iunlock
+[unofficial unlock portal]:https://lenovobl.neko.ink/
+[Z5s unlock]:https://cakestwix.github.io/ViteLenovoZ5s/guides/unlock.html

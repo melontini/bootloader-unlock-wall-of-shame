@@ -1,9 +1,11 @@
 # Samsung
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!**
 * [**🔓️ Unlock Guide (supported devices)**](../../misc/samsung-unlock.md)
 
-If you have a North American device and were lucky enough not to update for a while, you can check out [this paid service][Paid North American Unlock] at your own risk. Any phones prior to the S23 with an Exynos SoC can be unlocked if not carrier locked, regardless of region.
+If you have a North American device and were lucky enough not to update for a while, you can check out [this paid service][Paid North American Unlock] at your own risk. Exynos devices, regardless of region, can be unlocked assuming you're on One UI 7 or earlier. 
+
+Until recently, international Samsung devices (e.g. ones sold in Europe or Asia) were unlockable, however, starting with One UI 8, Samsung has [completely nuked][One UI 8 Unlock] the ability to unlock their devices, regardless of model or region. If you are still on One UI 7 or earlier, **DO NOT UPDATE.** Once you update to One UI 8, bootloader unlocking is gone forever, there is no way to rollback to One UI 7.
 
 Snapdragon phones prior to the S7/Note7 (2016) can be unlocked regardless of region, as long as it's not locked to a carrier like AT&T or Verizon. The Canadian S7 can also be unlocked as it uses an Exynos SoC, despite Canada normally being a Snapdragon region.
 
@@ -35,3 +37,4 @@ Authored by [melontini](https://github.com/melontini).
 [Paid North American Unlock]:https://xdaforums.com/t/android-unsamlock-bootloader-unlock-for-samsung-us-canada-devices.4215101/
 [KnoxPatch]:https://github.com/BlackMesa123/KnoxPatch
 [KnoxPatch#knoxpatch-enhancer]:https://github.com/BlackMesa123/KnoxPatch#knoxpatch-enhancer
+[One UI 8 Unlock]:https://xdaforums.com/t/bootloader-unlocking-option-removed-from-one-ui-8-0.4751904/
