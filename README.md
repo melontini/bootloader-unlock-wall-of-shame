@@ -79,6 +79,8 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [OPPO](./brands/oppo/README.md)
 
+### [Realme](./brands/realme/README.md)
+
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 
 ### [LG](./brands/lg/README.md)
