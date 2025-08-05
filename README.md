@@ -40,8 +40,6 @@ The following manufacturers have made it completely impossible to unlock their d
 
 ### [Vivo/IQOO](./brands/vivo/README.md)
 
-### [ZTE](./brands/zte/README.md)
-
 ### [Meizu](./brands/meizu/README.md)
 
 ### [Asus](./brands/asus/README.md)
@@ -92,6 +90,8 @@ The following manufacturers allow unlocking under certain conditions, such as re
 ### [Honor](./brands/honor/README.md)
 
 ### [HMD/Nokia](./brands/nokia/README.md)
+
+### [ZTE/nubia](./brands/zte/README.md)
 
 ### [Hisense](./brands/hisense/README.md)
 

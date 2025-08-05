@@ -1,8 +1,11 @@
-# ZTE
+# ZTE/nubia
 
 > 🧹 This page is missing a lot of info!
 
-- Verdict: **🍅 Terrible!**
+- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!** (Unisoc)
+
+Snapdragon-based nubia devices can be unlocked with the Fastboot command `fastboot oem nubia_unlock NUBIA_MODEL` (e.g. -- if your phone's model number is NX609J, the command would be `fastboot oem nubia_unlock NUBIA_NX609J`.). Newer ZTE devices can also be unlocked with the standard `fastboot flashing unlock` command, but this tends to break the fingerprint sensor, Unisoc devices will never be unlockable, this is *not* ZTE's fault, Unisoc does not allow unlocking. As for non-nubia ZTE devices:
 
 Old devices (pre Android 8):<br/>
 [xdaforums.com][pre-android-8]
