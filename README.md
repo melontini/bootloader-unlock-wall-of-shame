@@ -99,6 +99,8 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 The following manufacturers require an online account and/or a waiting period before unlocking.
 
+### [OnePlus](./brands/oneplus/README.md)
+
 ### [Google/Nexus](./brands/google/README.md)
 
 ### [Fairphone](./brands/fairphone/README.md)
@@ -114,8 +116,6 @@ The following manufacturers require an online account and/or a waiting period be
 ## ℹ️ "Safe for now" :trollface: 
 
 ### [Nothing](./brands/nothing/README.md)
-
-### [OnePlus](./brands/oneplus/README.md)
 
 ### [Microsoft](./brands/microsoft/README.md)
 
