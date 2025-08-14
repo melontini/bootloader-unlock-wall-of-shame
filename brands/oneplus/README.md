@@ -1,6 +1,6 @@
 # OnePlus
 
-* Verdict **⛔ Avoid at all costs!**
+* Verdict **⚠️ Proceed with caution!**
 * Global phones or Chinese phones up to ColorOS 16.0: [**🔓️ Unlock Guide**](../../misc/generic-unlock.md)
 
 ## Global phones or Chinese phones up to ColorOS 16.0
