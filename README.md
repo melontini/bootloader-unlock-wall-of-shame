@@ -77,6 +77,8 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 The following manufacturers allow unlocking under certain conditions, such as region, model, SOC, etc., or require a sacrifice to unlock.
 
+### [OnePlus](./brands/oneplus/README.md)
+
 ### [OPPO/Realme](./brands/oppo/README.md)
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
@@ -98,8 +100,6 @@ The following manufacturers allow unlocking under certain conditions, such as re
 ## ⚠️ Proceed with caution!
 
 The following manufacturers require an online account and/or a waiting period before unlocking.
-
-### [OnePlus](./brands/oneplus/README.md)
 
 ### [Google/Nexus](./brands/google/README.md)
 
