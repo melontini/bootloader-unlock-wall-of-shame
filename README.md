@@ -135,6 +135,8 @@ The following manufacturers require an online account and/or a waiting period be
 
 ### [Teracube](./brands/teracube/README.md)
 
+### [Teclast](./brands/teclast/README.md)
+
 ### [Shift](./brands/shift/README.md)
 
 # Misc info
