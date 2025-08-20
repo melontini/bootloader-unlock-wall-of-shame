@@ -40,8 +40,6 @@ The following manufacturers have made it completely impossible to unlock their d
 
 ### [Vivo/IQOO](./brands/vivo/README.md)
 
-### [ZTE](./brands/zte/README.md)
-
 ### [Meizu](./brands/meizu/README.md)
 
 ### [Asus](./brands/asus/README.md)
@@ -61,6 +59,8 @@ The following manufacturers have made it completely impossible to unlock their d
 ### [TCL](./brands/tcl/README.md) 
 
 ### [Coolpad](./brands/coolpad/README.md) 
+
+### [Amazon](./brands/amazon/README.md)
 
 ### [Windows phones](./brands/winphones/README.md)
 
@@ -91,11 +91,15 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [HMD/Nokia](./brands/nokia/README.md)
 
+### [ZTE/nubia](./brands/zte/README.md)
+
 ### [Hisense](./brands/hisense/README.md)
 
 ## ⚠️ Proceed with caution!
 
 The following manufacturers require an online account and/or a waiting period before unlocking.
+
+### [OnePlus](./brands/oneplus/README.md)
 
 ### [Google/Nexus](./brands/google/README.md)
 
@@ -112,8 +116,6 @@ The following manufacturers require an online account and/or a waiting period be
 ## ℹ️ "Safe for now" :trollface: 
 
 ### [Nothing](./brands/nothing/README.md)
-
-### [OnePlus](./brands/oneplus/README.md)
 
 ### [Microsoft](./brands/microsoft/README.md)
 
@@ -134,6 +136,9 @@ The following manufacturers require an online account and/or a waiting period be
 ### [Teracube](./brands/teracube/README.md)
 
 ### [Teclast](./brands/teclast/README.md)
+
+### [Shift](./brands/shift/README.md)
+
 # Misc info
 
 ## Custom AVB Keys

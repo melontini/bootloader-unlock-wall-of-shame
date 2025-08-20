@@ -30,6 +30,8 @@ So how do you know if your device is unlockable? Well...
 * [And from this conversation][turistu's post] [turistu](https://github.com/turistu) had with their support: "most of our E devices doesn't support bootloader unlock program. Please see below a list of devices that support the bootloader unlock program : g100, g51 , g71 , g200 , g52 , g82 , g42 , g62 , g32"
 * There's also an unofficial way with CID to check if your device can be unlocked, check here: [xdaforums.com][CID check]
 
+Once your bootloader is unlocked, Motorola does not allow you to relock, attempting to re-lock will [brick your device][brick on relock]
+
 ### Non-Lenovo devices
 Even though Motorola has been owned by Lenovo for a while, there are still devices around that aren't made by Lenovo.
 
@@ -64,7 +66,7 @@ The Lenovo Z5s (and potentially other Lenovo devices) do **not** verify the unlo
 
 > Moto used confusion! It seems pretty effective...
 
-### Legal Agreement Controversy
+## Legal Agreement Controversy
 
 Motorola's [Bootloader Unlocking Legal Agreement][Bootloader Unlocking Legal Agreement] includes a particularly concerning clause attempting to restrict the owner's rights after unlocking the bootloader.
 
@@ -97,3 +99,4 @@ Authored by [melontini](https://github.com/melontini).
 [ZUI website]:https://www.zui.com/iunlock
 [unofficial unlock portal]:https://lenovobl.neko.ink/
 [Z5s unlock]:https://cakestwix.github.io/ViteLenovoZ5s/guides/unlock.html
+[brick on relock]:https://xdaforums.com/t/motorola-xt2129-2-moto-g30-invalid-operating-system-after-relocking-bootloader.4751096/
