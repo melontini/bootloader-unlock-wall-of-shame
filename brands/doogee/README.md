@@ -1,9 +1,12 @@
 # Doogee 
 
-- Verdict: **🍅 Terrible!**
+- Verdict: **AMAZING**
 
-While some people have reported success via the [standard unlock procedure](../../misc/generic-unlock.md), most Doogee devices [can't be unlocked][Doogee lock] despite having the OEM Unlock option in the settings.
-***
-Authored by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
+  Just send a email to support-service@doogee.com
 
-[Doogee lock]:https://xdaforums.com/t/doogee-t20s-unlock-bootloader-problem.4694534/
+  As a last ditch effort I contacted them and they warned me not to unlock - just tell them you are a advanced user and summitw@protonmail.com sent you from github.
+
+  They gave me the firmware, all factory tools for flashing AND instructions WITH a video.
+
+  They asked I dont share the firmware but said they will provide device firmware and tools with instructions BUT no support or warranty after this point. Just send a email!
+
