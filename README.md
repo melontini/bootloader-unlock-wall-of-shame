@@ -56,7 +56,7 @@ The following manufacturers have made it completely impossible to unlock their d
 
 ### [Doogee](./brands/doogee/README.md)
 
-### [TCL](./brands/tcl/README.md) 
+### [TCL/BlackBerry](./brands/tcl/README.md) 
 
 ### [Coolpad](./brands/coolpad/README.md) 
 
