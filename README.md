@@ -34,33 +34,31 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 The following manufacturers have made it completely impossible to unlock their devices without a workaround.
 
-### [Samsung](./brands/samsung/README.md)
-
-### [Huawei](./brands/huawei/README.md)
-
-### [Vivo/IQOO](./brands/vivo/README.md)
-
-### [Meizu](./brands/meizu/README.md)
-
-### [Asus](./brands/asus/README.md)
-
-### [Alcatel](./brands/alcatel/README.md)
+### [Amazon](./brands/amazon/README.md)
 
 ### [Apple](./brands/apple/README.md)
 
-### [Energizer](./brands/energizer/README.md)
+### [Asus](./brands/asus/README.md)
 
 ### [Cat](./brands/cat/README.md)
 
-### [Sharp](./brands/sharp/README.md)
+### [Coolpad](./brands/coolpad/README.md)
 
 ### [Doogee](./brands/doogee/README.md)
 
-### [TCL/BlackBerry](./brands/tcl/README.md) 
+### [Energizer](./brands/energizer/README.md)
 
-### [Coolpad](./brands/coolpad/README.md) 
+### [Huawei](./brands/huawei/README.md)
 
-### [Amazon](./brands/amazon/README.md)
+### [Meizu](./brands/meizu/README.md)
+
+### [Samsung](./brands/samsung/README.md)
+
+### [Sharp](./brands/sharp/README.md)
+
+### [TCL/BlackBerry](./brands/tcl/README.md)
+
+### [Vivo/IQOO](./brands/vivo/README.md)
 
 ### [Windows phones](./brands/winphones/README.md)
 
@@ -77,67 +75,67 @@ As a rule, almost all carrier locked devices do not allow the bootloader to be u
 
 The following manufacturers allow unlocking under certain conditions, such as region, model, SOC, etc., or require a sacrifice to unlock.
 
+### [Hisense](./brands/hisense/README.md)
+
+### [HMD/Nokia](./brands/nokia/README.md)
+
+### [Honor](./brands/honor/README.md)
+
+### [HTC](./brands/htc/README.md)
+
+### [LG](./brands/lg/README.md)
+
+### [Motorola/Lenovo/NEC](./brands/motorola/README.md)
+
 ### [OPPO/Realme](./brands/oppo/README.md)
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 
-### [LG](./brands/lg/README.md)
-
-### [HTC](./brands/htc/README.md)
-
-### [Motorola/Lenovo/NEC](./brands/motorola/README.md)
-
-### [Honor](./brands/honor/README.md)
-
-### [HMD/Nokia](./brands/nokia/README.md)
-
 ### [ZTE/nubia](./brands/zte/README.md)
-
-### [Hisense](./brands/hisense/README.md)
 
 ## ⚠️ Proceed with caution!
 
 The following manufacturers require an online account and/or a waiting period before unlocking.
 
-### [OnePlus](./brands/oneplus/README.md)
+### [Fairphone](./brands/fairphone/README.md)
 
 ### [Google/Nexus](./brands/google/README.md)
 
-### [Fairphone](./brands/fairphone/README.md)
-
-### [Sony](./brands/sony/README.md)
-
 ### [Infinix](./brands/infinix/README.md)
-
-### [Tecno](./brands/tecno/README.md)
 
 ### [itel](./brands/itel/README.md)
 
+### [OnePlus](./brands/oneplus/README.md)
+
+### [Sony](./brands/sony/README.md)
+
+### [Tecno](./brands/tecno/README.md)
+
 ## ℹ️ "Safe for now" :trollface: 
-
-### [Nothing](./brands/nothing/README.md)
-
-### [Microsoft](./brands/microsoft/README.md)
-
-### [Umidigi](./brands/umidigi/README.md)
-
-### [Micromax](./brands/micromax/README.md)
-
-### [Ulefone](./brands/ulefone/README.md)
 
 ### [Blackview](./brands/blackview/README.md)
 
 ### [Cubot](./brands/cubot/README.md)
 
+### [Micromax](./brands/micromax/README.md)
+
+### [Microsoft](./brands/microsoft/README.md)
+
+### [Nothing](./brands/nothing/README.md)
+
 ### [Oukitel](./brands/oukitel/README.md)
 
-### [Volla](./brands/volla/README.md)
-
-### [Teracube](./brands/teracube/README.md)
+### [Shift](./brands/shift/README.md)
 
 ### [Teclast](./brands/teclast/README.md)
 
-### [Shift](./brands/shift/README.md)
+### [Teracube](./brands/teracube/README.md)
+
+### [Ulefone](./brands/ulefone/README.md)
+
+### [Umidigi](./brands/umidigi/README.md)
+
+### [Volla](./brands/volla/README.md)
 
 # Misc info
 
@@ -157,15 +155,6 @@ It's possible to unlock using testpoints and [PotatoNV](https://github.com/mashe
 If you own a MediaTek device exploitable by [mtkclient](https://github.com/bkerler/mtkclient) you can unlock the bootloader using that.<br/>
 If it also happens to be an OPPO/Realme device and you need to access fastboot: [lkpatcher](https://github.com/R0rt1z2/lkpatcher) ([web version](https://lkpatcher.r0rt1z2.com/))
 
-### Unisoc
-If you own a phone with the Unisoc UMS9620 or older,you can use this exploit to achieve temporary secure boot bypass and persistently unlock bootloader(except some devices with modified uboot) [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
-
-If you own a phone with the Unisoc UMS312 UMS512 UD710,you can use this exploit to achieve persistently secure boot bypass, which means all firmwares including splloader,uboot can be modified and resigned. [CVE-2022-38691_38692](https://github.com/TomKing062/CVE-2022-38691_38692)
-
-Otherwise, you can also look into this: [Spectrum_UnlockBL_Tool](https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool) <br/>
-This: [xdaforums.com](https://xdaforums.com/t/alldocube-t803-smile_1-bootloader-unlock-w-unisoc-t310.4393389/) <br/>
-Or this: [subut](https://unisoc-android.github.io/subut/)
-
 ### Qualcomm 
 There's no Universal Qualcomm method, unfortunately.
 
@@ -176,6 +165,15 @@ The general exploit:<br/>
 
 Xiaomi Mi A1 and maybe all MSM89** manufactured before 2018:<br/>
 [EDLUnlock](https://github.com/Giovix92/EDLUnlock)
+
+### Unisoc
+If you own a phone with the Unisoc UMS9620 or older,you can use this exploit to achieve temporary secure boot bypass and persistently unlock bootloader(except some devices with modified uboot) [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
+
+If you own a phone with the Unisoc UMS312 UMS512 UD710,you can use this exploit to achieve persistently secure boot bypass, which means all firmwares including splloader,uboot can be modified and resigned. [CVE-2022-38691_38692](https://github.com/TomKing062/CVE-2022-38691_38692)
+
+Otherwise, you can also look into this: [Spectrum_UnlockBL_Tool](https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool) <br/>
+This: [xdaforums.com](https://xdaforums.com/t/alldocube-t803-smile_1-bootloader-unlock-w-unisoc-t310.4393389/) <br/>
+Or this: [subut](https://unisoc-android.github.io/subut/)
 
 ***
 

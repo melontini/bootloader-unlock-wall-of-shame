@@ -10,20 +10,20 @@ Land of the free... unless you want your phone to be free. American carriers hav
 
 ### [AT&T/Cricket](./brands/att/README.md)
 
-### [Verizon/Visible](./brands/verizon/README.md)
+### [Boost](./brands/boost/README.md)
 
 ### [T-Mobile/Metro](./brands/tmobile/README.md)
 
-### [Boost](./brands/boost/README.md)
+### [Verizon/Visible](./brands/verizon/README.md)
 
 ## Canada
 All devices sold in Canada after December 1, 2017 are sold unlocked, and any devices sold before then legally have to be unlocked for free, thanks to [the Wireless Code](https://crtc.gc.ca/eng/archive/2017/2017-200.htm). For devices sold before then however..
 
 ### [Bell/Virgin/Lucky](./brands/bell/README.md)
 
-### [Telus/Koodo/Public](./brands/telus/README.md)
-
 ### [Rogers/Fido/Chatr](./brands/rogers/README.md)
+
+### [Telus/Koodo/Public](./brands/telus/README.md)
 
 ## Japan
 If you buy a Sony or Sharp phone used, high chance it's going to be locked to a Japanese carrier as that's just where Sony and Sharp are popular.
