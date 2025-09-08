@@ -55,8 +55,9 @@ And it gets even better! As people have found it the hard way [in the xda forums
 
 As such, for as long as the option is available, you'll skip this community BS and use the bypass methods:
 
+* [AQLR][aqlr] The current bypass method, though you need to have your computer running at 00:00 Chinese time. (The script is in AQLR.zip at the end of the post.)
 * ~~[HyperSploit][hypersploit] is the newer option. This is a simple to use program with no external dependencies.~~ Confirmed as patched as of HyperOS version 2.0.203.0. Still works on old versions.
-* [Xiaomi-HyperOS-BootLoader-Bypass][xiaomi-hyperos-bootLoader-bypass] is the original proof of concept, but it's written in PHP and it's cumbersome to set up.
+* ~~[Xiaomi-HyperOS-BootLoader-Bypass][xiaomi-hyperos-bootLoader-bypass] is the original proof of concept, but it's written in PHP and it's cumbersome to set up.~~ Same as above.
 
 These will both (for now) allow you to continue with the last of the good old steps, where you wait for 7 days and can then unlock your phone successfully.
 Do NOT make a new request by pressing the button in the Settings app as that will undo you bypass (hypersploit also mentions this to you). The tool will make the needed request itself.
@@ -66,8 +67,6 @@ The only thing you need to do is use Xiaomi's official unlck tool after 7 days.
 
 You should be able to use the "normal" unlock process by itself, wihtout the community app BS
 (the one descibed in the "good old MIUI days" section above).
-
-As the "1 device per year" policy is shown in the Xiaomi Community app when applying for unlocking HyperOS devices, this shouldn't affect devices running MIUI, however it's still unknown whether or not they are affected too.
 
 ## Android One
 
@@ -90,3 +89,4 @@ Authored by [melontini](https://github.com/melontini).
 [community-app-cap]:https://xdaforums.com/t/application-quota-limit-reached.4695764/
 [updated-policies]:https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/
 [other requirements]:https://xiaomitime.com/xiaomi-restricts-bootloader-unlocking-with-new-180-day-rule-23160/
+[aqlr]:https://xdaforums.com/t/how-to-unlock-bootloader-on-xiaomi-hyperos-all-devices-except-cn.4654009/post-89311595
