@@ -56,6 +56,8 @@ The following manufacturers have made it completely impossible to unlock their d
 
 ### [Meizu](./brands/meizu/README.md)
 
+### [Panasonic](./brands/panasonic/README.md)
+
 ### [Samsung](./brands/samsung/README.md)
 
 ### [Sharp](./brands/sharp/README.md)
