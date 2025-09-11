@@ -36,6 +36,8 @@ If you know of specific details/unlocking methods, please PR them or drop them i
 
 The following manufacturers have made it completely impossible to unlock their devices without a workaround.
 
+### [Alcatel](./brands/alcatel/README.md)
+
 ### [Amazon](./brands/amazon/README.md)
 
 ### [Apple](./brands/apple/README.md)
