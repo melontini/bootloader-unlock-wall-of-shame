@@ -16,7 +16,7 @@ Unisoc devices will never be unlockable, this is *not* Xiaomi's fault, Unisoc do
 > [!NOTE]
 > The specifics of what can and cannot be done change over time and different sources claim different things depending on the time period.
 
-Currently it is near impossible to unlock Xiaomi phones of the china region, especially if you are outside China and imported the phone. If you have a Chinese account you have to verify with Chinese ID, Get to community level 5 and also pass a basically impossible exam. [github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire][Xiaomi BootLoader Questionnaire Questions]
+Currently it is near impossible to unlock Xiaomi phones of the china region, especially if you are outside China and imported the phone. If you have a Chinese account you have to verify with Chinese ID, Get to community level 5 and also pass a basically impossible exam. [Xiaomi BootLoader Questionnaire Questions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire)
 
 - [This source][bootloader-unlock-block-mainland-china] claims that the final day one could use the provided form to request an unlock was September 9, 2024. It also has an update, it seems that Xiaomi is suggesting inside the Community App that they will bring back the service in 2025, but it wouldn't be the first time a company lied about this.
 - In various forum posts [like this one][bootloader-unlock-block-mainland-china-alt] it is mentioned that a china region phone can only be unlocked if one is situated in China and has a level 5 Xiaomi account, or pays for the service in the hopes that a technician can unlock it.
