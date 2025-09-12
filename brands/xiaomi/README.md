@@ -11,16 +11,69 @@ Look here if you want to learn about how Ximi's bootloader works: [Xiaomi-bootlo
 
 Unisoc devices will never be unlockable, this is *not* Xiaomi's fault, Unisoc does not allow unlocking.
 
-### China
+# China
+**Note**
 
-> [!NOTE]
-> The specifics of what can and cannot be done change over time and different sources claim different things depending on the time period.
+The specifics of what can and cannot be done change over time, and different sources may claim different things depending on the time period.
 
-It is currently extremely difficult to unlock Xiaomi phones (Hyper OS 2) from the China region, especially if the device was imported and you are outside of China. To even begin the process, a Chinese account is required, which must be verified with a Chinese ID. In addition, the account must reach Community Level 5,  pass a notoriously difficult exam and also obey all Xiaomi bootloader unlock rules like device change/ip change/account change. Even after passing the exam, the request still undergoes a review process. Based on recent reports, no applicants have successfully passed the exam or review this year. For Chinese Devices the Miui bootloader unlock server has been shut down meaning you have to go the community unlock route. But for Hyper OS 1 device you might be able to unlock with Bootloader Bypass but your device and account might be banned by Xiaomi. Some user have found a way by going to Xiaomi store and request to lower system verson and when the worker unlocked the BL to flash in the system you can snatch the phone from them(Not recommended).[Xiaomi BootLoader Questionnaire Questions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire)
+---
 
-- [This source][bootloader-unlock-block-mainland-china] claims that the final day one could use the provided form to request an unlock was September 9, 2024. It also has an update, it seems that Xiaomi is suggesting inside the Community App that they will bring back the service in 2025, but it wouldn't be the first time a company lied about this.
-- In various forum posts [like this one][bootloader-unlock-block-mainland-china-alt] it is mentioned that a china region phone can only be unlocked if one is situated in China and has a level 5 Xiaomi account, or pays for the service in the hopes that a technician can unlock it.
-- As of february 6th there are [other requirements], like 180 days without bans or warnings on the account and no recent sensitive changes to the account, also the unlock should be done on the same device and with no ip changes. Also seems that users will have to unlock when they can and in time or won't have the possibility to unlock anymore.
+## Devices running HyperOS 2 (China region)
+
+It is currently **extremely difficult** to unlock Xiaomi phones from the China region, especially if the device was imported and you are outside China.
+
+To even begin the process, you need:
+
+- A Chinese Mi Account verified with a **Chinese ID**  
+- The account at **Community Level 5**  
+- Passing a **notoriously difficult exam** inside the Community App  
+- Compliance with Xiaomi’s strict rules (no recent device/account/IP changes, no recent bans or warnings, etc.)
+
+Even after completing all of the above, the request undergoes an additional **review process**.  
+Recent reports suggest that **no applicants have successfully passed the exam or review this year**.
+
+### Additional Restrictions
+- For Chinese devices, the **MIUI bootloader unlock server has been shut down** → you must go through the **Community App unlock route**.  
+- Reports as of **February 6th** mention further requirements:
+  - 180 days with no bans or warnings on the account  
+  - No recent sensitive account changes  
+  - Unlock must be done on the same device  
+  - No IP changes  
+  - Unlock must be completed within the allowed window, otherwise it may become permanently unavailable  
+
+### Workarounds (use at your own risk)
+- **Bootloader Bypass tools**  
+  - [Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) – Original PoC (PHP, cumbersome to set up)  
+  - **AQLR** – Script-based, requires running at **00:00 China time** on PC  
+  - **HyperSploit** – User-friendly program, patched as of **HyperOS 2.0.203.0**, works only on older builds  
+- These tools try to automate the Community App request step so you can continue the 7-day waiting process and then unlock with Xiaomi’s official tool.  
+- ⚠️ **Risks**: Using bypasses may get your device or account banned by Xiaomi.  
+
+### Other reports
+- Some users claim that visiting a Xiaomi store and asking a technician to downgrade the system version results in a temporary unlocked state. A few reported flashing their own system during this process — **not recommended** due to high risk and ethical concerns.  
+
+---
+
+## Devices running HyperOS 1
+- Some may still be unlockable using bypass tools.  
+- However, success is not guaranteed and bans are possible.  
+
+---
+
+## Devices running MIUI 14 and below
+- These devices generally still support the **“classic” unlock process** (Mi Account login → Developer Options request → wait ~7 days → Mi Unlock tool), without requiring the Community App exam.  
+
+---
+
+## Timeline & Reports
+- The last official day to submit unlock requests via the old form was reportedly **September 9, 2024**.  
+- Xiaomi has hinted in the Community App that the service *may return in 2025*, but similar promises have not been fulfilled in the past.  
+- Multiple forum posts suggest that **only users physically located in China, with Level 5 accounts, and valid Chinese ID can currently unlock**. Others sometimes resort to paid third-party services, though results vary.  
+
+---
+
+📖 **Further Reading:**  
+- [Xiaomi BootLoader Questionnaire Questions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) – community-collected notes and exam details.  
 
 ### Global
 
