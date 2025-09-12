@@ -16,7 +16,7 @@ Unisoc devices will never be unlockable, this is *not* Xiaomi's fault, Unisoc do
 
 The specifics of what can and cannot be done change over time, and different sources may claim different things depending on the time period.
 
----
+
 
 ### Devices running HyperOS 2 (China region)
 
