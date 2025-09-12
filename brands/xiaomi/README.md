@@ -18,7 +18,7 @@ The specifics of what can and cannot be done change over time, and different sou
 
 ---
 
-## Devices running HyperOS 2 (China region)
+### Devices running HyperOS 2 (China region)
 
 It is currently **extremely difficult** to unlock Xiaomi phones from the China region, especially if the device was imported and you are outside China.
 
@@ -54,18 +54,18 @@ Recent reports suggest that **no applicants have successfully passed the exam or
 
 ---
 
-## Devices running HyperOS 1
+### Devices running HyperOS 1
 - Some may still be unlockable using bypass tools.  
 - However, success is not guaranteed and bans are possible.  
 
 ---
 
-## Devices running MIUI 14 and below
+### Devices running MIUI 14 and below
 - These devices generally still support the **“classic” unlock process** (Mi Account login → Developer Options request → wait ~7 days → Mi Unlock tool), without requiring the Community App exam.  
 
 ---
 
-## Timeline & Reports
+### Timeline & Reports
 - The last official day to submit unlock requests via the old form was reportedly **September 9, 2024**.  
 - Xiaomi has hinted in the Community App that the service *may return in 2025*, but similar promises have not been fulfilled in the past.  
 - Multiple forum posts suggest that **only users physically located in China, with Level 5 accounts, and valid Chinese ID can currently unlock**. Others sometimes resort to paid third-party services, though results vary.  
