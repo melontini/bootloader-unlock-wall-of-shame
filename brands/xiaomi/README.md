@@ -121,6 +121,11 @@ The only thing you need to do is use Xiaomi's official unlck tool after 7 days.
 You should be able to use the "normal" unlock process by itself, wihtout the community app BS
 (the one descibed in the "good old MIUI days" section above).
 
+## Workarounds
+On some old Devices 9008 or MTK client might be able be unlock.
+Xiaomikey could also work on some devices.
+
+
 ## Android One
 
 * [**🔓️ Unlock Guide**](../../misc/generic-unlock.md)
