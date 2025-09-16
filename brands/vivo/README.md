@@ -14,7 +14,7 @@ On pre-May 2022 firmware. I believe these methods *were* ~universal, but proceed
 There is also a chance that your device is vulnerable to one of the MTK or Unisoc [exploits](../../README.md#universal-soc-based-methods).
 
 ## Magisk
-Vivo devices have kernel-level patches to block the `su` binary, so to use Magisk you should flash this modified version with `suu`.
+Vivo devices have kernel-level patches to block the `su` binary, so to use Magisk you should flash this modified version with `suu`. This only applies on devices which run Funtouch, for devices which run OriginOS (mainly their Chinese market devices), while the bootloader is still not unlockable, `su` is not blocked.
 - [Magisk][patched-magisk]
 - [Magisk Delta][patched-magisk-delta]
 
