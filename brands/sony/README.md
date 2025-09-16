@@ -2,6 +2,8 @@
 
 - Verdict: **⚠️ Proceed with caution!**
 
+- Verdict: **🍅 Terrible!** (Japan variants only)
+
 Sony has an open policy for software developers:
 - They are releasing AOSP sources under [Sony Open Devices Program].
 - Jolla provides first-class support for installing [Sailfish OS] on select Xperias.
@@ -22,8 +24,10 @@ For devices made [before 2019][TA patch 2019], Sony devices have a partition cal
 
 Sony supports [Custom AVB](../../README.md#custom-avb-keys) Since 2020.
 
-***
+You also can't unlock Japan variants. For some reason.
 
+***
+Info about Japan devices provided by [madeline-yana](https://github.com/madeline-yana)
 Additional info provided by [K4sum1](https://github.com/K4sum1).<br/>
 Authored by [konradmb](https://github.com/konradmb).
 
