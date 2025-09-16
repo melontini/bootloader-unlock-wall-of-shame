@@ -28,4 +28,6 @@ All devices sold in Canada after December 1, 2017 are sold unlocked, and any dev
 ## Japan
 If you buy a Sony or Sharp phone used, high chance it's going to be locked to a Japanese carrier as that's just where Sony and Sharp are popular.
 
-### [NTT Docomo](./brands/nttdocomo/README.md)
+### [NTT Docomo/b-mobile/IIJMIO/DMM](./brands/nttdocomo/README.md)
+
+### [SoftBank/y!mobile](./brands/softbank/README.md)
