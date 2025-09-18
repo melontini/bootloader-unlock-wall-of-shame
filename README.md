@@ -93,7 +93,7 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [Motorola/Lenovo/NEC](./brands/motorola/README.md)
 
-### [OPPO/Realme](./brands/oppo/README.md)
+### [OPPO/Realme/Oneplus](./brands/oppo/README.md)
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 
