@@ -111,8 +111,6 @@ The following manufacturers require an online account and/or a waiting period be
 
 ### [itel](./brands/itel/README.md)
 
-### [OnePlus](./brands/oneplus/README.md)
-
 ### [Sony](./brands/sony/README.md)
 
 ### [Tecno](./brands/tecno/README.md)
