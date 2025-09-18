@@ -93,7 +93,7 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [Motorola/Lenovo/NEC](./brands/motorola/README.md)
 
-### [OPPO/Realme](./brands/oppo/README.md)
+### [OPPO/Realme/Oneplus](./brands/oppo/README.md)
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 
@@ -110,8 +110,6 @@ The following manufacturers require an online account and/or a waiting period be
 ### [Infinix](./brands/infinix/README.md)
 
 ### [itel](./brands/itel/README.md)
-
-### [OnePlus](./brands/oneplus/README.md)
 
 ### [Sony](./brands/sony/README.md)
 
