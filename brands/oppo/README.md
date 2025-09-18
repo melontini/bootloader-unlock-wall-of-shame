@@ -29,6 +29,10 @@ Since then, they have forced their servers to only return "new struct" keys, whi
 
 There's not much to say about OPPO. They provide Deep Testing too, but only for Chinese models.
 
+## Oneplus
+
+Oneplus is also basically the same also using deep testing after a policy update.
+
 ## Deep Testing
 
 Deep Testing is the application used to request the fastboot key. Internally, it writes the key to the (oplus/oppo)reserve1 partition, which is later read by fastboot. Realme and Oppo have different versions of Deep Testing, but the apps are almost identical in function.
