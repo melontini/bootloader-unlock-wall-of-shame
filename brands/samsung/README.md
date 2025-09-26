@@ -9,9 +9,11 @@ Until recently, international Samsung devices (e.g. ones sold in Europe or Asia)
 
 Snapdragon phones prior to the S7/Note7 (2016) can be unlocked regardless of region, as long as it's not locked to a carrier like AT&T or Verizon. The Canadian S7 can also be unlocked as it uses an Exynos SoC, despite Canada normally being a Snapdragon region.
 
-Be aware that unlocking a Samsung device will permanently trip Knox. As a result, many Knox-based features will be broken. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Furthermore, tripping Knox may serve as grounds for voiding your warranty.
+**Be aware that unlocking a Samsung device will permanently trip Knox.** As a result, many Knox-based features will be broken. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Furthermore, tripping Knox may serve as grounds for voiding your warranty.
 
-In the past, there have been hardware issues caused by unlocking the boatloader, but these have been fixed for some regions. See [here][1] and [here][2]. As of late 2023, Korean Galaxy Fold3 running OneUI 5 still got camera disabled after unlocking, while EU/CN variants had fixed the issue. As of September 2025, Galaxy Z Fold 5 also has a camera issue after unlocking the bootloader. After analyzing it, we found out it is a "Security Mechanism" to prevent the user from "taking photos" once they unlock the bootloader by providing a "black screen" in the viewfinder. (Fixable by re-locking the bootloader)
+There have been hardware issues caused by unlocking the bootloader, but these have been fixed for some regions. See [here][1] and [here][2]. As of late 2023, Korean Galaxy Fold3 running OneUI 5 still got camera disabled after unlocking, while EU/CN variants had fixed the issue.
+
+As of September 2025, Galaxy Z Fold 5 also has a camera issue after unlocking the bootloader. After analyzing it, we found out it is a "Security Mechanism" to prevent the user from "taking photos" once they unlock the bootloader by providing a "black screen" in the viewfinder. (Fixable by re-locking the bootloader)
 
 ---
 
@@ -33,9 +35,9 @@ After intense analysis by ~5 experienced members of the Helio G99 and Dimensity 
 
 After patching the necessary libs in the vendor, we thought it was over until we found out 5G still wasn't working and discovered that a similar but different function is baked into the modem firmware itself by analyzing the contents of the `md1img` partition. This firmware check differs from the libsec-ril's function and isn't patchable by a third party.
 
-The only fix is to be aware of this issue and not unlock the bootloader and trip Knox in the first place if you don't like these consequences. You have to sacrifice something to root these 2 device types.
+> The only fix is to be aware of this issue and not unlock the bootloader and trip Knox in the first place if you don't like these consequences. You have to sacrifice something to root these 2 device types.
 
-**Regarding the unfixable bootloop issue**, it literally feels like a hard brick. The only thing that works is the display turning on. No matter what you do, even after flashing the stock ROM and re-locking the bootloader, this issue remains unfixable.
+**🔴 Regarding the unfixable bootloop issue**, it literally feels like a hard brick. The only thing that works is the display turning on. No matter what you do, even after flashing the stock ROM and re-locking the bootloader, this issue remains unfixable.
 
 This was a serious issue in the initial firmware of the Dimensity 6100+ and 6300 devices and was **fixed by later firmware updates.**
 
