@@ -41,7 +41,7 @@ After patching the necessary libs in the vendor, we thought it was over until we
 
 This was a serious issue in the initial firmware of the Dimensity 6100+ and 6300 devices and was **fixed by later firmware updates.**
 
-If you want to unlock the bootloader, first update your phone to any firmware released with the January/April/July security patch.
+If you want to unlock the bootloader, first update your phone to any firmware released with the 2025 January/April/July security patch.
 
 **Symptoms:**
 1. User can unlock the bootloader without any issues and the phone boots normally.
