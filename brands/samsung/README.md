@@ -15,7 +15,7 @@ In the past, there have been hardware issues caused by unlocking the boatloader,
 
 ---
 
-As of September 2025, all budget phones that have **Helio G99**, **Dimensity 6100+**, and **Dimensity 6300** have serious connectivity issues after unlocking the bootloader and flashing a custom binary which "trips Knox".
+As of September 2025, all budget phones that have **Helio G99**, **Dimensity 6100+**, and **Dimensity 6300** have **serious connectivity and unfixable bootloop issues** after unlocking the bootloader and flashing a custom binary which "trips Knox".
 
 **Example Devices Affected:**
 - **Helio G99:** Galaxy A15 4G, A16 4G, etc.
@@ -34,6 +34,24 @@ After intense analysis by ~5 experienced members of the Helio G99 and Dimensity 
 After patching the necessary libs in the vendor, we thought it was over until we found out 5G still wasn't working and discovered that a similar but different function is baked into the modem firmware itself by analyzing the contents of the `md1img` partition. This firmware check differs from the libsec-ril's function and isn't patchable by a third party.
 
 The only fix is to be aware of this issue and not unlock the bootloader and trip Knox in the first place if you don't like these consequences. You have to sacrifice something to root these 2 device types.
+
+**Regarding the unfixable bootloop issue**, it literally feels like a hard brick. The only thing that works is the display turning on. No matter what you do, even after flashing the stock ROM and re-locking the bootloader, this issue remains unfixable.
+
+This was a serious issue in the initial firmware of the Dimensity 6100+ and 6300 devices and was **fixed by later firmware updates.**
+
+If you want to unlock the bootloader, first update your phone to any firmware released with the January/April/July security patch.
+
+**Symptoms:**
+1. User can unlock the bootloader without any issues and the phone boots normally.
+2. When they attempt to flash an unsigned binary (such as a custom kernel or Magisk-patched AP/boot image), the boot process instantly crashes after the splash screen (first Samsung Galaxy logo).
+   - What it looks like: A grey fuzzy screen with vertical blue/yellow lines appears when the crash occurs.
+3. This issue is unfixable even after reverting the changes, and **you cannot access Android recovery - only download mode remains accessible.**
+
+**There is nothing to worry about regarding this issue if your phone firmware is already updated.**
+
+**Sources:**
+- As the [writer of this section](https://github.com/ravindu644) of this documentation, I personally experienced this issue and lost $200. I have video proof but will not provide Telegram links here. You can find them in the Galaxy A16 Community if interested.
+- [XDA Forum post regarding this exact issue](https://xdaforums.com/t/bootloop-without-access-to-recovery-need-insights-a156e-dsn.4707443/)
 
 ---
 
