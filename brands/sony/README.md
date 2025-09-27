@@ -19,6 +19,7 @@ Additonally, only Xperia (Sony's main consumer phone/tablet line) is unlockable.
 2. Tap "Service Info", then "Configuration", then "Rooting Status".
 3. Under Rooting Status look for "Bootloader unlock allowed"
 4. If "Yes", then the device is unlockable.
+(This website cannot work properly with Firefox and some privacy addon, the use of a fresh Chromium browser without any addon can be one solution)
 
 For devices made [before 2019][TA patch 2019], Sony devices have a partition called `TA`, which contains files needed for things such as enhanced camera image processing, DRM keys, and display enhancements. Upon unlocking the bootloader, this partition is wiped and these features are lost, even on re-locking. If running Android Marshmallow or earlier, you can [back up][TA backup] the partition. 
 
