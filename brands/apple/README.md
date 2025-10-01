@@ -4,7 +4,7 @@
 
 This one is probably expected. No iPhone, iPad, iPod Touch or Apple TV model has had an unlockable bootloader. 
 
-As expected, Apple does not allow bootloader unlocking, and never has. Most Apple dives also have an aggressive anti-rollback system, stopping you from downgrading to an older iOS version for jailbreaking purposes.
+As expected, Apple does not allow bootloader unlocking, and never has. Most Apple devices also have an aggressive anti-rollback system, stopping you from downgrading to an older iOS version for jailbreaking purposes.
 
 ## Firmware signing
 Apple has a server called "Tatsu Signing Server", typically shortened to TSS. When you try to install firmware on an Apple device, iTunes or Finder will send several things to TSS so it can generate a signed SHSH blob to allow the restore, the following being
