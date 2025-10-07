@@ -1,8 +1,8 @@
 # Sony
 
-- Verdict: **⚠️ Proceed with caution!**
+- Verdict: **⚠️ Proceed with caution!** (international Xperia)
 
-- Verdict: **🍅 Terrible!** (Japan variants only)
+- Verdict: **🍅 Terrible!** (Japan Xperias, non-Xperia devices)
 
 Sony has an open policy for software developers:
 - They are releasing AOSP sources under [Sony Open Devices Program].
@@ -13,7 +13,7 @@ Since Sony likes to ruin a perfect thing:
 
 Some carrier locked and US devices can never be unlocked. On Sony devices ([but not all?][service-menu-gone]) you can check if the bootloader is unlockable using the service menu.
 
-Additonally, only Xperia (Sony's main consumer phone/tablet line) is unlockable. Their other Android devices (such as their TVs) are not unlockable.
+Additonally, only Xperia (Sony's main consumer phone/tablet line) is unlockable. Their other Android devices (such as their [Bravia TVs][Bravia unlock]) are not unlockable.
 
 1. Dial `*#*#7378423#*#*` in the dialer.
 2. Tap "Service Info", then "Configuration", then "Rooting Status".
@@ -37,3 +37,4 @@ Authored by [konradmb](https://github.com/konradmb).
 [service-menu-gone]:https://www.reddit.com/r/SonyXperia/comments/qir0ze/what_happened_to_the_service_menu/
 [TA patch 2019]:https://www.reddit.com/r/SonyXperia/comments/1199y1j/what_are_the_consequences_of_getting_rid_off_the/
 [TA backup]:https://together.jolla.com/question/168711/xperia-x-backup-ta-partition-before-unlocking-bootloader/
+[Bravia unlock]:https://pro-bravia.sony.net/data/bz40h/ProBRAVIA_SecurityWhitePaper.pdf
