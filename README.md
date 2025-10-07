@@ -97,6 +97,8 @@ The following manufacturers allow unlocking under certain conditions, such as re
 
 ### [Xiaomi/Redmi/POCO](./brands/xiaomi/README.md)
 
+### [ZTE/nubia](./brands/zte/README.md)
+
 ## ⚠️ Proceed with caution!
 
 The following manufacturers require an online account and/or a waiting period before unlocking.
@@ -114,8 +116,6 @@ The following manufacturers require an online account and/or a waiting period be
 ### [Sony](./brands/sony/README.md)
 
 ### [Tecno](./brands/tecno/README.md)
-
-### [ZTE/nubia](./brands/zte/README.md)
 
 ## ℹ️ "Safe for now" :trollface: 
 
