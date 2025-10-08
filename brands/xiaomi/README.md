@@ -113,7 +113,7 @@ As such, for as long as the option is available, you'll skip this community BS a
 * ~~[HyperSploit][hypersploit] is the newer option. This is a simple to use program with no external dependencies.~~ Confirmed as patched as of HyperOS version 2.0.203.0. Still works on old versions.
 * ~~[Xiaomi-HyperOS-BootLoader-Bypass][xiaomi-hyperos-bootLoader-bypass] is the original proof of concept, but it's written in PHP and it's cumbersome to set up.~~ Same as above.
 
-This will (for now) allow you to continue with the last of the **bad old MIUI days** steps, where you wait for 3 days and can then unlock your phone successfully.
+This will (for now) allow you to continue with the last of the **bad old MIUI days** steps, where you wait for 3 (used to be 7) days and can then unlock your phone successfully.
 Do NOT make a new request by pressing the button in the Settings app as that will undo you bypass (hypersploit, MiUnlockTool and Mi Unlock also mention this to you). The tool will make the needed request itself.
 The only thing you need to do is use Xiaomi's [official Mi Unlock][MiUnlock] or [offici5l][offici5l]'s [Python script][py-MiUnlockTool] after 3 days.
 
