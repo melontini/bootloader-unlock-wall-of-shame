@@ -120,6 +120,9 @@ The 4th clause of the agreement states:
 
 This clause attempts to prohibit the user from selling, leasing, or otherwise transferring their own device after unlocking the bootloader. Such a restriction directly conflicts with established legal principles safeguarding ownership rights, namely the [First-Sale Doctrine][First-Sale Doctrine] and the [Exhaustion Doctrine][Exhaustion Doctrine], which grant the owner the right to resell or dispose of property they have lawfully acquired. While the legal validity of this clause is highly questionable and likely unenforceable, its inclusion in the agreement is still a point of concern.
 
+Motorola also gives a slight death threat on the bootloader unlock site. I wish I was joking. Exact quote from Motorola:
+> WARNING: MOTOROLA STRONGLY RECOMMENDS AGAINST UNLOCKING THE BOOTLOADER AND/OR MODIFYING OR ALTERING A DEVICE'S SOFTWARE OR OPERATING SYSTEM. DOING SO CAN HAVE UNINTENDED, UNFORESEEN, AND DANGEROUS CONSEQUENCES, SUCH AS RENDERING THE DEVICE UNUSABLE, VIOLATING APPLICABLE LAWS, OR CAUSING PROPERTY DAMAGE **AND/OR BODILY INJURY, INCLUDING DEATH**.
+
 ***
 Additional info provided by [Ivy / Lost-Entrepreneur439](https://github.com/Lost-Entrepreneur439).<br/>
 CID info provided by [FPSensor](https://github.com/FPSensor).<br/>
