@@ -90,14 +90,14 @@ Secondly: One might remember how, in order to unlock the device back in the good
 
 * Ensure a Xiaomi account was logged in on the device in the Settings app
 * Go to Developer Options > Mi Unlock Status and press the button to request your device to be unlocked in the Xiaomi servers
-* Then after 7 days you can use the official Mi Unlock tool which will check those servers to see if a request has been made for that specific device and allow you to unlock it.
+* Then after 3 days you can use the [official Mi Unlock][MiUnlock] for Windows or [offici5l][offici5l]'s Python [MiUnlockTool][py-MiUnlockTool] which will check those servers to see if a request has been made for that specific device and allow you to unlock it.
 
 Not straightforward or fast, but doable.
 WELL:
 
 With HyperOS Xiaomi essentially makes the second stop more compilated.
 
-That is, you can only make the request for unlocking the device inside Developer Options, ONLY AFTER you have made another SEPARATE successful request inside the Xiaomi Community App, which will then allow you to make the ACTUAL first request you wanted inside the Developer Settings ([yo dawg...][yo-dawg-meme])
+That is, you can only make the request for unlocking the device inside Developer Options, ONLY AFTER you have made another SEPARATE successful request inside the Xiaomi Community App, which will then allow you to make the ACTUAL first request you wanted inside the Developer Settings (![yo dawg…][yo-dawg-meme])
 
 If [xiaomiui.net][global-requirements] is to be believed, the requirements for the Community App request are as follows:
 * Your Mi Account has been active for more than 30 days.
@@ -108,18 +108,19 @@ And it gets even better! As people have found it the hard way [in the xda forums
 
 As such, for as long as the option is available, you'll skip this community BS and use the bypass methods:
 
-* [AQLR][aqlr] The current bypass method, though you need to have your computer running at 00:00 Chinese time. (The script is in AQLR.zip at the end of the post.)
+* [AQLR][aqlr] The current bypass method, though you need to have your computer running at 00:00 Chinese ([GMT+8][gmt+8]) time. (The script is in AQLR.zip at the end of the post.)
+  * At the very end, [offici5l][offici5l]'s Python [MiUnlockTool][py-MiUnlockTool] can be used instead of the official Windows only [Mi Unlock][MiUnlock].
 * ~~[HyperSploit][hypersploit] is the newer option. This is a simple to use program with no external dependencies.~~ Confirmed as patched as of HyperOS version 2.0.203.0. Still works on old versions.
 * ~~[Xiaomi-HyperOS-BootLoader-Bypass][xiaomi-hyperos-bootLoader-bypass] is the original proof of concept, but it's written in PHP and it's cumbersome to set up.~~ Same as above.
 
-These will both (for now) allow you to continue with the last of the good old steps, where you wait for 7 days and can then unlock your phone successfully.
-Do NOT make a new request by pressing the button in the Settings app as that will undo you bypass (hypersploit also mentions this to you). The tool will make the needed request itself.
-The only thing you need to do is use Xiaomi's official unlck tool after 7 days.
+This will (for now) allow you to continue with the last of the **bad old MIUI days** steps, where you wait for 3 (used to be 7) days and can then unlock your phone successfully.
+Do NOT make a new request by pressing the button in the Settings app as that will undo you bypass (hypersploit, MiUnlockTool and Mi Unlock also mention this to you). The tool will make the needed request itself.
+The only thing you need to do is use Xiaomi's [official Mi Unlock][MiUnlock] or [offici5l][offici5l]'s [Python script][py-MiUnlockTool] after 3 days.
 
 ### Devices running MIUI 14 and below
 
 You should be able to use the "normal" unlock process by itself, wihtout the community app BS
-(the one descibed in the "good old MIUI days" section above).
+(the one descibed in the "bad old MIUI days" section above).
 
 ## Workarounds
 On some old Devices 9008 or MTK client might be able be unlock.
@@ -133,18 +134,22 @@ Xiaomikey could also work on some devices.
 Devices shipping with Android One do NOT have any unlock requirements. They follow the standard Android unlock process.
 
 ***
-Updated info provided by [n1ses](https://github.com/n1ses).<br/>
+Updated info provided by [n1ses](https://github.com/n1ses) & [Crimson Fork/🌌🏳️‍⚧️&ΘΔ](https://cf.spaceport.nexus)<br/>
 Authored by [melontini](https://github.com/melontini).
 
 [hypersploit]:https://github.com/TheAirBlow/HyperSploit
 [xiaomi-hyperos-bootLoader-bypass]:https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass
-[bootloader-unlock-block-mainland-china]:https://xiaomitime.com/bootloader-unlocking-comes-to-an-end-with-xiaomi-hyperos-2-0-12926/
+[bootloader-unlock-block-mainland-china]:https://xiaomitime.com/bootloader-unlocking-comes-to-an-end-with-xiaomi-hyperos-2-0-12926
 [bootloader-unlock-block-mainland-china-alt]:https://xiaomi.eu/community/threads/right-now-is-there-any-way-to-unlock-the-bootloader-on-chinese-versions-of-xiaomi-devices.73029/#post-726609
 [bootloader-unlock-block-global]:https://x.com/chunvn8888/status/1841901853073953254
-[global-requirements]:https://xiaomiui.net/how-unlock-bootloader-xiaomi-hyperos-53493/
+[global-requirements]:https://xiaomiui.net/how-unlock-bootloader-xiaomi-hyperos-53493
 [Xiaomi-bootloader]:https://github.com/lrh2000/Xiaomi-bootloader
-[yo-dawg-meme]:https://knowyourmeme.com/memes/xzibit-yo-dawg
-[community-app-cap]:https://xdaforums.com/t/application-quota-limit-reached.4695764/
-[updated-policies]:https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/
-[other requirements]:https://xiaomitime.com/xiaomi-restricts-bootloader-unlocking-with-new-180-day-rule-23160/
+[yo-dawg-meme]:https://i.kym-cdn.com/photos/images/small/000/001/122/xzibit-happy.jpg "I heard you liked unlock requests…"
+[community-app-cap]:https://xdaforums.com/t/application-quota-limit-reached.4695764
+[updated-policies]:https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295
+[other requirements]:https://xiaomitime.com/xiaomi-restricts-bootloader-unlocking-with-new-180-day-rule-23160
 [aqlr]:https://xdaforums.com/t/how-to-unlock-bootloader-on-xiaomi-hyperos-all-devices-except-cn.4654009/post-89311595
+[gmt+8]:https://time.is/GMT%208
+[offici5l]:https://offici5l.github.io
+[py-MiUnlockTool]:https://github.com/offici5l/MiUnlockTool
+[MiUnlock]:https://en.miui.com/unlock/download_en.html
