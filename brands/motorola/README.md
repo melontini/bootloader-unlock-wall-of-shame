@@ -39,7 +39,7 @@ So how do you know if your device is unlockable? Well...
 * There's also an unofficial way with CID to check if your device can be unlocked, check here: [xdaforums.com][CID check]
 * Generally, devices from the g3x series and higher can be unlocked, while G2x and lower (including E devices) cannot be unlocked *officially*.
 
-Once your bootloader is unlocked, Motorola does not allow you to relock, attempting to re-lock will [brick your device][brick on relock]
+Once your bootloader is unlocked, on some devices, Motorola will not allow you to relock, attempting to re-lock will [brick your device][brick on relock], however this [doesn't seem to affect][fogo no relock brick] all devices.
 
 Furthermore, on Motorola CID devices a valid **cid** partition needs to be present in the device to be unlocked or even to be able to boot normally. The unlock data is in fact contained in that partition, and cannot be haltered without getting cid `0xDEAD`.
 In case of a corrupted cid partition, you'll need to bring your device for *cid provisioning*, where the cid data is regenerated and signed.
@@ -146,5 +146,6 @@ Authored by [melontini](https://github.com/melontini).
 [this spreadsheet]:https://storage.googleapis.com/play_public/supported_devices.html
 [ZUI website]:https://www.zui.com/iunlock
 [unofficial unlock portal]:https://lenovobl.neko.ink/
+[fogo no relock brick]:https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/issues/170
 [Z5s unlock]:https://cakestwix.github.io/ViteLenovoZ5s/guides/unlock.html
 [brick on relock]:https://xdaforums.com/t/motorola-xt2129-2-moto-g30-invalid-operating-system-after-relocking-bootloader.4751096/
