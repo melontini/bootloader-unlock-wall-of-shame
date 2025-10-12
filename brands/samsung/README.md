@@ -25,7 +25,16 @@ As of October 2025, all budget phones that have **Helio G99**, **Dimensity 6100+
 
 **If your device has Helio G99 or Dimensity 6100+/6300, you are a victim too!**
 
-As a result, in the Helio G99 models, the **entire modem** will crash every 6 hours, causing your SIM cards to be disabled and showing a temporary NULL IMEI in the settings. The only fix as of now is restarting the phone or using "third-party" Magisk modules to restart the `ril-daemon` before the modem crash occurs every 6 hours. This remains unfixable even after re-locking the bootloader.
+As a result, in the Helio G99 models, the **entire modem** will crash every 6 hours, causing your SIM cards to be disabled and showing a temporary NULL IMEI in the settings.
+
+<details>
+<summary>Click to expand image</summary>
+
+![G99 Modem Issue](resources/G99_modem_issue.jpg)
+
+</details>
+
+The only fix as of now is restarting the phone or using "third-party" Magisk modules to restart the `ril-daemon` before the modem crash occurs every 6 hours. This remains unfixable even after re-locking the bootloader.
 
    - Once the modem crashes after 6 hours, **there's no way to get it up and running again**. We even tried cutting off power to the modem using a kernel-level hack, but it didn’t fix the issue either.
    - The only solutions are restarting the phone or using the Magisk module to restart the `ril-daemon` before the modem crash occurs every 6 hours.
