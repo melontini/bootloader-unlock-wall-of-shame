@@ -34,7 +34,7 @@ As a result, in the Helio G99 models, the **entire modem** will crash every 6 ho
 
 </details>
 
-Once the modem crashes after 6 hours, **there's no way to get it up and running again**. We even tried cutting off power to the modem using a kernel-level hack, but it didn’t fix the issue either.
+Once the modem crashes after 6 hours, **there's no way to get it up and running again**. We even tried cutting off power to the modem and giving it back using a kernel-level hack, but it didn’t fix the issue either.
 
 The only solutions are restarting the phone or using "third-party" Magisk module to restart the `ril-daemon` before the modem crash occurs every 6 hours.
 
