@@ -17,7 +17,7 @@ As of September 2025, Galaxy Z Fold 5 also has a camera issue after unlocking th
 
 ---
 
-As of October 2025, all budget phones that have **Helio G99**, **Dimensity 6100+**, and **Dimensity 6300** have **serious connectivity and unfixable bootloop issues** after unlocking the bootloader and flashing a custom binary which "trips Knox".
+🔶 As of October 2025, all budget phones that have **Helio G99**, **Dimensity 6100+**, and **Dimensity 6300** have **serious connectivity and unfixable bootloop issues** after unlocking the bootloader and flashing a custom binary which "trips Knox".
 
 **Example Devices Affected:**
 - **Helio G99:** Galaxy A15 4G, A16 4G, etc.
@@ -34,12 +34,13 @@ As a result, in the Helio G99 models, the **entire modem** will crash every 6 ho
 
 </details>
 
-The only fix as of now is restarting the phone or using "third-party" Magisk modules to restart the `ril-daemon` before the modem crash occurs every 6 hours. This remains unfixable even after re-locking the bootloader.
+Once the modem crashes after 6 hours, **there's no way to get it up and running again**. We even tried cutting off power to the modem using a kernel-level hack, but it didn’t fix the issue either.
 
-   - Once the modem crashes after 6 hours, **there's no way to get it up and running again**. We even tried cutting off power to the modem using a kernel-level hack, but it didn’t fix the issue either.
-   - The only solutions are restarting the phone or using the Magisk module to restart the `ril-daemon` before the modem crash occurs every 6 hours.
+The only solutions are restarting the phone or using "third-party" Magisk module to restart the `ril-daemon` before the modem crash occurs every 6 hours.
 
-In the Dimensity 6100+/6300 models, **you will completely lose 5G connectivity permanently**, and this is unfixable even after re-locking the bootloader. **The modem will crash when connecting to a 5G network**, leading to high battery drain and overheating. The only fix as of now is putting your device in 4G mode.
+**This remains unfixable even after re-locking the bootloader!**
+
+🔶 In the Dimensity 6100+/6300 models, **you will completely lose 5G connectivity permanently**, and this is unfixable even after re-locking the bootloader. **The modem will crash when connecting to a 5G network**, leading to high battery drain and overheating. The only fix as of now is putting your device in 4G mode.
 
 <details>
 <summary><b>Expand to view proofs</b></summary>
