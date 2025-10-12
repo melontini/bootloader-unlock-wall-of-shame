@@ -33,30 +33,45 @@ As a result, in the Helio G99 models, the **entire modem** will crash every 6 ho
 In the Dimensity 6100+/6300 models, **you will completely lose 5G connectivity permanently**, and this is unfixable even after re-locking the bootloader. **The modem will crash when connecting to a 5G network**, leading to high battery drain and overheating. The only fix as of now is putting your device in 4G mode.
 
 <details>
-<summary><b>🍅 Expand to view proofs..!</b></summary>
+<summary><b>Expand to view proofs</b></summary>
 
 https://github.com/user-attachments/assets/dcf5c6d6-59fb-4e8c-9a1c-d44888f0a0d4
 
-</details><br>
+</details>
 
 After intense analysis by ~5 experienced members of the Helio G99 and Dimensity 6100+/6300 community, we found why this happens. It looks like Samsung implemented checks at **both the modem firmware level and software level** to check for the value of the property `ro.vendor.boot.warranty_bit`. The software check uses a function called `DoOemSetwarrantyBit` in `/vendor/lib64/libsec-ril.so`.
 
 **Why does a RIL-related HAL need to check "is Knox tripped?"**
 
-After patching the necessary libs in the vendor, we thought it was over until we found out 5G still wasn't working and discovered that a similar but different function is baked into the modem firmware itself by analyzing the contents of the `md1img` partition. This firmware check differs from the libsec-ril's function and isn't patchable by a third party.
+After patching the necessary libs in the vendor, we thought it was over until we found out 5G still wasn't working and discovered that a similar but different function is baked into the modem firmware itself by analyzing the contents of the `md1img` partition. 
+
+
+<details>
+<summary>Click to expand image</summary>
+
+![Possible kill switch ?](resources/modem_strings.png)
+
+*Possible kill switch ?*
+
+</details>
+
+**This firmware check differs from the libsec-ril's function and isn't patchable by a third party.**
 
 We even tried porting an entire vendor from another Samsung 5G device. Even though the device boots and everything is fully functional, it didn’t fix the 5G issue, which means this problem is buried deep in the firmware!
 
+> [!WARNING]
 > The only fix is to be aware of this issue and not unlock the bootloader and trip Knox in the first place if you don't like these consequences. You have to sacrifice something to root these 2 device types.
 
-**🔴 Regarding the unfixable bootloop issue**, it literally feels like a hard brick. The only thing that works is the display turning on. No matter what you do, even after flashing the stock ROM and re-locking the bootloader, this issue remains unfixable.
+---
+
+**🔴 Regarding the unfixable bootloop issue in Dimensity 6100+/6300**, it literally feels like a hard brick. The only thing that works is the display turning on. No matter what you do, even after flashing the stock ROM and re-locking the bootloader, this issue remains unfixable.
 
 <details>
-<summary><b>🍅 Expand to view proofs..!</b></summary>
+<summary><b>Expand to view proofs</b></summary>
 
 https://github.com/user-attachments/assets/5338f5fc-5b0b-4e03-a179-9092bd54d841
 
-</details><br>
+</details>
 
 This was a serious issue in the initial firmware of the Dimensity 6100+ and 6300 devices and was **fixed by later firmware updates.**
 
