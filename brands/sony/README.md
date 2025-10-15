@@ -24,10 +24,10 @@ For devices made [before 2019][TA patch 2019], Sony devices have a partition cal
 
 Sony supports [Custom AVB](../../README.md#custom-avb-keys) Since 2020.
 
-You also can't unlock Japan variants. For some reason.
+You also can't unlock Japan carrier variants, for some reason - Japanese factory unlocked is unaffected.
 
 ***
-Info about Japan devices provided by [madeline-yana](https://github.com/madeline-yana)
+Info about Japan devices provided by [madeline-yana](https://github.com/madeline-yana) and edited by [eepymeowers](https://github.com/eepymeowers)
 Additional info provided by [K4sum1](https://github.com/K4sum1).<br/>
 Authored by [konradmb](https://github.com/konradmb).
 
