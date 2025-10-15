@@ -1,4 +1,4 @@
-# Verizon/Visible
+# Verizon/Visible/Tracfone/Simple Mobile/Walmart Family Mobile
 
 - Verdict: **🍅 Terrible!**
 
