@@ -14,9 +14,11 @@ Land of the free... unless you want your phone to be free. American carriers hav
 
 ### [T-Mobile/Metro](./brands/tmobile/README.md)
 
-### [Verizon/Visible](./brands/verizon/README.md)
+### [Verizon/Visible/Tracfone/Simple Mobile/Walmart Family Mobile](./brands/verizon/README.md)
 
 ### [Spectrum](./brands/spectrum/README.md)
+
+### [Xfinity](./brands/xfinity/README.md)
 
 ## Canada
 All devices sold in Canada after December 1, 2017 are sold unlocked, and any devices sold before then legally have to be unlocked for free, thanks to [the Wireless Code](https://crtc.gc.ca/eng/archive/2017/2017-200.htm). For devices sold before then however..
